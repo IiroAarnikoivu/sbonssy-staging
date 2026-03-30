@@ -26,7 +26,9 @@ export default function LandingHeroSection({
   const router = useRouter();
   const locale = useLocale();
   const [mounted, setMounted] = useState(false);
-  const [isMobile, setIsMobile] = useState(false);
+  const [isMobile, setIsMobile] = useState(
+    typeof window !== "undefined" ? window.innerWidth < 1024 : false
+  );
 
   // Safely pick localized value from object {en, fi} or return string as-is
   const pick = (val) => {
@@ -117,8 +119,8 @@ export default function LandingHeroSection({
       // Mobile: crop to portrait, centered (g_center instead of g_auto)
       // Desktop: keep original with DPR support
       const params = isMobile
-        ? "f_auto,q_80,c_fill,g_center,ar_9:16,w_1080,dpr_auto"
-        : "f_auto,q_80,w_2400,dpr_auto";
+        ? "f_auto,q_80,c_fill,g_center,ar_9:16,w_828"
+        : "f_auto,q_80,w_1920";
       return url.replace("upload/", `upload/${params}/`);
     }
     return url;
