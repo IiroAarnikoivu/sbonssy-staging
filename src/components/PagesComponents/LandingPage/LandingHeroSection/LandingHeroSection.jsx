@@ -98,42 +98,17 @@ export default function LandingHeroSection({
   useEffect(() => {
     if (!data || data.length === 0) return;
 
-    const timingSequence = [
-      { slideIndex: 0, displayTime: 7000 }, // 7 seconds first image
-      { slideIndex: 1, displayTime: 7000 }, // 7 seconds second image
-      { slideIndex: 2, displayTime: 7000 }, // 7 seconds third image
-      { slideIndex: 0, displayTime: 7000 }, // 7 seconds back to first image (loop)
-    ];
+    const slides = [0, 1, 2];
+    let currentIndex = 0;
 
-    let currentTimingIndex = 0;
-    let timeoutId;
-
-    const scheduleNextSlide = () => {
-      const currentTiming = timingSequence[currentTimingIndex];
-
-      timeoutId = setTimeout(() => {
-        // Switch to next slide
-        if (swiperRef.current) {
-          swiperRef.current.swiper.slideTo(currentTiming.slideIndex);
-        }
-
-        // Move to next timing in sequence
-        currentTimingIndex = (currentTimingIndex + 1) % timingSequence.length;
-
-        // Schedule next transition
-        scheduleNextSlide();
-      }, currentTiming.displayTime);
-    };
-
-    // Start the timing sequence
-    scheduleNextSlide();
-
-    // Cleanup function
-    return () => {
-      if (timeoutId) {
-        clearTimeout(timeoutId);
+    const intervalId = setInterval(() => {
+      currentIndex = (currentIndex + 1) % slides.length;
+      if (swiperRef.current) {
+        swiperRef.current.swiper.slideTo(slides[currentIndex]);
       }
-    };
+    }, 7000);
+
+    return () => clearInterval(intervalId);
   }, [data]);
 
   const getOptimizedUrl = (url) => {
