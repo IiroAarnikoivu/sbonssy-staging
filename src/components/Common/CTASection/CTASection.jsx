@@ -40,8 +40,7 @@ export default function CTASection({ data, centerAlign }) {
 
   return (
     <div
-      style={{ backgroundImage: `url(${data.img.src || data.img})` }}
-      className={`relative overflow-hidden w-full h-fit bg-cover bg-center flex  after:w-screen after:h-screen after:bg-black/40 after:absolute after:top-0 after:left-0 ${
+      className={`relative overflow-hidden w-full h-fit flex after:w-screen after:h-screen after:bg-black/40 after:absolute after:top-0 after:left-0 ${
         centerAlign === "true"
           ? "justify-center items-center"
           : "justify-left items-center"
