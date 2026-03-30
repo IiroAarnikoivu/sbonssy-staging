@@ -146,28 +146,6 @@ export default function RegisterPage({ onSwitchToLogin }) {
    * Handles Google OAuth registration.
    * Redirects user to Google OAuth URL.
    */
-  const handleGoogleRegister = async () => {
-    try {
-      setError("");
-      if (!selected) {
-        setError(v("pleaseSelectRole"));
-        return;
-      }
-
-      // Call backend API to start Google OAuth
-      const response = await api.post("/auth/google/register", {
-        role: selected,
-      });
-      // Redirect to Google OAuth URL provided by backend
-      window.location.href = response?.data?.url;
-    } catch (error) {
-      setError(
-        error.response?.data?.error ||
-        error.message ||
-        v("failedToInitiateGoogleRegistration")
-      );
-    }
-  };
 
   return (
     <div className="">
@@ -356,14 +334,13 @@ export default function RegisterPage({ onSwitchToLogin }) {
         <button type="submit" disabled={!selected || formik.isSubmitting} className="w-full primaryBtn mt-6 disabled:opacity-50 disabled:cursor-not-allowed">
           {formik.isSubmitting ? t("registering") : t("register")}
         </button>
-        <button
-          type="button"
-          onClick={handleGoogleRegister}
-          disabled={!selected}
-          className="btn w-full border-0 rounded-full py-2 mt-4 mb-1 text-textColor flex gap-2 items-center justify-center disabled:opacity-50 disabled:cursor-not-allowed"
+        <a
+          href={selected ? `/api/auth/google/register?role=${selected}` : undefined}
+          onClick={!selected ? (e) => { e.preventDefault(); setError(v("pleaseSelectRole")); } : undefined}
+          className={`btn w-full border-0 rounded-full py-2 mt-4 mb-1 text-textColor flex gap-2 items-center justify-center ${!selected ? "opacity-50 cursor-not-allowed" : ""}`}
         >
           <IconsLibrary name="solidGoogle" /> {t("google")}
-        </button>
+        </a>
 
         <p className="text-center mt-1 mb-20">
           {t("account")}{" "}

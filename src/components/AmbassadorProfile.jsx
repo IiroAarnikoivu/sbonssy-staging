@@ -936,14 +936,20 @@ const AthleteProfile = ({ id, subRole, initialDetails, initialCampaigns }) => {
                         ? subRoleData?.teamClubName
                         : subRoleData?.name) || "Athlete name"}
                     </h2>
-                    <p className="text-sm text-[#635761] font-(--font)">
-                      {displaySubRole()}
-                    </p>
-                    {subRole != "influencer" && (
+                    {subRoleData?.sports?.length > 0 ? (
                       <p className="text-sm text-[#635761]">
-                        {subRoleData?.sports
-                          ? translateSports(subRoleData.sports).join(", ")
+                        {translateSports(subRoleData.sports).join(", ")}
+                      </p>
+                    ) : (
+                      <p className="text-sm text-[#635761]">
+                        {subRole === "influencer"
+                          ? displaySubRole()
                           : t("noSportsAvailable")}
+                      </p>
+                    )}
+                    {subRole !== "influencer" && (
+                      <p className="text-sm text-[#635761] font-(--font)">
+                        {displaySubRole()}
                       </p>
                     )}
                     <p className="text-sm text-[#635761] mb-4">

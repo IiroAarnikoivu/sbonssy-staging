@@ -733,7 +733,7 @@ const ViewCampaign = ({ details: initialDetails, user, campaignId }) => {
             t={t}
             searchQuery={searchQuery}
             setSearchQuery={setSearchQuery}
-            termsAccepted={termsAccepted}
+            termsAccepted={termsAccepted && buttonStatus === "joined"}
             user={user}
             productProfileStatuses={productProfileStatuses}
             loadingProductProfile={loadingProductProfile}

@@ -265,67 +265,41 @@ const BasicInfo = ({ formik, handleRoleChange, next }) => {
           )}
 
           {/* Sports */}
-          {formik.values.subRole !== "influencer" && (
-            <div>
-              <label className="block mb-2 mt-6">{t("step1.label5")}</label>
-              <div className="customSelectDesign relative">
-                {/* {formik.values.subRole === "team" ? ( */}
-                <Select
-                  isMulti
-                  name="sports"
-                  options={sportsOptions}
-                  placeholder={t("step1.placeholder")}
-                  value={sportsOptions.filter(
-                    (opt) =>
-                      Array.isArray(formik.values.sports) &&
-                      formik.values.sports.includes(opt.value)
-                  )}
-                  closeMenuOnSelect={false}
-                  onBlur={formik.handleBlur}
-                  onChange={(selected) => {
-                    const values = selected
-                      ? selected.map((item) => item.value)
-                      : [];
-                    formik.setFieldValue("sports", values);
-                  }}
-                  styles={{
-                    indicatorSeparator: () => ({
-                      display: "none", // Removes the separator
-                    }),
-                  }}
-                  components={{ DropdownIndicator }}
-                />
-                {/* ) : (
-                  <select
-                    name="sport"
-                    value={
-                      typeof formik.values.sport === "string"
-                        ? formik.values.sport
-                        : ""
-                    }
-                    onChange={formik.handleChange}
-                    className="w-full border p-2 rounded"
-                  >
-                    <option value="">Select a sport</option>
-                    {sports.map((g) => (
-                      <option key={g} value={g}>
-                        {g}
-                      </option>
-                    ))}
-                  </select>
-                )} */}
-                {/* <IconsLibrary
-                  styling="absolute top-1/2 z-1 -translate-1/2 right-6"
-                  name={"dropdownSelect"}
-                /> */}
-              </div>
-              {formik.touched.sports && formik.errors.sports && (
-                <p className="text-red-500 text-sm mt-1">
-                  {formik.errors.sports}
-                </p>
-              )}
+          <div>
+            <label className="block mb-2 mt-6">{t("step1.label5")}</label>
+            <div className="customSelectDesign relative">
+              <Select
+                isMulti
+                name="sports"
+                options={sportsOptions}
+                placeholder={t("step1.placeholder")}
+                value={sportsOptions.filter(
+                  (opt) =>
+                    Array.isArray(formik.values.sports) &&
+                    formik.values.sports.includes(opt.value)
+                )}
+                closeMenuOnSelect={false}
+                onBlur={formik.handleBlur}
+                onChange={(selected) => {
+                  const values = selected
+                    ? selected.map((item) => item.value)
+                    : [];
+                  formik.setFieldValue("sports", values);
+                }}
+                styles={{
+                  indicatorSeparator: () => ({
+                    display: "none",
+                  }),
+                }}
+                components={{ DropdownIndicator }}
+              />
             </div>
-          )}
+            {formik.touched.sports && formik.errors.sports && (
+              <p className="text-red-500 text-sm mt-1">
+                {formik.errors.sports}
+              </p>
+            )}
+          </div>
 
           {/* Level */}
           {formik.values.subRole !== "influencer" && (

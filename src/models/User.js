@@ -190,6 +190,7 @@ const influencerSchema = new mongoose.Schema(
     taxNumber: { type: String, trim: true },
     name: { type: String, trim: true },
     gender: { type: String },
+    sports: [String],
     vatDetails: vatSchema,
     location: locationSchema,
     tracking_key: {

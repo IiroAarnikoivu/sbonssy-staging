@@ -26,20 +26,7 @@ const validationSchema = Yup.object().shape({
     then: (schema) => schema.optional(),
     otherwise: (schema) => schema.required("Gender is required"),
   }),
-  sports: Yup.mixed().when("subRole", {
-    is: "influencer",
-    then: (schema) => schema.optional(),
-    otherwise: (schema) =>
-      schema.test("sport-validation", function (value) {
-        const { subRole } = this.parent;
-        if (!Array.isArray(value) || value.length < 1) {
-          return this.createError({
-            message: "Select at least 1 sport",
-          });
-        }
-        return true;
-      }),
-  }),
+  sports: Yup.array().of(Yup.string()).optional(),
   level: Yup.string().when("subRole", {
     is: "influencer",
     then: (schema) => schema.optional(),
@@ -172,6 +159,7 @@ const SportsAmbassadorForm = ({ userId, onSuccess, isAdminEdit = false }) => {
         influencer: values.subRole === "influencer" && {
           name: values.name,
           gender: values.gender,
+          sports: values.sports,
           interests: values.interests,
           location: values.location,
           images: values.onboardPhotos,

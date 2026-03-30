@@ -55,13 +55,7 @@ export default function Page() {
           then: (schema) => schema.optional(),
           otherwise: (schema) => schema.required(),
         }),
-        sports: Yup.array()
-          .of(Yup.string())
-          .when("subRole", {
-            is: "influencer",
-            then: (schema) => schema.optional(),
-            otherwise: (schema) => schema.min(1).required(),
-          }),
+        sports: Yup.array().of(Yup.string()).optional(),
         level: Yup.string().when("subRole", {
           is: "influencer",
           then: (schema) => schema.optional(),
@@ -207,6 +201,7 @@ export default function Page() {
         influencer: values.subRole === "influencer" && {
           name: values.name,
           gender: values.gender,
+          sports: values.sports,
           interests: values.interests,
           location: values.location,
           address: values.address,
@@ -412,27 +407,25 @@ export default function Page() {
           className="flex flex-col gap-10 max-w-[560px] mx-auto"
         >
           {/* Sport */}
-          {formik?.values?.subRole !== "influencer" && (
-            <SelectOptionNlabelAndValue
-              label={t("sport")}
-              name="sports"
-              options={sportsOptions}
-              isMulti={true}
-              value={sportsOptions.filter((opt) =>
-                formik.values.sports.includes(opt.value)
-              )}
-              onChange={(selected) => {
-                const values = selected
-                  ? selected.map((item) => item.value)
-                  : [];
-                formik.setFieldValue("sports", values);
-              }}
-              onBlur={() => formik.setFieldTouched("sports", true)}
-              error={formik.touched.sports && formik.errors.sports}
-              placeholder="Select sports"
-              closeMenuOnSelect={false}
-            />
-          )}
+          <SelectOptionNlabelAndValue
+            label={t("sport")}
+            name="sports"
+            options={sportsOptions}
+            isMulti={true}
+            value={sportsOptions.filter((opt) =>
+              formik.values.sports.includes(opt.value)
+            )}
+            onChange={(selected) => {
+              const values = selected
+                ? selected.map((item) => item.value)
+                : [];
+              formik.setFieldValue("sports", values);
+            }}
+            onBlur={() => formik.setFieldTouched("sports", true)}
+            error={formik.touched.sports && formik.errors.sports}
+            placeholder="Select sports"
+            closeMenuOnSelect={false}
+          />
 
           {/* Level */}
           {formik?.values?.subRole !== "influencer" && (

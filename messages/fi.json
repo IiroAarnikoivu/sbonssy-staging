@@ -2115,11 +2115,13 @@
       "Orienteering": "Suunnistus",
       "Other": "Muu",
       "Padel": "Padel",
+      "Pilates": "Pilates",
       "Polo": "Poolo",
       "Pool": "Biljardi",
       "Ringette": "Ringette",
       "Rowing": "Soutu",
       "Rugby": "Rugby",
+      "Running": "Juoksu",
       "Sailing": "Purjehdus",
       "Shooting sport": "Ampumaurheilu",
       "Skateboarding": "Skeittaus",
@@ -2135,7 +2137,7 @@
       "Volleyball": "Lentopallo",
       "Water polo": "Vesipallo",
       "Weight lifting": "Painonnosto",
-      "Wellness": "Wellness",
+      "Wellness": "Hyvinvointi",
       "Yoga": "Jooga"
     }
   },

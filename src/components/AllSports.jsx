@@ -496,7 +496,11 @@ const SportsAmbassadorCard = ({
               {name}
             </div>
             <div className="text-xs md:text-sm opacity-90 truncate">
-              {subRole === "influencer" ? t("sports.influencer") : sportDisplay}
+              {subRole === "influencer"
+                ? rawSports.length > 0
+                  ? sportDisplay
+                  : t("sports.influencer")
+                : sportDisplay}
             </div>
 
             <div className="flex items-center gap-2 mt-3 text-xs md:text-sm opacity-90 truncate">

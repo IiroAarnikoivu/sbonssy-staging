@@ -234,6 +234,7 @@ export default function RoleFormPage({ params }) {
         influencer: values.subRole === "influencer" && {
           name: values.firstName + " " + values.lastName,
           gender: values.gender,
+          sports: values.sports,
           interests: values.interests,
           location: values.location,
           taxNumber: values.taxNumber,
