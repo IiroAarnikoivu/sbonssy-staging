@@ -1,0 +1,13 @@
+# robots.txt for sbonssy
+# Allow all crawlers to access public pages
+User-agent: *
+Allow: /
+
+# Disallow private/non-indexable areas
+Disallow: /authentication
+Disallow: /signup
+Disallow: /onboarding/
+Disallow: /admin/
+
+# If you add a sitemap, uncomment and point to it (e.g., /sitemap.xml)
+Sitemap: https://www.sbonssy.com/sitemap.xml

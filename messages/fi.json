@@ -1,0 +1,3637 @@
+{
+  "Home": {
+    "title": "Sinulle ostos kuten ennenkin, urheilijalle uusi mahdollisuus.",
+    "description": "Tue urheilua ostamalla kuten ennenkin. Suosituksia, joista hyötyy kaikki.",
+    "descriptionLine1": "Tue urheilua ostamalla kuten ennenkin.",
+    "descriptionLine2": "Suosituksia, joista hyötyy kaikki.",
+    "heroTitle": "Haluamme muuttaa tavan, miten urheilua tuetaan.",
+    "heroPara": "Faneilla tulisi olla helppo tapa tukea urheilijoita, ei lahjoituksilla, vaan arjen teoilla. Kun ostaminen muuttuu vaikuttamiseksi, urheilijat pääsevät lähemmäksi unelmiaan ja fanit osaksi tätä matkaa. Aitoa tukea, yksinkertaisesti.",
+    "imageNcontentTitle": "Shop with Purpose: Support the Dreams of Sport Ambassadors",
+    "imageNcontentPara": "Every purchase you make supports more than just you — it fuels the journey of your favorite sport ambassadors. Help them train harder, grow stronger, and keep inspiring fans like you.",
+    "ctaTitle": "Liity yhteisöön jo tänään!",
+    "ctaBtn1": "Rekisteröidy",
+    "ctaBtn2": "Lue lisää",
+    "carouselHeading": "Tutustu urheilulähettiläisiin",
+    "cardTitle1": "Find Exclusive Offers from Your Favorite Brands",
+    "cardTitle2": "Support Sport Ambassadors Who Inspire You",
+    "cardLabel1": "Tutustu",
+    "cardLabel2": "Tue",
+    "cardPBtn1": "Etsi",
+    "cardSBtn1": "Liity",
+    "cardDesc1": "Explore exclusive offers and fan-only promotions. Tutustu the brands your favorite sport ambassadors trust.",
+    "cardPBtn2": "Tutustu",
+    "cardSBtn2": "Seuraa",
+    "cardDesc2": "Osoita rakkautta urheilijoille, valmentajille, joukkueille ja sisällöntuottajille osallistumalla ja tekemällä ostoksia heidän ainutlaatuisten kampanjoidensa kautta.",
+    "headingSmarter": "Yhteistyökumppanit Impactissa",
+    "subHeadingSmarter": "Osta tarjouksia johtavilta tuotemerkeiltä, jotka uskovat urheilijoiden tukemiseen, aivan kuten sinäkin. Jokainen ostos vaikuttaa, ilman että se maksaa sinulle lisää.",
+    "headingSupport": "Yhdistä",
+    "subHeadingSupport1": "Yhdessä enemmän.",
+    "subHeadingSupport2": "Löydä tuotteita, tue suosikkejasi ja liity uuteen yhteisöön, jossa jokainen voi olla osana urheilun menestystä.",
+    "colHeadSupport": "Tue",
+    "colSubHeadSupport": "Faneille: Osta ja vaikuta",
+    "colDescSupport": "Löydä urheilijoiden suosittelemia tuotteita ja tue ostamalla, ilman lisäkuluja.",
+    "workSupport": "Etsi",
+    "exploreBtn": "Lue lisää",
+    "colHeadBrand": "Seuraa ja tallenna suosikkisi",
+    "colSubHeadBrand": "Tallenna suosikkisi niin pysyt ajan tasalla uusimmista brändeistä ja tuotteista mitä he suosittelevat.",
+    "learnMoreBtn": "Luo tili",
+    "explorePartnerShip": "Tutustu kumppanuuksiin",
+    "colHeadSport": "Kumppaneille: Brändit & Urheilulähettiläät",
+    "colSubHeadSport": "Haluatko rakentaa yhteistyötä avullamme? Katso miten brändit voi tavoittaa uusia faneja ja urheilijat löytää ainutlaatuisia yhteistyökumppaneita helposti.",
+    "colFeatures": "Ominaisuudet",
+    "colFeaturesHeading": "Jopa 30 % ostoksen arvosta suoraan urheilijalle!",
+    "colFeaturesSubHeading": "Sinä päätät, kenelle brändi maksaa tuen. Valitse suosikkisi!",
+    "colResources": "Alusta",
+    "colResourcesHeading": "Uudenlainen urheilun kauppapaikka",
+    "colResourcesSubHeading": "Haluatko tietää mitä suosikki urheilijasi pukee päälle harjoituksiin tai löytää miten lempijoukkueesi palautuu matsin jälkeen? Löydä suositukset suoraan urheilulähettiläiltä ja tue ostamalla.",
+    "readMoreBtn": "Löydä",
+    "testmonialName1": "Webflow",
+    "testmonialQuote1": "This platform has transformed how we connect with our fans and promote our brand. The engagement and support we've received are unparalleled!",
+    "testmonialAuthor1": "Jordan Smith",
+    "testmonialposition1": "Athlete, Team USA",
+    "testmonialName2": "Nike",
+    "testmonialQuote2": "Working with ambassadors has brought us closer to our community. The platform makes it easy to activate campaigns and track real impact.",
+    "testmonialAuthor2": "Emily Clarke",
+    "testmonialposition2": "Marketing Lead, Nike",
+    "testmonialName3": "Adidas",
+    "testmonialQuote3": "From setup to execution, everything is seamless. We've seen tremendous growth in fan engagement since partnering here.",
+    "testmonialAuthor3": "Liam Turner",
+    "testmonialposition3": "Global Urheiluvaikuttajat Manager, Adidas",
+    "getStarted": "Aloita nyt",
+    "learnMore": "Lue lisää",
+    "explore": "Tutustu"
+  },
+
+  "Header": {
+    "marketplace": "Kauppapaikka",
+    "features": "Ominaisuudet",
+    "fans": "Fanit",
+    "sportsAmbassador": "Urheilulähettiläät",
+    "brand": "Brändit",
+    "resources": "Resurssit",
+    "docs": "Tiedostot",
+    "blog": "Blogi",
+    "tutorials": "Tutorials",
+    "searchPlaceholder": "Etsi...",
+    "signUp": "Rekisteröidy",
+    "login": "Kirjaudu",
+    "logout": "Kirjaudu ulos",
+    "myAccount": "Oma tili",
+    "settings": "Asetukset",
+    "support": "Tuki",
+    "language": "Kieli",
+    "news": "Tuki",
+    "faq": "FAQ"
+  },
+  "Footer": {
+    "quickLinks": "Alusta",
+    "marketplace": "Kauppapaikka",
+    "contactUs": "Ota yhteyttä",
+    "company": "Yritys",
+    "resources": "Resurssit",
+    "news": "Tuki",
+    "blog": "Blogi",
+    "faq": "FAQ",
+    "features": "Ominaisuudet",
+    "forFans": "Faneille",
+    "forSportsAmbassadors": "Urheilulähettiläille",
+    "forBrands": "Brändeille",
+    "privacyPolicy": "Tietosuojakäytäntö",
+    "termsOfService": "Käyttöehdot",
+    "cookieSettings": "Evästeasetukset",
+    "copyright": "© {year} Sbonssy. Kaikki oikeudet pidätetään."
+  },
+  "Features": {
+    "title": "Tutustu ominaisuuksiin",
+    "content": "Tutustu miten urheilulähettiläät, fanit ja brändit puhaltavat yhteen hiileen yhteistyön, kampanjoiden ja yhteisten arvojen kautta.",
+    "textTitle": "Jokainen voi olla osana urheilun menestystä",
+    "textDesc": "Urheilun vaikuttavuus ulottuu moneen suuntaan. Olitpa sitten urheilija, valmentaja, vaikuttaja, joukkue, fani tai brändi, olet tärkeä palanen urheilun suurta ekosysteemiä.Tutustu miten juuri sinä voit avullamme edesauttaa yhä useammalle harrastuksen tai menestysmahdollisuudet omassa lajissaan.",
+    "imgTitle": "Tue suosikkejasi ostamalla kuten ennenkin.",
+    "imgDesc": "Löydä tuotteita ja palveluita, joihin urheilijat itse uskovat. Valitse suosikkisi ja tuet heidän matkaansa ilman lisäkuluja sinulle.",
+    "imgBtn": "Lue lisää",
+    "imgSubHeading": "Faneille",
+    "newTitle": "Suosittele suosikkejasi",
+    "newSubTitle": "Urheilulähettiläille",
+    "newDesc": "Tarjoamme urheilulähettiläille ainutlaatuisia mahdollisuuksia vuorovaikutukseen fanien ja brändien kanssa. Löydät alustaltamme yhteistöitä, jonka avulla saat lisää näkyvyyttä ja ansaitset rahaa.",
+    "newFeaturesTitle1": "Laajempi näkyvyys",
+    "newFeaturesText1": "Kerro tarinasi ja tavoita yleisösi valitsemiesi kampanjoiden avulla.",
+    "newFeaturesTitle2": "Tehokkaampia yhteistöitä",
+    "newFeaturesText2": "Valitse itsellesi sopivimmat kampanjat ja tienaa enemmän.",
+    "newBtn1": "Lue lisää",
+    "newBtn2": "Rekisteröidy",
+    "brandTitle": "Löydä uusia mahdollisuuksia brändisi kasvulle",
+    "brandSubTitle": "Brändeille",
+    "brandDesc": "Alustamme yhdistää brändit mielenkiintoisiin urheilulähettiläisiin ja intohimoisiin faneihin. Saat autenttista näkyvyyttä ja mitattavia tuloksia ilman markkinointibudjetin sitomista kumppanuuksiin.",
+    "brandFeaturesT1": "Tavoita laajempi yleisö kampanjoiden ja kumppanuuksien avulla.",
+    "brandFeaturesT2": "Lisää tuloksia houkuttelevilla kampanjoilla ja vaikuttajien avulla, joihin yleisö luottaa.",
+    "brandFeaturesL1": "Laajempi tavoitettavuus",
+    "brandFeaturesL2": "Tehokasta myyntiä",
+    "brandBtnL1": "Lue lisää",
+    "brandBtnL2": "Rekisteröidy"
+  },
+
+  "Fans": {
+    "fanTitle": "Valitse ja vaikuta. Ole enemmän kuin fani.",
+    "fanDesc": "Löydä tuotteita, joihin urheilijat uskovat. Osta ja auta suosikkejasi menestymään.",
+    "fanBtn1": "Tutustu",
+    "fanBtn2": "Rekisteröidy",
+    "subTitle": "Faneille",
+    "fanSubHeading": "Faneille",
+    "airTitle": "Astu kentälle ja tue niitä, jotka inspiroivat juuri sinua.",
+    "airDesc": "Tutustu urheilijoihin, valmentajiin, joukkueisiin ja vaikuttajiin, jotka inspiroivat sinua ja löydä tuotteet, joita he suosittelevat. Teet ostoksesi edelleen suoraan brändin verkkokaupassa, mutta käyttämällä lähettilään linkkiä, brändi maksaa tyypillisesti 10-30% ostostesi arvosta takaisin   valitulle kohteelle. Tukeminen ei ole koskaan ollut näin helppoa. Tämä on moderni tapa auttaa urheilijoita eteenpäin, samalla kun löydät aitoja suosituksia.",
+    "airFeaturesT1": "Urheilulähettilästä alustalla",
+    "airFeaturesT2": "Brändiä tukemassa urheilua",
+    "checkboxHeading": "Tutustu",
+    "checkboxSubHeading": "Miten palvelumme toimii",
+    "checkboxBtn1": "Etsi suosikkisi",
+    "checkboxBtn2": "Rekisteröidy",
+    "checkboxTitle1": "Löydä urheilulähettiläitä",
+    "checkboxDesc1": "Tutustu urheilijoihin ja vaikuttajiin, jotka jakavat suosikkituotteitaan ja -brändejään omilla profiilisivuillaan.",
+    "checkboxTitle2": "Tutki profiileita",
+    "checkboxDesc2": "Jokaisen lähettilään profiili on kuin oma kuratoitu kauppa. Selaa heidän suosikkituotteitaan, suosituksiaan ja brändejä, joita he itsekin käyttävät.",
+    "checkboxTitle3": "Tee ostoksia",
+    "checkboxDesc3": "Valitse tuote tai brändi, josta pidät, ja siirry klikkaamalla  suoraan brändin verkkokauppaan tekemään ostoksesi.",
+    "checkboxTitle4": "Tue lähettiläitä",
+    "checkboxDesc4": "Kun teet ostoksen lähettilään profiilin kautta, ostoksesi palkitsee suoraan kyseistä lähettilästä, ilman lisäkustannuksia sinulle!",
+    "dealTitle": "Löydä parhaat tuotteet heti!",
+    "dealDesc": "Löydä mitä suosikkiurheilijasi suosittelee ja tue tekemällä ostoksia, kuten aikaisemminkin. Nyt vain paljon merkityksellisemmin.",
+    "dealFeaturedL1": "Uudet brändit",
+    "dealFeaturedT1": "Katso mitä brändejä alustallemme on juuri liittynyt.",
+    "dealFeaturedBtn1": "Viimeisimmät",
+    "dealFeaturedL2": "Juuri liittyneet urheilijat",
+    "dealFeaturedT2": "Löydä urheilun kiinnostavimmat tähdet ja tulevaisuuden lupaukset.",
+    "dealFeaturedBtn2": "Uudet lähettiläät",
+    "reviewContent": "This platform has transformed how I connect with my favorite athletes and Tutustu amazing promotions! I never miss out on opportunities to support them and save on gear.",
+    "reviewAuthor": "Alex Johnson",
+    "reviewPosition": "Fan, Sports Enthusiast",
+    "ctaTitle": " Liity yhteisöön, jossa on vain voittajia!",
+    "ctaBtn1": "Tutustu",
+    "ctaBtn2": "Rekisteröidy",
+    "ctaPara": "Tutustu parhaimpiin tarjouksiin ja tue suosikkiurheilijoitasi helpommin kuin koskaan.",
+    "cardTitle1": "Brändit, jotka seisovat urheilijoiden puolella.",
+    "cardLabel1": "Tutustu",
+    "cardPBtn1": "Tutki",
+    "cardSBtn1": "Liity",
+    "cardDesc1": "Löydä brändit, joita urheilijat käyttävät ja suosittelevat.",
+    "cardLabel2": "Tue",
+    "cardTitle2": "Osoita tukesi niille, jotka sitä eniten tarvitsevat.",
+    "cardPBtn2": "Etsi",
+    "cardSBtn2": "Rekisteröidy",
+    "cardDesc2": "Ostamalla tuotteita, kuten ennenkin, tuet valitsemaasi kohdetta. Ilman lisämaksua!",
+    "galleryHeading": "Urheilulähettiläät, joita voit tukea jo tänään",
+    "galleryDesc": "Selaa profiileita ja löydä mitä suosikksi suosittelevat. Seuraa heidän tarinaa ja osoita tukesi."
+  },
+
+  "AthleteTeam": {
+    "hero": {
+      "title": "Yhteistöiden uusi aikakausi",
+      "content": "Tehokkaampia, suorituskykyyn sidottuja kumppanuuksia, joiden avulla voit tienata enemmän entistä sujuvammin."
+    },
+    "checkData": {
+      "one": {
+        "title": "Rekisteröidy & luo profiili",
+        "desc": "Seuraa helposti vaihe vaiheelta täytettävää lomaketta ja luo profiili, joka tekee vaikutuksen."
+      },
+      "two": {
+        "title": "Tutustu kampanjoihin",
+        "desc": "Löydä kampanjoita, joiden avulla voit aloittaa kumppanuudet helposti, vaikka heti. Lisää suosikki brändit ja tuotteet henkilökohtaiseen profiiliisi, jolloin ne ovat aina hyödynnettävissä."
+      },
+      "three": {
+        "title": "Suosittele faneillesi",
+        "desc": "Ole oma autenttinen itsesi ja kommunikoi yleisöllesi omalla tyylilläsi. Valitse tuotteet ja palvelut, joihin itsekin uskot ja jotka sopivat parhaiten omille faneillesi."
+      },
+      "four": {
+        "title": "Tehokkaasti tuloksia",
+        "desc": "Valitse tuotteet ja palvelut, jotka resonoivat parhaiten omille faneillesi."
+      },
+      "five": {
+        "title": "Mittaa ja ansaitse rahaa",
+        "desc": "Voit seurata miten kampanjat suorittavat ja selvittää helposti niiden tulokset. Näet analytiikastasi suoraan, miten paljon ansaitset."
+      }
+    },
+    "imageData": {
+      "title": "Keskity urheiluun. Me hoidamme loput.",
+      "content": "Unohda loputon yhteydenottojen, neuvottelujen ja hallinnollisen työn rumba. Me yhdistämme sinut oikeisiin brändeihin, automatisoimme maksut ja teemme jokaisesta vaiheesta yksinkertaisemman, jotta voit käyttää aikasi tehokkaammin. Näin sinulla jää enemmän aikaa treenaamiseen, kilpailemiseen ja siihen, mitä rakastat."
+    },
+    "ctData": {
+      "title": "Liity yhteisöön ja nouse uudelle tasolle",
+      "para": "Rekisteröidy tänään ja kasvata näkyvyyttäsi, aktivoi fanit ja kaupallista vaikutuksesi. Kaikki yhdellä alustalla, missä urheilu kulkee edellä.",
+      "btn1": "Rekisteröidy",
+      "btn2": "Lue lisää"
+    },
+    "testimonials": {
+      "one": {
+        "quote": "This platform has transformed how I connect with my favorite athletes and Tutustu amazing promotions! I never miss out on opportunities to support them and save on gear.",
+        "name": "Alex Johnson",
+        "position": "Fan, Sports Enthusiast"
+      },
+      "two": {
+        "quote": "This platform has transformed how I connect with my favorite athletes and Tutustu amazing promotions! I never miss out on opportunities to support them and save on gear.",
+        "name": "Jamie Lee",
+        "position": "Community Member"
+      },
+      "heading": "Customer testimonials",
+      "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "smallCard": {
+      "unlockData": {
+        "title": "Modernit yhteistyöt, tämän päivän urheilijoille.",
+        "para": "Oletko urheilija, vaikuttaja, valmentaja tai joukkue? Liity mukaan ja ansaitse suosittelemalla tuotteita sekä brändejä.",
+        "subtitle": "Urheilulähettiläille"
+      },
+      "cardData": {
+        "one": {
+          "title": "Kasvata näkyvyyttäsi ja aktivoi fanit.",
+          "para": "Luo oma kauppa, liity useisiin kampanjoihin ja suosittele silloin kun sinulle parhaiten sopii."
+        },
+        "two": {
+          "title": "Vaivatonta yhteistöiden hallintaa",
+          "para": "Automatisoidut linkit ja maksut, jotta sinun tarvitsee käyttää vähemmän aikaa yhteistöiden hallintaan."
+        },
+        "three": {
+          "title": "Muuta vaikuttavuutesi rahaksi",
+          "para": "Jaa silloin kun haluat, seuraa tuloksia reaaliajassa ja vastaanota maksut automaattisesti."
+        }
+      },
+      "btn1": "Aloita nyt",
+      "btn2": "Lue lisää"
+    },
+    "carouselSection": {
+      "heading": "Alustalla mukana",
+      "para": "Lukuisia tarinoita. Erilaisia ihmisiä. Yksi yhteinen intohimo."
+    },
+    "accordinData": {
+      "one": {
+        "title": "Miten rekisteröidyn?",
+        "content": "Rekisteröityminen on helppoa! Luo tili yhdistämällä sähköpostiosoitteesi ja täyttämällä vaaditut kohdat profiilin luomiseksi. Tämän jälkeen sinulle avautuu pääsy omalle tilillesi, josta näet kampanjat sekä erilaiset asetukset tiliisi liittyen."
+      },
+      "two": {
+        "title": "Miten voin tienata alustalla?",
+        "content": "Mainostamalla omalla uniikilla linkillä kampanjoita, tienaat komission kampanjan ehtojen mukaisesti. Mitä enemmän linkkisi kautta ostetaan, sitä enemmän tienaat."
+      },
+      "three": {
+        "title": "What are affiliate campaigns?",
+        "content": "Affiliate-kampanjoissa brändit tekevät yhteistyötä lähettiläiden kanssa tuotteidensa markkinoimiseksi. Vaikuttajat tienaavat komissiota myynneistä, joita heidän sisältönsä saa aikaan."
+      },
+      "four": {
+        "title": "Miten minulle maksetaan?",
+        "content": "Maksut hoidetaan kuukausittain alustamme kautta. Kun olet saavuttanut minimimaksurajan, ansiosi siirretään Stripe-tilillesi. Sieltä Stripe lähettää rahat automaattisesti pankkitilillesi yleensä muutamassa arkipäivässä."
+      },
+      "five": {
+        "title": "Kuka alustalle voi liittyä?",
+        "content": "Kaikki, jotka edistävät urheilua, ovat tervetulleita mukaan! Olitpa urheilija, seura, vaikuttaja, ex-urheilija tai valmentaja. Liity mukaan, luo yhteys faneihisi ja ansaita vaikutuksellasi."
+      },
+      "six": {
+        "title": "Miten voin jakaa kampanjoita?",
+        "content": "Voit jakaa yksilöllisen linkkisi omissa kanavissasi tai ohjata fanit luomaasi omaan profiiliin, josta he löytävät kaikki edustamasi kampanjat samalla kertaa."
+      },
+      "para": "Löydä vastaukset useiten kysyttyihin kysymyksiin roolistasi urheilulähettiläänä.",
+      "heading": "Haluatko lisätietoa?",
+      "subHeading": "Autamme mielellämme!",
+      "btn": "Ota yhteyttä"
+    },
+
+    "sideData": {
+      "connect": "Tutustu",
+      "how": "Miten palvelumme toimii",
+      "btn1": "Lue lisää",
+      "btn2": "Rekisteröidy"
+    }
+  },
+  "Brands": {
+    "trustByHeading": "Yhteistyössä kanssamme",
+    "heroData": {
+      "title": "Kasvata myyntiä ja maksa vain tuloksista.",
+      "subTitle": "Brändeille",
+      "button": "Rekisteröidy",
+      "button2": "Tutustu urheilijoihin",
+      "content": "Tehokkaasti tuloksia urheilun kiehtovasta maailmasta, ilman riskiä."
+    },
+    "sideData": {
+      "connect": "Tutustu",
+      "how": "Miten palvelumme toimii",
+      "btn1": "Lue lisää",
+      "btn2": "Rekisteröidy"
+    },
+    "checkData": {
+      "one": {
+        "title": "Luo tili",
+        "desc": "Kirjaudu sisään, tee yrityksellesi profiili ja luo helposti kampanjoita."
+      },
+      "two": {
+        "title": "Tarjoa yhteistöitä",
+        "desc": "Alustamme avulla voit toteuttaa helposti ja tehokkaasti yhteistöitä lukuisten urheilijoiden kanssa samanaikaisesti."
+      },
+      "three": {
+        "title": "Urheilulähettiläät sitouttaa fanit",
+        "desc": "Hyödynnä urheiluvaikuttajien autenttinen yhteys heidän yleisöön, kasvata näkyvyyttä ja brändisi arvoa."
+      },
+      "four": {
+        "title": "Mittaa tuloksia",
+        "desc": "Kampanjoittesi tuloksia on helppo mitata ja seurata alustamme avulla. Saat ajantasaista tietoa miten kampanjat suoriutuu, jolloin niiden optimointi ja tulokset voidaan maksimoida."
+      }
+    },
+    "measureData": {
+      "subtitle": "Analytiikka",
+      "title": "Parempia tuloksia mittaamalla.",
+      "content": "Saat reaaliaikaista dataa kampanjoistasi: seuraa sitoutumista, konversioita ja yleisön käyttäytymistä.",
+      "button1": "Tutustu analytiikkaan",
+      "button2": "Ominaisuudet"
+    },
+    "faqData": {
+      "one": {
+        "title": "Miten alusta toimii?",
+        "desc": "Alustamme yhdistää brändit urheilijoihin ja joukkueisiin affiliate-markkinointikampanjoiden avulla. Luo kampanjoita, määritä komissiot sekä ehdot ja anna urheilulähettiläiden markkinoida tuotteitasi seurattavien linkkien avulla. Saat samalla kattavan analytiikan kampanjan toimivuudesta.Tämä luo win-win-tilanteen kaikille osapuolille."
+      },
+      "two": {
+        "title": "Minkälaiset yritykset voi liittyä?",
+        "desc": "Brändit, jotka haluavat kasvattaa näkyvyyttään urheilun parissa ja löytää uusia asiakkaita urheilulähettiläiden kautta. Urheilijat ovat mahtavia lähettiläitä monenlaiselle brändille niin hyvinvoinnin, teknologian kuin vaatetuksen ympärillä. Tarkista käyttöehdoista tarkemmat tiedot kiellettyihin toimialoihin liittyen."
+      },
+      "three": {
+        "title": "Mitä maksuja palveluun sisältyy?",
+        "desc": "Palvelumme ei sisällä liittymismaksuja eikä kampanjoiden käynnistäminen maksa mitään. Maksat ainoastaan tuloksista. Määrittelet itse komissio tason urheilulähettiläille, alustamme ottaa toteutuneiden komissioiden perusteella oman veloituksen ja Stripe maksunvälityspalkkion. Hinnoittelumme on läpinäkyvää ja voit tutustua siihen tukikeskuksessamme."
+      },
+      "four": {
+        "title": "Voinko päättää kuka kampanjoitani mainostaa?",
+        "desc": "Kyllä! Voit valita kampanjatyypiksi julkinen, hae mukaan tai yksityinen eli sinä päätät miten kampanjasi alustallamme näkyvät ja kuka niitä voi hyödyntää."
+      },
+      "five": {
+        "title": "Miten voin mitata tuloksia?",
+        "desc": "Tililläsi on hallintanäkymä, josta voit seurata kampanjoittesi suoriutumista. Näet sieltä mm. näyttökerrat, klikkaukset, konversiot sekä ROI:n."
+      },
+      "six": {
+        "title": "Voinko yhdistää Shopify verkkokauppani alustaanne?",
+        "desc": "Kyllä voit! Saat yhdistettyä oman Shopify verkkokauppasi alustaamme hetkessä. Kun verkkokauppasi on yhdistetty, voit ladata helposti tuotteita kampanjaasi. Tämä on houkutteleva keino antaa urheilijoiden valita juuri heidän suosikkituotteensa mainostettavaksi, joka johtaa tehokkaammin myyntiin. Kirjaudu sisään ja siirry ’Oma tili’ osioon, josta löydät Shopify integraation."
+      },
+      "heading": "UKK",
+      "para": "Löydä usein kysyttyjä kysymyksiä alustaamme liittyen.",
+      "btn": "Ota yhteyttä"
+    },
+    "smartCampaignData": {
+      "one": {
+        "title": "Automaattiset maksut ja raportointi",
+        "desc": "Automatisoidut maksut ja raportit tekevät useiden yhteistöiden hallinnasta helpompaa.",
+        "label": "Lue lisää"
+      },
+      "two": {
+        "title": "Chat-toiminto helpottaa viestintää",
+        "desc": "Hallitse pyyntöjä, tuotelahjoituksia ja viestintää lähettiläiden kanssa yhdessä paikassa.",
+        "label": "Rekisteröidy"
+      },
+      "three": {
+        "title": "Merkityksellisiä kumppanuuksia",
+        "desc": "Tavoita uusia kohderyhmiä urheilulähettiläiden avulla ja skaalaa näkyvyytesi urheilun parissa.",
+        "label": "Aloita nyt"
+      },
+      "heading": "Tehokkaat työkalut brändisi menestykseen"
+    },
+    "singleReviewData": {
+      "content": "Working with sbonssy has transformed our marketing strategy, allowing us to reach our target audience like never before.",
+      "author": "Alex Johnson",
+      "position": "Marketing Director, XYZ Corp"
+    },
+    "ctaData": {
+      "title": "Tuloksia kentällä ja viivan alla.",
+      "para": "Rekisteröidy ja tavoita intohimoiset fanit jo tänään!",
+      "btn1": "Lue lisää",
+      "btn2": "Rekisteröidy"
+    },
+    "smallCardData": {
+      "one": {
+        "title": "Käynnistä kampanja muutamassa minuutissa",
+        "para": "Vain muutama klikkaus ja kampanjasi on käynnissä."
+      },
+      "two": {
+        "title": "Enemmän asiakkaita sivustollenne",
+        "para": "Urheilulähettiläät jakavat linkkejä, joiden liikenne ohjautuu suoraan verkkosivustollenne."
+      },
+      "three": {
+        "title": "Rakenna luottamusta ja arvoa brändiäsi kohtaan",
+        "para": "Luo kumppanuuksia urheilulähettiläiden kanssa ja kasvata näkyvyyttä autenttisesti."
+      },
+      "btn1": "Aloita nyt",
+      "btn2": "Ota yhteyttä",
+      "para": "  Toteuta tehokkaita ja skaalautuvia kampanjoita urheilulähettiläiden kanssa. Hyödynnä useita lähettiläitä samanaikaisesti niin saat enemmän näkyvyyttä, parempaa situoutumista ja tuloksia merkityksellisellä tavalla.",
+      "heading": "Skaalaa kumppanuudet helposti",
+      "subHeading": "Luo yhteys"
+    }
+  },
+
+  "Blog": {
+    "fallback": "Ei blogeja löytynyt.",
+    "newsletterData": {
+      "heading": "Pysy ajan tasalla uutiskirjeemme avulla",
+      "description": "Rekisteröidy saadaksesi uusimmat blogipäivitykset, tarjoukset ja uutiset suosikkiurheilijoiltasi.",
+      "placeholder": "Syötä sähköpostiosoite",
+      "btnTxt": "Rekisteröidy",
+      "disclaimer": "Klikkaamalla Rekisteröidy vahvistat, että hyväksyt ",
+      "text": "."
+    },
+    "tabMenu": {
+      "one": "Kaikki",
+      "two": "Marketing Tips",
+      "three": "Sport Ambassadors",
+      "four": "Brändit Strategies",
+      "five": "Success Stories"
+    },
+    "blogOrangeData": {
+      "one": {
+        "tag": "Insights",
+        "title": "Maximizing Your Brändit's Reach",
+        "desc": "Learn how to effectively engage with your audience through sports marketing.",
+        "author": "Jane Smith",
+        "date": "12 Feb 2022",
+        "readTime": "6 min read"
+      },
+      "two": {
+        "tag": "Trends",
+        "title": "Engaging Fanit Through Digital Platforms",
+        "desc": "Explore innovative ways to connect with fans online.",
+        "author": "Mike Johnson",
+        "date": "15 Mar 2022",
+        "readTime": "4 min read"
+      },
+      "three": {
+        "tag": "Strategies",
+        "title": "Building Lasting Partnerships in Sports",
+        "desc": "Learn how to foster strong relationships with athletes and brands.",
+        "author": "Emily Davis",
+        "date": "20 Apr 2022",
+        "readTime": "7 min read"
+      }
+    },
+    "header": {
+      "heading": "Blogi",
+      "subHeading": "Lue ajankohtaisimmat näkemykset ja tarinat urheilun maailmasta",
+      "para": "Pysy ajan tasalla vinkeistämme ja urheilumarkkinoinnin uusimmista trendeistä."
+    },
+    "body": {
+      "heading": "Ominaisuudet",
+      "subHeading": "The Future of Sports Sponsorship",
+      "para": "Tutustu how sponsorships are evolving in the digital age."
+    },
+    "data": {
+      "name": "John Doe",
+      "date": "11 Jan 2022",
+      "readTime": "5 min read"
+    },
+    "terms": "tietosuojaselosteemme"
+  },
+
+  "Company": {
+    "testimonialsData": {
+      "one": {
+        "name": "Alex Johnson",
+        "role": "Toimitusjohtaja, Sports Inc.",
+        "text": "Sbonssy on mullistanut urheilija–brändikumppanuudet!"
+      },
+      "two": {
+        "name": "Jamie Lee",
+        "role": "Markkinointijohtaja, Brändit Co.",
+        "text": "Todellinen pelinmuuttaja urheilumarkkinoinnissa!"
+      },
+      "three": {
+        "name": "Chris Smith",
+        "role": "Perustaja, Fan Hub",
+        "text": "Paras tapa sitouttaa yleisömme!"
+      },
+      "heading": "Asiakaspalautteet",
+      "para": "Tämä alusta mullisti tapamme yhdistyä faneihin."
+    },
+    "ctaData": {
+      "title": "Liity yhteisöön, jossa on vain voittajia!",
+      "para": "Tutustu parhaimpiin tarjouksiin ja tue suosikkejasi helpommin kuin koskaan.",
+      "btn1": "Liity",
+      "btn2": "Lue lisää"
+    },
+    "contentSection": {
+      "heroHeading": "Urheilu kuuluu kaikille",
+      "heroPara": "Yhdistämme fanit, urheilun ja brändit tavalla, jossa on vain voittajia. Haluamme, että kaikilla on mahdollisuus kumppanuuksiin, jotka nostavat urheilun uudelle tasolle.",
+      "heading": "Menestys syntyy yhteistyöstä",
+      "subHeading": "Mahdollistamme",
+      "para": "Me uskomme, että tuomalla yhteen urheilun eri sidosryhmät, saamme aikaan tuloksia. Tehtävänämme on luoda alusta, jossa helpotamme yhteistöiden syntymistä. Haluamme rakentaa mahdollisimman monelle ponnahduslaudan, joka synnyttää tarinoita, joilla on merkitystä.",
+      "btn1": "Lue lisää",
+      "btn2": "Rekisteröidy"
+    },
+    "teamCarousel": {
+      "team": {
+        "desc1": "Edistämme innovaatioita ja yhdistämme fanit heidän suosikkiurheilijoihinsa.",
+        "desc2": "Laadimme operatiivisia strategioita, jotka vetoavat sekä faneihin että brändeihin.",
+        "one": {
+          "name": "Alex Johnson",
+          "role": "CEO",
+          "description": "Driving innovation and connecting fans with their favorite athletes."
+        },
+        "two": {
+          "name": "Maria Smith",
+          "role": "CTO",
+          "description": "Leading technology development to enhance user experience on our platform."
+        },
+        "three": {
+          "name": "James Brown",
+          "role": "CMO",
+          "description": "Crafting marketing strategies that resonate with fans and brands alike."
+        },
+        "four": {
+          "name": "Alex Johnson",
+          "role": "CEO",
+          "description": "Driving innovation and connecting fans with their favorite athletes."
+        },
+        "five": {
+          "name": "Maria Smith",
+          "role": "CTO",
+          "description": "Leading technology development to enhance user experience on our platform."
+        },
+        "six": {
+          "name": "James Brown",
+          "role": "CMO",
+          "description": "Crafting marketing strategies that resonate with fans and brands alike."
+        },
+        "seven": {
+          "name": "Alex Johnson",
+          "role": "CEO",
+          "description": "Driving innovation and connecting fans with their favorite athletes."
+        },
+        "eight": {
+          "name": "Maria Smith",
+          "role": "CTO",
+          "description": "Leading technology development to enhance user experience on our platform."
+        },
+        "nine": {
+          "name": "James Brown",
+          "role": "CMO",
+          "description": "Crafting marketing strategies that resonate with fans and brands alike."
+        }
+      }
+    },
+    "header": {
+      "subHeading": "Tiimi",
+      "heading": "Menestys syntyy yhteistyöstä",
+      "para": "Uskomme, että tuomalla yhteen urheilun eri sidosryhmät, saamme aikaan tuloksia. Tehtävänämme on luoda alusta, jossa helpotamme yhteistöiden syntymistä. Haluamme rakentaa mahdollisimman monelle ponnahduslaudan, joka synnyttää tarinoita, joilla on merkitystä."
+    },
+    "teamSection": {
+      "heading": "Team sbonssy",
+      "description": "Yhdistämme fanit, urheilun ja brändit tavalla, jossa on vain voittajia. Haluamme, että kaikilla on mahdollisuus kumppanuuksiin, jotka nostavat urheilun uudelle tasolle. Asiantunteva tiimimme on valmiina auttamaan."
+    },
+    "footer": {
+      "heading": "Etsimme uusia osaajia!",
+      "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "button": "Avoimet paikat"
+    },
+    "trustBy": "Luottaneet huippubrändit ja organisaatiot maailmanlaajuisesti",
+    "contactDetails": {
+      "one": {
+        "title": "Sähköposti",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+        "value": "hello@relume.io"
+      },
+      "two": {
+        "title": "Puhelin",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+        "value": "+1 (555) 000-0000"
+      },
+      "three": {
+        "title": "Toimisto",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+        "value": "123 Sample St, Sydney NSW 2000 AU"
+      }
+    },
+    "formData": {
+      "header": {
+        "subHeading": "Yhteys",
+        "heading": "Ota yhteyttä",
+        "para": "Lähetä viesti niin autamme mielellämme!"
+      },
+      "formContent": {
+        "firstName": "Etunimi",
+        "lastName": "Sukunimi",
+        "email": "Sähköposti",
+        "phnNumber": "Puhelinnumero",
+        "topic": "Valitse aihe",
+        "role": "Roolisi",
+        "msg": "Viesti",
+        "agreeMsg": "Hyväksyn",
+        "policy": "Tietosuojaselosteen",
+        "btn": "Lähetä",
+        "placeholderMsg": "Kirjoita viesti...",
+        "placeholderDropDown": "Valitse vaihtoehto"
+      },
+      "options": {
+        "one": "Vaihtoehto yksi",
+        "two": "Vaihtoehto kaksi",
+        "three": "Vaihtoehto kolme"
+      },
+      "role": {
+        "one": "Urheilulähettiläs",
+        "two": "Fani",
+        "three": "Muu kysely",
+        "four": "Brändi",
+        "five": "Media",
+        "six": "Muu"
+      }
+    }
+  },
+
+  "BusinessType": {
+    "title": "Valitse, miten haluat vastaanottaa komissiot",
+    "subtitle": "Valitse liiketoimintatyyppi, joka parhaiten kuvaa sitä, miten haluat vastaanottaa maksut.",
+    "individual": {
+      "title": "Yksityishenkilö (sisältäen toiminimen)",
+      "description": "Vastaanotan maksut henkilökohtaiselle tililleni tai toiminimeni kautta."
+    },
+    "company": {
+      "title": "Yritys / Yhdistys",
+      "description": "Vastaanotan maksut rekisteröidylle yritykselle tai organisaatiolle."
+    },
+    "selected": "Valitsit: {type}",
+    "continue": "Jatka"
+  },
+
+  "VAT": {
+    "title": "Profiilin verotiedot",
+    "countryLabel": "Rekisteröintimaa",
+    "selectCountry": "Valitse maa",
+    "euCountriesLabel": "EU-maat",
+    "nonEuCountriesLabel": "EU:n ulkopuoliset maat",
+    "euCountries": "EU-maat",
+    "nonEuCountries": "EU:n ulkopuoliset maat",
+    "nonEu": {
+      "businessTypeQuestion": "Onko yritykselläsi virallinen yritysrekisterinumero tai verotunnus maassasi?",
+      "hasRegistrationNumber": "Kyllä, yritykselläni on verotunnus tai yritysrekisterinumero",
+      "noRegistrationNumber": "Ei, olen yksityishenkilö (ei yritystä)",
+      "privateIndividual": "Olen yksityishenkilö (ei yritystoimintaa)",
+      "registrationNumberLabel": "Syötä yrityksesi verotunnus tai rekisterinumero.",
+      "registrationNumberPlaceholder": "Syötä yritysrekisteri- tai verotunnuksesi",
+      "registrationNumberRequired": "Yrityksen rekisterinumero on pakollinen",
+      "registrationNumberTooShort": "Yrityksen rekisterinumero on liian lyhyt"
+    },
+    "numbervalidation": "ALV-tunnus on kelvollinen",
+    "format": "Vain muodon validointi – VIES-tarkistus suositeltu",
+    "finland": {
+      "question": "Onko yrityksesi ALV-rekisterissä Suomessa (lisäätkö ALV:n laskuihin)?",
+      "vatRegistered": "Kyllä, yritykseni on ALV-rekisterissä ja lisää 25,5 % ALV:n laskuihin",
+      "businessNoVat": "Ei, yritykselläni on Y-tunnus mutta ei ALV-rekisteröintiä (liikevaihto alle 15 000 €/vuosi)",
+      "vatNumberLabel": "Suomalainen ALV-numero (muoto FI12345678)"
+    },
+
+    "euVatQuestion": "Onko yrityksesi rekisteröity ALV-maksajaksi omassa maassasi?",
+    "euVatRegistered": "Kyllä, yritykselläni on voimassa oleva EU-ALV-numero",
+    "businessNoVAT": "Ei, yritykselläni ei ole ALV-numeroa",
+    "individual": "Olen yksityishenkilö (ei rekisteröityä yritystä)",
+    "company": "Yritys",
+    "euVatNumberLabel": "EU-ALV-numero (esim. SE12345678901)",
+    "vatNumberPlaceholder": "Syötä ALV-numerosi",
+    "validateVat": "Vahvista ALV-numero",
+    "saveButton": "Tallenna tiedot",
+    "saving": "Tallennetaan...",
+    "success": "ALV-tiedot tallennettu onnistuneesti",
+    "error": "Virhe ALV-tietojen tallentamisessa",
+    "validationMessages": {
+      "vatRequired": "ALV-numero on pakollinen"
+    },
+    "eu": {
+      "question": "Onko yrityksesi rekisteröity ALV-maksajaksi omassa maassasi?",
+      "hasVat": "Kyllä, yritykselläni on voimassa oleva EU-ALV-numero",
+      "noVat": "Ei, yritykselläni ei ole ALV-numeroa",
+      "individual": "Olen yksityishenkilö (ei yritystä)",
+      "vatNumberLabel": "Syötä ALV-numerosi (esim. SE12345678901, EE123456789)."
+    },
+
+    "validation": {
+      "valid": "Voimassa oleva ALV-numero",
+      "invalid": "Virheellinen ALV-numero",
+      "company": "Yritys"
+    },
+    "infoNote": "Pyydämme ALV- ja yritystietosi, jotta maksut voidaan käsitellä oikein kansainvälisten verotus- ja kirjanpitosääntöjen mukaisesti. Jos olet ALV-rekisterissä Suomessa, maksuihin lisätään 25,5 % ALV. Jos olet toisessa EU-maassa ja sinulla on voimassa oleva ALV-numero, ALV:tä ei lisätä (käännetty verovelvollisuus). Jos olet EU:n ulkopuolella, ALV:tä ei lisätä (palvelun vienti). Tarvitsemme silti rekisteröintitiedot kirjanpitoa ja raportointia varten.",
+    "validating": "Tarkistetaan...",
+    "saveInformation": "Tallenna tiedot",
+    "ui": {
+      "currentStatus": "Nykyinen ALV-tila",
+      "registrationCountry": "Rekisteröintimaa",
+      "businessType": "Yritysmuoto",
+      "vatNumber": "ALV-numero",
+      "vatStatus": "ALV-tila",
+      "vatOnCommission": "ALV komissiossa",
+      "lastChecked": "Viimeksi tarkistettu",
+      "yes": "Kyllä",
+      "no": "Ei",
+      "updating": "Päivitetään ALV-tietoja...",
+      "manageDescAmb": "Valitse alapuolelta maa ja maksun vastaanottajan tyyppi, joka toimii kohdallasi. Tarvitsemme näitä tietoja, jotta voimme käsitellä tulevat palkkiosi oikein.",
+      "manageDescBrand": "Valitse rekisteröintimaa ja ilmoita yrityksen ALV-numero, rekisterinumero tai verotunniste oikean verokäsittelyn varmistamiseksi",
+      "updateSuccessTitle": "Onnistui",
+      "updateSuccessText": "ALV-tiedot päivitetty onnistuneesti",
+      "loadError": "ALV-tietojen lataus epäonnistui",
+      "updateError": "ALV-tietojen päivitys epäonnistui",
+      "updateBeforeCard": "Päivitä ALV-tietosi (Profiilin verotiedot) ennen kuin lisäät kortin.",
+      "completeVATFirst": "Täytä ensin ALV-tietosi ennen Stripe-asetusten käyttöä."
+    },
+    "vies": {
+      "tooShort": "ALV-numero on liian lyhyt",
+      "nonEu": "Ei EU-maa tai VIES ei ole tuettu",
+      "invalidFormat": "Virheellinen ALV-numeron muoto",
+      "notFound": "ALV-numeroa ei löytynyt VIES-järjestelmästä",
+      "fallbackWarning": "VIES-palvelu ei käytettävissä – käytettiin muodon tarkistusta",
+      "validationUnavailable": "Validointipalvelu ei saatavilla: {message}",
+      "formatNote": "Muodon tarkistus onnistui – VIES-varmennus suositeltu"
+    },
+    "rules": {
+      "finnishVatNote": "Suomessa ALV-rekisteröity – 25,5 % ALV lisätään komissioon",
+      "euReverseChargeNote": "EU:n käännetty verovelvollisuus – ALV:tä ei lisätä maksuihin",
+      "noVatNote": "Ei ALV-rekisteröintiä tai virheellinen ALV – ALV:tä ei lisätä"
+    },
+    "invoice": {
+      "domesticNote": "Kotimainen myynti (Suomi) – 25,5 % ALV",
+      "reverseChargeNote1": "ALV 0 %, käännetty verovelvollisuus (Neuvoston direktiivi 2006/112/EY, 196 artikla)",
+      "reverseChargeNote2": "Asiakas vastaa ALV:stä omassa maassaan",
+      "euNoVatNote": "EU-asiakas ilman voimassa olevaa ALV-numeroa – Suomen ALV lisätään",
+      "exportNote": "ALV 0 %, palvelun vienti EU:n ulkopuolelle"
+    }
+  },
+  "VATStatus": {
+    "not_provided": "ei annettu",
+    "valid": "voimassa",
+    "invalid": "virheellinen"
+  },
+  "Faqs": {
+    "frequentData": {
+      "title": "Usein kysytyt kysymykset",
+      "para": "Tervetuloa UKK-sivullemme! Täältä löydät vastaukset yleisimpiin kysymyksiin alustastamme. Autamme mielellämme sinua käyttämään palvelua sujuvasti."
+    },
+    "faqData": {
+      "one": {
+        "question": "Mistä tässä alustassa on kyse?",
+        "answer": "Täällä urheilu kohtaa ostamisen. Urheilijat ja sisällöntuottajat suosittelevat tuotteita, joihin he itse luottavat ja sinä voit tukea ostamalla suoraan heidän linkkiensä kautta. Tämä on helppo tapa tukea suosikkiurheilijoitasi!"
+      },
+      "two": {
+        "question": "Tarvitsenko tilin käyttääkseni alustaa?",
+        "answer": "Et tarvitse tiliä ostamiseen. Jos kuitenkin haluat seurata urheilijoita, tallentaa suosikkituotteitasi ja saada kampanjapäivityksiä, ilmainen tili parantaa käyttökokemustasi."
+      },
+      "three": {
+        "question": "Miten urheilijat ansaitsevat rahaa täällä?",
+        "answer": "Kun ostat lähettilään linkin kautta, hän ansaitsee komission, ilman lisäkustannuksia sinulle. Voit siis ostaa kuten ennenkin, nyt sillä on vain tärkeämpi merkitys."
+      },
+      "four": {
+        "question": "Onko ostaminen tämän alustan kautta kalliimpaa?",
+        "answer": "Ei laisinkaan. Teet ostokset aina brändin verkkosivuilla, joten hinnat ovat täysin samat kuin normaalisti ostettaessa. Erona on se, että suosikkiurheilijasi ansaitsee, kun ostat hänen linkkinsä kautta. Kauttamme voit myös löytää mielenkiintoisia kampanjoita ja huikeita tarjouksia, joten alustamme tarjoaa tavan jopa säästää ostoksissa!"
+      },
+      "five": {
+        "question": "Mitä affiliate-markkinointi tarkoittaa?",
+        "answer": "Affiliate-markkinointi on suoritusperusteinen markkinointitapa, jossa brändit palkitsevat affiliate-kumppaneitaan tuotteidensa, palvelujensa tai brändinsä mainostamisesta. Meillä lähettiläät mainostavat kampanjoita ja ansaitsevat komissiota myynneistä, joita heidän toimintansa tuottaa."
+      }
+    },
+    "faqDataSports": {
+      "one": {
+        "question": "Miten rekisteröidyn?",
+        "answer": "Rekisteröityminen on helppoa! Aloita syöttämällä sähköpostiosoitteesi ja luomalla tili. Sen jälkeen täytät muutaman aloituskysymyksen ja tarvittavat profiilitiedot. Kun profiilisi on valmis, saat käyttöösi oman hallintapaneelin ja pääset tutustumaan kampanjoihin heti."
+      },
+      "two": {
+        "question": "Miten ansaitsen rahaa lähettiläänä?",
+        "answer": "Ansaitset komission, kun kampanjasi, johon olet liittynyt tuottaa transaktion. Tämä voi olla ostettu tuote, palvelu tai pelkkä klikkaus. Löydät kampanjan kuvauksesta tiedon, miten transaktioista palkitaan. Mitä enemmän sitoutumista tuot, sitä enemmän ansaitset!"
+      },
+      "three": {
+        "question": "Mitä affiliate-kampanjat ovat?",
+        "answer": "Affiliate-kampanjat ovat markkinointikampanjoita, joissa brändit tekevät yhteistyötä lähettiläiden kanssa tuotteidensa tai brändinsä mainostamiseksi. Alustallamme urheilulähettiläät ansaitsevat komissiota transaktioista, jotka syntyvät heidän mainonnastaan."
+      },
+      "four": {
+        "question": "Miten saan maksut?",
+        "answer": "Maksut käsitellään alustamme kautta kuukausittain. Kun saavutat minimimaksurajan, tulosi siirretään Stripe-tilillesi. Stripe siirtää rahat automaattisesti linkitetylle pankkitilillesi ja siirto kestää yleensä muutaman arkipäivän."
+      },
+      "five": {
+        "question": "Kuka voi liittyä mukaan?",
+        "answer": "Kaikki, jotka edustavat urheilullista elämäntapaa, voivat liittyä mukaan! Olitpa urheilija, joukkue, seura, vaikuttaja tai valmentaja, joka haluaa ansaita brändillään, olet tervetullut rekisteröitymään ja luomaan yhteyden faneihisi."
+      },
+      "six": {
+        "question": "Miten voin jakaa kampanjoita?",
+        "answer": "Voit jakaa suoraan yksilöllisiä kampanjalinkkejä esimerkiksi sosiaalisen median tililläsi tai linkata oman sbonssy-profiilisi, josta löytyy kaikki kampanjat, jotka olet sinne lisännyt."
+      },
+      "faq": "UKK",
+      "para": "Löydä vastaukset yleisimmin kysyttyihin kysymyksiin roolistasi urheilulähettiläänä"
+    },
+    "faqDataBrand": {
+      "one": {
+        "question": "Miten alusta toimii?",
+        "answer": "Alustamme yhdistää brändit urheilullista elämäntapaa edistäviin toimijoihin affiliate-markkinointikampanjoiden kautta. Luo kampanjoita, määritä sisältö, komissiot sekä ehdot. Urheilulähettiläät saa mahdollisuuden mainostaa tuotteitasi seurattavien linkkien avulla, luoden autenttisen yhteyden heidän yleisöönsä."
+      },
+      "two": {
+        "question": "Kuka voi liittyä mukaan?",
+        "answer": "Kaikki brändit, jotka haluavat tavoittaa urheiluhenkisen yleisön aitojen sisällöntuottajayhteistöiden avulla. Erityisen hyvin tämä sopii esimerkiksi lifestyle-, varuste- ja hyvinvointituotteille. Katso tarkemmat rajoitukset käyttöehdoistamme."
+      },
+      "three": {
+        "question": "Mitä palvelu maksaa?",
+        "answer": "Palvelumme ei sisällä aloitusmaksuja. Brändit maksavat vain, kun heidän kampanjansa tuottaa tuloksia. Hinnoittelu sisältää selkeän palvelumaksun ja Stripe-maksuvälitys kulut. Urheilulähettiläille ja faneille palvelu on maksuton. Lisätietoa hinnoittelusta löydät kohdasta Tuki."
+      },
+      "four": {
+        "question": "Voinko hallita, ketkä lähettiläät mainostavat brändiäni?",
+        "answer": "Kyllä! Voit valita kampanjatyypiksi julkisen, hae mukaan tai yksityisen, sen mukaan, kuinka paljon haluat hallita itse kampanjasi näkyvyyttä lähettiläille."
+      },
+      "five": {
+        "question": "Miten voin seurata kampanjan tuloksia?",
+        "answer": "Hallintapaneelisi tarjoaa reaaliaikaisen näkymän liikenteeseen, konversioihin ja kampanjoiden suorituskykyyn. Tämän datan avulla voit optimoida kampanjasi ja maksimoida tulokset. Autamme sinua menestymään myös tulevissa kampanjoissa."
+      },
+      "six": {
+        "question": "Voinko yhdistää Shopify verkkokauppani alustaanne?",
+        "answer": "Kyllä voit! Saat yhdistettyä oman Shopify verkkokauppasi alustaamme hetkessä. Kun verkkokauppasi on yhdistetty, voit ladata helposti tuotteita kampanjaasi. Tämä on houkutteleva keino antaa urheilijoiden valita juuri heidän suosikkituotteensa mainostettavaksi, joka johtaa tehokkaammin myyntiin. Kirjaudu sisään ja siirry ’Oma tili’ osioon, josta löydät Shopify integraation."
+      },
+      "faq": "UKK",
+      "para": "Löydä vastaukset yleisimpiin kysymyksiin alustastamme ja siitä, miten se hyödyttää brändejä."
+    },
+    "faqDataFan": {
+      "one": {
+        "question": "Mikä tämä alusta on?",
+        "answer": "Sbonssy on alusta, joka edistää aktiivista elämäntapaa ja luo mahdollisuuksia urheilijoille menestyä aina ruohonjuuritasolta kansainvälisille areenoille. Alustalta löydät tuotteita ja brändejä, joita urheilijalähettiläämme itsekin käyttävät ja suosittelevat. Kun teet ostoksen lähettilään profiilin kautta, brändi maksaa hänelle komission, ilman lisäkustannuksia sinulle. Näin voit tukea urheilijoita helposti ostamalla tuotteita, joita ostaisit muutenkin. Jokainen ostos on pieni teko, jolla on suuri merkitys urheilijoiden unelmien tukemisessa."
+      },
+      "two": {
+        "question": "Tarvitsenko tilin tehdäkseni ostoksia",
+        "answer": "Et tarvitse, mutta luomalla ilmaisen fanitilin voit seurata lähettiläitä, tallentaa suosikkeja ja saada ilmoituksia uusista kampanjoista."
+      },
+      "three": {
+        "question": "Miten voin tukea lähettilästä?",
+        "answer": "Lähettilään profiilista löydät tuotteet ja brändit, joista hän saa palkkion, kun teet ostoksia. Klikkaa haluamaasi tuotetta, niin siirryt brändin sivuille ostoksille. Tämä on helppo tapa tukea urheilijoita ostamalla tuotteita, joita ostaisit muutenkin. Näin arkipäiväinen ostos saa suuremman merkityksen!"
+      },
+      "four": {
+        "question": "Onko ostaminen lähettilään kautta kalliimpaa?",
+        "answer": "Ei lainkaan. Hinnat ovat täsmälleen samat kuin brändin omalla verkkosivustolla. Erona on se, että kun teet ostoksen lähettilään linkin kautta, brändi maksaa hänelle komission ja sinä voit tukea urheilijoita ilman lisäkustannuksia."
+      },
+      "five": {
+        "question": "Onko ostoksellani oikeasti merkitystä?",
+        "answer": "Todellakin! Pienilläkin teoilla on vaikutusta. Jokainen linkin kautta tehty ostos tuo heille tuloja suoraan brändiltä. Tuo tuki voi mennä esimerkiksi harjoitteluun, treenileireihin, varusteisiin tai unelman tavoitteluun. Et vain osta tuotetta, valitset seisoa jonkun tukena."
+      },
+      "six": {
+        "question": "Entä jos tilaukseni kanssa tulee ongelma?",
+        "answer": "Tilaukset tehdään suoraan brändin verkkosivustolla. Palautuksissa tai ongelmatilanteissa ota yhteyttä yrityksen sivujen tai tilausvahvistussähköpostin kautta."
+      },
+      "faq": "UKK",
+      "para": "Lue vastaukset yleisimpiin kysymyksiin fanina toimimisesta alustallamme."
+    },
+    "header": {
+      "heading": "UKK",
+      "para": "Löydä vastauksia usein kysyttyihin kysymyksiin, olitpa sitten fani, brändi tai urheilija."
+    },
+    "body": {
+      "heading": "Haluatko lisätietoa?",
+      "para": "Autamme mielellämme!",
+      "btn": "Ota yhteyttä"
+    },
+    "footer": {
+      "heading": "Tarvitsetko lisää apua? Ota yhteyttä.",
+      "para": "Tukemme on valmiina auttamaan sinua kaikissa kysymyksissäsi.",
+      "btn1": "Ota yhteyttä",
+      "btn2": "Tuki"
+    }
+  },
+  "Resources": {
+    "fallback": "Ei blogeja löytynyt.",
+    "heroData": {
+      "title": "Tutustu resursseihimme",
+      "content": "Tutustu hyödyllisiin tietoihin, usein kysyttyihin kysymyksiin ja ajankohtaisiin päivityksiin parantaaksesi käyttökokemustasi alustallamme."
+    },
+    "headingContentData": {
+      "subTitle": "Blogi",
+      "title": "Trendejä ja vinkkejä",
+      "para": "Lue viimeisimmät blogi kirjoituksemme alta.",
+      "btn": "Kaikki"
+    },
+    "blogData": {
+      "one": {
+        "tag": "Sports",
+        "title": "Maximize Your Game Day Experience",
+        "description": "Tutustu how to enhance your game day with these tips.",
+        "author": "John Doe",
+        "date": "11 Jan 2022",
+        "readTime": "5 min read"
+      },
+      "two": {
+        "tag": "Marketing",
+        "title": "Building Stronger Brändit Partnerships",
+        "description": "Learn how to create impactful partnerships in sports marketing.",
+        "author": "Jane Smith",
+        "date": "10 Feb 2022",
+        "readTime": "7 min read"
+      },
+      "three": {
+        "tag": "Insights",
+        "title": "The Future of Sports Sponsorship",
+        "description": "Explore emerging trends in sports sponsorship and marketing.",
+        "author": "Alex Johnson",
+        "date": "15 Mar 2022",
+        "readTime": "6 min read"
+      }
+    },
+    "companyNewHeadingData": {
+      "subTitle": "News",
+      "title": "Tutustu oppaisiin ja ohjeisiin",
+      "para": "Syvenny käytännön ohjeisiin, ominaisuuksien esittelyihin ja vinkkeihin, joiden avulla saat palvelusta kaiken irti."
+    },
+
+    "faqData": {
+      "one": {
+        "title": "Mikä on sbonssy?",
+        "content": "sbonssy on alusta, joka yhdistää fanit suosikkiurheiluvaikuttajiinsa kampanjoiden avulla. Se mahdollistaa brändeille affiliate-markkinointikampanjoiden luomisen, joita vaikuttajat voivat mainostaa. Fanit voivat tutustua näihin kampanjoihin ja tukea suosikkejaan."
+      },
+      "two": {
+        "title": "Kuinka voin osallistua?",
+        "content": "Osallistuminen on helppoa – siirry vain alustamme markkinapaikalle. Voit tutkia erilaisia kampanjoita ja tukea valitsemiasi vaikuttajia. Seuraa annettuja ohjeita osallistuaksesi kampanjoihin."
+      },
+      "three": {
+        "title": "Onko osallistuminen maksullista?",
+        "content": "Faneille kampanjoihin tutustuminen sbonssyssa on maksutonta. Brändeillä voi olla omia hinnoittelurakenteita kampanjoille, joita urheiluvaikuttajat mainostavat. Tarkista aina kampanjan ehdot mahdollisten maksujen varalta."
+      },
+      "four": {
+        "title": "Voinko ehdottaa kampanjoita?",
+        "content": "Kyllä, otamme mielellämme vastaan kampanjaehdotuksia! Jos sinulla on idea, ota yhteyttä tiimiimme. Arvostamme yhteisömme mielipiteitä ja haluamme kuulla uusista mahdollisuuksista."
+      },
+      "five": {
+        "title": "Kuinka voin ottaa yhteyttä?",
+        "content": "Voit ottaa meihin yhteyttä verkkosivustomme 'Yhteystiedot'-osion kautta. Pyrimme vastaamaan kaikkiin tiedusteluihin mahdollisimman nopeasti. Palautteesi ja kysymyksesi ovat meille tärkeitä!"
+      },
+      "para": "Löydä vastaukset kysymyksiisi alustastamme ja sen toiminnasta."
+    },
+
+    "newsletterData": {
+      "heading": "Pysy ajan tasalla uutiskirjeemme avulla",
+      "description": "Rekisteröidy saadaksesi uusimmat blogipäivitykset, kampanjat ja uutiset suosikkiurheilijoiltasi.",
+      "placeholder": "Anna sähköpostiosoitteesi",
+      "buttonText": "Rekisteröidy",
+      "disclaimer": "Klikkaamalla Rekisteröidy vahvistat, että hyväksyt ",
+      "text": "."
+    },
+    "roles": {
+      "one": "Fanit",
+      "two": "Brändit",
+      "three": "Lähettiläät"
+    }
+  },
+  "Help": {
+    "heading": "Tuki & Ohjeet",
+    "para": " Tervetuloa ohjekeskukseemme! Olitpa vasta aloittamassa tai haluat syventyä palvelun edistyneempiin ominaisuuksiin, löydät täältä ohjeita, usein kysyttyjä kysymyksiä sekä hyödylliset artikkeleita, jotka tukevat sinua jokaisessa vaiheessa."
+  },
+  "SupportSportsSection": {
+    "title": "Urheilumarkkinoinnin uusi koti.",
+    "subtitle": "Tue suosikkejasi ostamalla kuten ennenkin.",
+    "steps": {
+      "discover": {
+        "title": "Löydä",
+        "description": "Vieraile alustamme kauppapaikassa. Tutustu lähettiläiden profiileihin ja löydä aitoja tuote- ja brändisuosituksia."
+      },
+      "choose": {
+        "title": "Valitse",
+        "description": "Valitse lähettiläs, jonka tyyliin tai arvoihin samaistut. Kun teet ostoksia heidän profiilinsa kautta, tukesi ohjautuu suoraan heille."
+      },
+      "shop": {
+        "title": "Osta",
+        "description": "Siirry lähettilään profiilista brändin verkkokauppaan ostoksille. Saat haluamasi tuotteet ja valitsemasi lähettiläs saa palkkion, ilman lisäkustannuksia sinulle!"
+      }
+    }
+  },
+  "MarketPlace": {
+    "heading": "Kauppapaikka",
+    "headings": {
+      "one": "Löydä urheilulähettiläs",
+      "two": "Katso brändit"
+    },
+    "seeProfile": "Katso profiili >",
+    "filters": "Suodattimet",
+    "keyword": "Hae brändiä",
+    "clear": "Tyhjennä",
+    "allClear": "Tyhjennä kaikki",
+    "showResults": "Näytä tulokset",
+    "placeholder": "Valitse kategoria…",
+    "campaignFilters": {
+      "one": "Kampanjan tyyppi",
+      "two": "Brändin nimi",
+      "three": "Kategoria",
+      "four": "Sukupuoli",
+      "OfferTypes": {
+        "all": "Kaikki",
+        "product": "Tuote",
+        "service": "Palvelu"
+      },
+      "category": {
+        "Apparel": "Vaatteet",
+        "Technology": "Teknologia",
+        "Nutrition": "Ravinto",
+        "Wellness": "Hyvinvointi",
+        "Footwear": "Jalkineet",
+        "Services": "Palvelut",
+        "Media-Content": "Media",
+        "Outdoor-Adventure-Gear": "Ulkoilu",
+        "Events-Experiences": "Tapahtumat ja elämykset",
+        "Accessories-Equipment": "Asusteet ja varusteet",
+        "Other": "Muu"
+      }
+    },
+
+    "sportsFilters": {
+      "one": "Profiilityyppi",
+      "two": "Kausi",
+      "three": "Sijainti",
+      "four": "Taso",
+      "five": "Sukupuoli",
+      "sports": "Urheilu",
+      "sportsplaceholder": "Valitse urheilu...",
+      "search": "Etsi",
+      "roleTypes": {
+        "All-Roles": "Kaikki profiilityypit",
+        "Influencer": "Vaikuttaja",
+        "Coach": "Valmentaja",
+        "Athlete": "Urheilija",
+        "Para-Athlete": "Paraurheilija",
+        "Ex-Athlete": "Ex-urheilija",
+        "Team": "Joukkue"
+      },
+      "level": {
+        "All-level": "Kaikki tasot",
+        "Olympic": "Olympia",
+        "Professional": "Ammattilainen",
+        "Semi-Pro": "Puoliammatilainen",
+        "Amateur": "Amatööri",
+        "Junior": "Juniori"
+      },
+      "seasons": {
+        "All-Seasons": "Kaikki kaudet",
+        "Summer-Sports": "Kesälajit",
+        "Winter-Sports": "Talvilajit"
+      },
+      "gender": {
+        "male": "Mies",
+        "female": "Nainen",
+        "other": "Muu"
+      }
+    },
+
+    "campaigns": {
+      "heading": "Lähettiläät, jotka ovat liittyneet kampanjaasi.",
+      "searchPlaceholder": "Hae lähettiläitä...",
+      "select": "Valitse lähettiläs kuka palkitaan ostoksistasi",
+      "noResults": "Hakuasi vastaavia lähettiläitä ei löytynyt",
+      "fallbackText": "Ei vielä lähettiläitä mukana.",
+      "close": "Sulje",
+      "Select-Ambassador": "Valitse urheilulähettiläs",
+      "View": "Katso",
+      "sort": {
+        "heading": "Järjestä",
+        "latest": "Uusin",
+        "oldest": "Vanhin",
+        "nameAZ": "Nimi (A-Ö)",
+        "nameZA": "Nimi (Ö-A)"
+      },
+      "no": "Ei",
+      "found": "tuloksia",
+
+      "text1": "Try selecting a different campaign type",
+      "text2": "Muokkaa hakuehtoja tai yritä myöhemmin uudestaan.",
+      "remove": "Poista"
+    },
+    "sports": {
+      "influencer": "Vaikuttaja",
+      "sort": {
+        "heading": "Järjestä",
+        "latest": "Uusin",
+        "oldest": "Vanhin",
+        "nameAsc": "Nimi (A-Ö)",
+        "nameDesc": "Nimi (Ö-A)"
+      },
+      "fallbackText": "Hakuehdoillasi ei löytynyt yhtään tulosta.",
+      "text": "Kokeile vaihtaa suodattimia tai yritä myöhemmin uudelleen.",
+      "view": "Katso",
+      "fallback": {
+        "text1": "Tuntematon lähettiläs",
+        "text2": "Tuntematon urheilulaji",
+        "text3": "Määrittelemätön"
+      }
+    }
+  },
+  "Sidebar": {
+    "home": "Koti",
+    "saved": "Tallennettu",
+    "dashboard": "Hallintapaneeli",
+    "analytics": "Analytiikka",
+    "my-Campaigns": "Omat kampanjat",
+    "my-Products": "Omat tuotteet",
+    "payments": "Maksut",
+    "my-Ambassadors": "Omat lähettiläät",
+    "profile": "Profiili",
+    "inbox": "Viestit",
+    "help-center": "Tuki",
+    "settings": "Asetukset",
+    "collaboration-request": "Yhteistyö ehdotukset",
+    "my-team": "Oma tiimi",
+    "earnings": "Ansiot",
+    "campaigns": "Kampanjat"
+  },
+  "Sports": {
+    "allCampaigns": {
+      "heading": "Kampanjat",
+      "para": "Tutustu brändeihin ja kampanjoihin. Aloita tienaaminen jo tänään!",
+      "fallbackText": "Ei kampanjoita saatavilla.",
+      "all-campaigns": "Kaikki kampanjat",
+      "public": "Julkinen",
+      "apply": "Hae mukaan",
+      "placeholder": "Hae tuotemerkin mukaan",
+      "sort-by": "Järjestä:",
+      "sort": {
+        "one": "Oletus",
+        "two": "Uusin",
+        "three": "Vanhin",
+        "four": "Päättyy pian",
+        "five": "Nimi (A-Ö)",
+        "six": "Nimi (Ö-A)"
+      }
+    },
+    "campaigns": {
+      "heading": "Omat kampanjat",
+      "fallbackText": "Ei kutsuja, pyyntöjä, kampanjoita tai suosikkeja",
+      "pending": "Avoimet kutsut",
+      "pending-requests": "Odottaa hyväksyntää",
+      "joined": "Aktiiviset kampanjasi"
+    },
+    "campaignCard": {
+      "remove": "Poista profiilista",
+      "add": "Lisää profiiliin",
+      "settings": "Kampanjan tiedot",
+      "decline": "Hylkää",
+      "accept": "Hyväksy",
+      "cancel-request": "Peru pyyntö",
+      "join": "Lähetä liittymispyyntö",
+      "view": "Katso",
+      "accepted": "Hyväksytty",
+      "rejected": "Hylätty",
+      "join-now": "Liity nyt",
+      "joined": "Liitytty",
+      "link": "Luo linkki"
+    },
+    "invites": {
+      "sendBtn": "Lähetä pyyntö",
+      "cancelBtn": "Peru pyyntö",
+      "fallbackText": "Yhtään lähettilästä ei löytynyt yhteistyöhön",
+      "heading": "Yhteistyöpyynnöt",
+      "para": "Muokkaa hakua tai yritä uudelleen myöhemmin.",
+      "process": "Käsitellään",
+      "acceptedHeading": "Hyväksytyt yhteistyöt",
+      "fallbackText2": "Ei hyväksyttyjä yhteistöitä",
+      "text": "Sinulla ei ole vielä hyväksyttyjä yhteistöitä.",
+      "sport": "Urheilulaji:",
+      "view": "Katso"
+    },
+    "collaboration": {
+      "messageModal": {
+        "sendMsg": "Lähetä viesti",
+        "brand": "Brändit: ",
+        "jobTitle": "Titteli:",
+        "message": "Viesti",
+        "cancel": "Peru",
+        "send": "Lähetetään...",
+        "send2": "Lähetä",
+        "placeholder": "Kirjoita viesti tähän..."
+      },
+      "request": {
+        "heading": "Yhteistyöpyynnöt",
+        "fallback": "Yhteistyöpyyntöjä ei löytynyt.",
+        "reject": "Hylkää",
+        "accept": "Hyväksy"
+      },
+      "accepted": {
+        "heading": "Hyväksytyt yhteistyöpyynnöt"
+      }
+    },
+    "profile": {
+      "heading": "Oma profiili",
+      "sendMessage": "Lähetä viesti",
+      "subHeading": "Profiilin asetukset",
+      "para": "Pidä profiilisi ajantasalla, jotta brändit ja fanit voi tutustua sinuun paremmin.",
+      "para1": "Asetusten päivittäminen toimii samalla tavalla kuin tilin alkuasetusten tekeminen.",
+      "para2": "Hyvin viimeistelty profiili tekee sinusta houkuttelevamman yhteistyökumppaneille.",
+      "edit": "Muokkaa profiilia",
+      "share": "Jaa profiili",
+      "sport": "Urheilulaji",
+      "tip": "Vinkki:",
+      "support": "Tue minua",
+      "category": {
+        "one": "Ulkoilu",
+        "two": "Ympäristö",
+        "three": "Elokuvat",
+        "four": "AI",
+        "five": "Teknologia"
+      },
+      "tabs": {
+        "Overview": "Yleiskatsaus",
+        "Achievements": "Saavutukset",
+        "Records": "Ennätykset",
+        "Goals": "Tavoitteet",
+        "Future Aspirations": "Tulevaisuuden tavoitteet",
+        "Coaching Records": "Valmennustiedot",
+        "Past Achievements": "Aikaisemmat saavutukset",
+        "Past Records": "Entiset ennätykset",
+        "Current Goals": "Nykyiset tavoitteet",
+        "Biography": "Esittely"
+      },
+      "shop": "Osta",
+      "fvrtHeading": "Omat suosikit",
+      "text": "Profiiliin ei ole vielä lisätty suosikkeja.",
+      "view": "Katso kaikki",
+      "boldtext": "Uutta nostetta urheilulle",
+      "subText": "Sinun avullasi",
+      "subText1": " voi harjoitella paremmin, saavuttaa enemmän ja kulkea pidemmälle urheilun parissa. Tule mukaan osaksi matkaa, jolla on merkitystä.",
+      "noSportsAvailable": "Ei urheilulajeja saatavilla.",
+      "message": "Lähetä viesti käyttäjälle",
+      "placeholder": "Kirjoita viesti…",
+      "cancel2": "Peruuta",
+      "send": "Lähetä"
+    },
+    "fvrt": {
+      "heading": "Tue minua saavuttamaan unelmia.",
+      "para": "Jokainen kampanja vie minua eteenpäin. Kiitos, että olet mukana.",
+      "back": "< Takaisin",
+      "support": "Tue minua",
+      "text": "Ostoksesi tukee matkaani ja antaa mahdollisuuden tehdä sitä, mitä rakastan.",
+      "shop": "Osta",
+      "fvrtBrand": "Suosikkimerkit",
+      "fvrtProducts": "Suosikkituotteet",
+      "remove": "Poista profiilista"
+    },
+    "team": {
+      "fallback": "Ei odottavia kutsuja",
+      "pending": "Avoimet pyynnöt",
+      "pendingFallback": "Tarkista myöhemmin, löytyykö uusia kutsuja.",
+      "processing": "Käsitellään...",
+      "reject": "Hylkää",
+      "accept": "Hyväksy",
+      "accepted": "Hyväksytyt yhteistyöt",
+      "acceptedFallback": "Hyväksyttyjä yhteistöitä ei löytynyt",
+      "acceptedFallbackText": "Sinulla ei ole vielä hyväksyttyjä yhteistöitä.",
+      "view": "Katso"
+    },
+    "edit": {
+      "sport": "Urheilulaji",
+      "level": "Taso",
+      "team": "Joukkueen nimi",
+      "location": "Maa",
+      "bio": "Bio",
+      "companyLabel": "Y-tunnus",
+      "companyPlaceholder": "Yrityksesi virallinen rekisterinumero",
+      "addressLabel": "Virallinen osoite (Ei näy julkisesti alustalla)",
+      "addressPlaceholder": "Tätä osoitetta vaaditaan lain mukaan esim. veroraportointiin.",
+      "taxTooltip": {
+        "title": "Henkilötunnus / Y-tunnus",
+        "placeholder": "Syötä henkilötunnuksesi tai yrityksesi y-tunnus",
+        "euLawTitle": "EU-laki (DAC7)",
+        "euLaw": "Lain (DAC7) mukaan meidän on kerättävä ja raportoitava vaikuttajien verotunniste veroviranomaisille.",
+        "options": "Voit toimittaa joko henkilötunnuksen tai Y-tunnuksen (jos toimit yrityksesi kautta).",
+        "disclaimer": "Tietoa käytetään ainoastaan lakisääteiseen raportointiin, eikä sitä näytetä julkisesti. Sbonssy ei huolehdi käyttäjien veroilmoituksista tai verojen maksamisesta – jokainen käyttäjä vastaa omista verovelvoitteistaan."
+      },
+      "achievements": "Saavutukset",
+      "records": "Ennätykset",
+      "goal": "Tavoitteet",
+      "interests": "Kiinnostuksen kohteet",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "tikTok": "TikTok",
+      "youtube": "Youtube",
+      "linkedin": "Linkedin",
+      "X": "X",
+      "website": "Nettisivut",
+      "cancel": "Peruuta",
+      "save": "Tallenna",
+      "url": "Anna URL-osoite"
+    },
+    "chat": {
+      "messages": "Viestit",
+      "headTxt1": "Etsi",
+      "headTxt2": "Ei valittua keskustelua",
+      "para1": "Select a user to start chatting",
+      "para2": "Valitse käyttäjä aloittaaksesi keskustelun",
+      "report": "Raportoi",
+      "unblock": "Poista esto",
+      "block": "Estä",
+      "reportU": " Raportoi käyttäjä",
+      "reason": "Syy",
+      "select": "Valitse syy",
+      "reason1": "Epäsovelias käytös",
+      "reason2": "Roskaposti",
+      "reason3": "Häirintä",
+      "reason4": "Muu",
+      "details": "Lisätiedot (valinnainen)",
+      "placeholder": "Anna lisätietoja...",
+      "cancel": "Peruuta",
+      "submit": "Lähetä",
+      "fallbackText": "Ei viestejä",
+      "start": "Aloita keskustelu",
+      "file": "Tiedosto liitetty",
+      "remove": "Poista",
+      "view": "Katso liite",
+      "msgPlaceholder": "Kirjoita viesti..",
+      "sending": "Lähetetään...",
+      "send": "Lähetä",
+      "delete": "Poista",
+      "text1": "Aloita keskustelu",
+      "text2": "Ei keskusteluja",
+      "placeholderTxt1": "Etsi urheilulähettiläs...",
+      "placeholderTxt2": "Etsi brändi...",
+      "placeholderTxt3": "Etsi käyttäjä...",
+      "searching": "Etsitään...",
+      "nou": "Käyttäjää ei löydetty"
+    }
+  },
+  "Brand": {
+    "campaignsPage": {
+      "verified": "Vahvistettu",
+      "published": "Julkaistu",
+      "search": "Etsi",
+      "awaitingApproval": "Odottaa hyväksyntää",
+      "notPublished": "Luotu, ei julkaistu",
+      "campaigns": "Kampanjat",
+      "resume": "Jatka",
+      "pause": "Tauko",
+      "delete": "Poista",
+      "fallback": "Kampanjoita ei löytynyt.",
+      "create": "Luo kampanja",
+      "requests": "Pyynnöt",
+      "all": "Kaikki kampanjat",
+      "fallback2": "Pyyntöjä ei löydetty.",
+      "select": "Valitse lähettiläs",
+      "fallback3": "Lähettiläitä ei löytynyt.",
+      "load": "Ladataan...",
+      "cancel": "Peruuta",
+      "sending": "Lähetetään...",
+      "send": "Lähetä pyyntö",
+      "settings": "Asetukset",
+      "view": "Katso",
+      "invite": "Kutsu",
+      "noPaymentMethodTitle": "Ei maksutapaa",
+      "noPaymentMethodText": "Lisää maksutapa ennen toiminnon jatkamista.",
+      "addPaymentMethod": "Lisää maksutapa",
+      "errorCheckingPayment": "Maksutapojen tarkistus epäonnistui",
+      "errorCheckingPaymentText": "Maksutapojen tarkistuksessa tapahtui virhe. Yritä uudelleen.",
+      "verificationRequiredTitle": "Viimeistele vahvistus",
+      "verificationRequiredText": "Stripe-tilisi on yhdistetty, mutta sitä ei ole vahvistettu. Viimeistele vahvistus jatkaaksesi.",
+      "pendingRequirements": "Puuttuu:",
+      "goToPayments": "Siirry maksuihin",
+      "verificationCheckFailed": "Stripen vahvistuksen tarkistus epäonnistui. Yritä uudelleen.",
+      "error": "Virhe",
+      "noBrandInfo": "Ei voi hakea: Brändin tiedot puuttuvat.",
+      "confirmApplyTitle": "Oletko varma?",
+      "confirmApplyText": "Oletko varma, että haluat lähettää pyynnön?",
+      "yes": "Kyllä",
+      "requestSent": "Pyyntö lähetetty",
+      "applyFailed": "Pyynnön lähetys epäonnistui. Yritä uudelleen.",
+      "confirmJoinTitle": "Oletko varma?",
+      "confirmJoinText": "Oletko varma, että haluat liittyä tähän kampanjaan?",
+      "joinSuccess": "Liitytty onnistuneesti",
+      "joinFailed": "Kampanjaan liittyminen epäonnistui. Yritä uudelleen.",
+      "confirmCancelTitle": "Oletko varma?",
+      "confirmCancelText": "Oletko varma, että haluat peruuttaa tämän pyynnön?",
+      "cancelSuccess": "Pyyntö peruutettu onnistuneesti",
+      "cancelFailed": "Pyynnön peruutus epäonnistui. Yritä uudelleen.",
+      "confirmInvitationTitle": "Oletko varma?",
+      "confirmInvitationText": "Oletko varma, että haluat {action} tämän kampanjakutsun?",
+      "invitationAccepted": "Kutsu hyväksytty onnistuneesti.",
+      "invitationDeclined": "Kutsu hylätty onnistuneesti.",
+      "invitationFailed": "Kutsun käsittely epäonnistui. Yritä uudelleen.",
+      "confirmFavoriteTitle": "{action, select, add {Lisää kampanja julkiseen profiiliin!} remove {Oletko varma?} other {Oletko varma?}}",
+      "confirmFavoriteText": "{action, select, add {Profiiliin lisätyt kampanjat käyttävät samoja seurattavia linkkejä, joten ne ovat aina hyödynnettävissä, myös silloin, kun et aktiivisesti mainosta. Voit näin jakaa profiilisi URL:n ja seuraajasi löytävät kaikki suosikkisi yhdestä osoitteesta.} remove {Haluatko poistaa tämän kampanjan profiilistasi?} other {Haluatko jatkaa?}}",
+      "favoriteSuccess": "Kampanja {action, select, added {lisätty profiiliin} removed {poistettu profiilista} other {päivitetty profiiliin}}",
+      "favoriteFailed": "Suosikkikampanjoiden päivitys epäonnistui. Yritä uudelleen.",
+      "add": "Lisää",
+      "notNow": "Ei nyt",
+      "no": "Ei",
+      "invalidRole": "Virheellinen käyttäjärooli. Päivitä profiilisi.",
+      "shopifyConnected": "Shopify yhdistetty",
+      "shopify": "Onko teillä käytössänne Shopify? Yhdistä verkkokauppasi alustaamme ja luo kampanjoita, aseta seuranta ja lataa tuotteita vain muutamalla klikkauksella. Lue ohjeet täältä."
+    },
+    "campaignCreate": {
+      "heading": "Aloitetaan perustiedoista",
+      "editHead": "Päivitä kampanjan sisältö",
+      "para": "Muutama lisätieto, jotta käyttökokemuksesi olisi juuri sinulle sopiva.",
+      "back": "Takaisin",
+      "cancel": "Peruuta",
+      "upload": "Lataa",
+      "next": "Seuraava",
+      "save": "Tallenna",
+      "update": "Päivitä kampanja",
+      "updating": "Päivitetään...",
+      "creating": "Luodaan...",
+      "edit": "Muokkaa kampanjaa",
+      "head": "Luo uusi kampanja",
+      "create": "Luo kampanja",
+      "step1": {
+        "heading": "Kampanjan perusteet",
+        "subHeading": "Kerro meille hieman kampanjastasi, niin autamme sinua tavoittamaan oikeat sisällöntuottajat.",
+
+        "label": "Kampanjan tyyppi",
+        "label1": "Kampanjan tyyppi",
+        "label2": "Kampanjan kategoria",
+        "label3": " Kampanjan otsikko (ei julkinen)",
+        "label4": "Kampanjan kuva",
+        "label5": "Kuvaus",
+        "label6": "Aloitus pvm",
+        "label7": "Lopetus pvm",
+        "label8": "Jatkuva kampanja (ei määriteltyä päättymistä)",
+        "label9": "Kohdealueet",
+        "placeholder1": "Esim. Syksy25 (max. 15 merkkiä)",
+        "placeholder2": "Kerro urheilulähettiläille brändistäsi...",
+        "placeholder3": "Valitse alueet...",
+        "imgFormat": "PNG, JPG max 10MB",
+        "uploading": "Ladataan...",
+        "upload": "Lataa kuva klikkaamalla",
+        "para1": "Kirjoita kampanjallesi lyhyt otsikko, esim. 'Sbonssyn palvelut -20 %'. Ei alennusta? Ei hätää. Voit käyttää myös esimerkiksi: 'Uusi mallisto nyt verkkokaupassamme' tai 'Ilmainen toimitus yli 50 € tilauksille'. Kampanjan otsikko näkyy julkisessa markkinapaikassa.",
+        "para": "Otsikko näkyy kaikille markkinapaikassa.",
+        "para2": "Suosittelemme käyttämään brändin logoa. Kuva on julkinen kauppapaikassamme.",
+        "renderheading": " Lataa kuva:",
+        "invalid": "Virheellinen",
+        "type": {
+          "one": "Julkinen",
+          "two": "Hae mukaan",
+          "three": "Yksityinen"
+        },
+        "typePara": {
+          "one": "Kampanja on avoin kaikille rekisteröityneille urheilulähettiläille ja kuka tahansa heistä voi alkaa mainostaa sitä heti.",
+          "two": "Urheilulähettiläiden täytyy hakea mukaan ja sinä päätät, kuka saa aloittaa kampanjan mainostamisen.",
+          "three": "Vain sinä ja kutsumasi urheilulähettiläät näette kampanjan."
+        },
+        "category": {
+          "Apparel": "Vaatteet",
+          "Technology": "Teknologia",
+          "Nutrition": "Ravinto",
+          "Wellness": "Hyvinvointi",
+          "Footwear": "Jalkineet",
+          "Services": "Palvelut",
+          "Media": "Media",
+          "Outdoor": "Ulkoilu",
+          "Events": "Tapahtumat",
+          "Accessories": "Varusteet",
+          "Other": "Muut"
+        },
+        "offerType": {
+          "Product": "Tuote",
+          "Service": "Palvelu"
+        }
+      },
+      "step2": {
+        "heading": "Palkkiorakenne",
+        "subHeading": "Valitse, miten haluat palkita sisällöntuottajia liikenteen, liidien tai myynnin tuomisesta.",
+        "stripe": "Stripe maksunvälityspalkkio lisätään.",
+        "label": "Valitse, miten haluat palkita urheilulähettiläät. Tähän määrittelemäsi summa on se, jonka he saavat. Alustamme lisää palvelumaksun lähettilään palkkion päälle.",
+        "rate": "Komissioprosentti (lasketaan ostoskorin kokonaisarvosta ilman lähetyskuluja)",
+        "rateTooltip": {
+          "intro": "Nämä komissiot perustuvat alan keskiarvoihin. Korkeampi komissio voi merkittävästi lisätä lähettiläiden kiinnostusta ja kampanjasi näkyvyyttä.",
+          "apparel": "Vaatteet & muoti: 8–15 %",
+          "fitness": "Kuntoiluvälineet & teknologia: 8–20 %",
+          "supplements": "Ravintolisät: 10–30 %",
+          "digital": "Digitaaliset tuotteet & palvelut: 20–50 %+"
+        },
+        "gifting": "Tuotelahjoitus",
+        "para": "Salli sisällöntuottajien pyytää tuotteitasi testattavaksi, näin he voivat mainostaa kampanjaasi aidommin.",
+        "affiliate": "Minne affiliate-linkin tulisi ohjata käyttäjät?",
+        "affiliateHelper": "Tätä osoitetta käytetään kun lähettiläs jakaa kampanjan eikä tiettyä tuotetta. Suosittelemme tähän verkkosivujenne etusivua.",
+        "affiliatePlaceholder": "Liitä koko URL-osoite, jolle käyttäjät päätyvät klikattuaan affiliate-linkkiä (esimerkiksi kotisivusi).",
+        "cookie": "Evästeen voimassaoloaika",
+        "para2": "Määrittää, kuinka kauan lähettiläs on oikeutettu komissioon sen jälkeen, kun asiakas on klikannut hänen affiliate-linkkiä.",
+        "duration": "Valitse kesto",
+        "days": "päivää",
+        "restrictionText": "Palkkiotyyppi valittu automaattisesti",
+        "restrictionPara": "Kun Shopify on yhdistetty ja tuotteet valittu, käytössäsi on myyntiperusteinen palkkio.",
+        "type": {
+          "one": "Palkkio per myynti",
+          "two": "Palkkio per liidi",
+          "three": "Palkkio per klikkaus",
+          "four": "Kiinteä palkkio",
+          "five": "Kiinteän palkkion määrä"
+        },
+        "flat": {
+          "one": "Kertaluonteinen kiinteä maksu lähettilään osallistumisesta kampanjaasi.",
+          "two": "Määrität: Kiinteän palkkion (esim. 50 € per lähettiläs)",
+          "three": "Lähettiläs saa: Kyseisen summan, kun osallistuminen on hyväksytty ja vahvistettu",
+          "four": "Alustan palvelumaksu: 20 % kiinteästä palkkiosta",
+          "five": "Esimerkki: 50 € kiinteä palkkio:",
+          "six": "- Lähettiläs ansaitsee: 50 €",
+          "seven": "- Alustan palvelumaksu: 10 €",
+          "eight": "- Kokonaiskustannus sinulle: 60 €"
+        },
+        "click": {
+          "one": "Kiinteä summa maksetaan aina, kun joku klikkaa lähettilään linkkiä.",
+          "two": "Määrität: Kiinteä summa per klikkaus (esim. 0,50 €)",
+          "three": "Lähettiläs saa: Tämän summan jokaisesta uniikista klikkauksesta",
+          "four": "Alustan palvelumaksu: 20 % lähettilään palkkiosta",
+          "five": "Esimerkki: 0,50 € per klikkaus:",
+          "six": "- Lähettiläs ansaitsee: 0,50 €",
+          "seven": "- Alustan palvelumaksu: 0,10 €",
+          "eight": "- Kokonaiskustannus sinulle: 0,60 €"
+        },
+        "lead": {
+          "one": "Kiinteä maksu jokaisesta lähettilään tuomasta liidistä tai rekisteröitymisestä.",
+          "two": "Määrität: Kiinteä summa per liidi/rekisteröityminen (esim. 5 €)",
+          "three": "Lähettiläs saa: Tämän summan jokaisesta hyväksytystä liidistä",
+          "four": "Alustan palvelumaksu: 20 % lähettiläälle maksettavasta summasta",
+          "five": "Esimerkki: 5 € per liidi:",
+          "six": "- Lähettiläs ansaitsee: 5 €",
+          "seven": "- Alustan palvelumaksu: 1 €",
+          "eight": "- Kokonaiskustannus sinulle: 6 €"
+        },
+        "sale": {
+          "one": "Provisio jokaisesta lähettilään tuottamasta myynnistä.",
+          "two": "Määrität: Prosentti myyntisummasta (esim. 10 %)",
+          "three": "Lähettiläs saa: Tämän prosenttiosuuden jokaisesta tuottamastaan myynnistä",
+          "four": "Alustan palvelumaksu: 4 % myynnin arvosta",
+          "five": "Esimerkki: 100 € myynti ja 10 % provisio:",
+          "six": "- Lähettiläs ansaitsee: 10 €",
+          "seven": "- Alustan palvelumaksu: 4 €",
+          "eight": "- Kokonaiskustannus sinulle: 14 €"
+        }
+      },
+      "step3": {
+        "heading": "Urheilulähettilään profiili",
+        "min": "Seuraajia vähintään",
+        "max": "Seuraajia enintään",
+        "platforms": "Alustat",
+        "placeholder": "Valitse alustat...",
+        "types": "Urheilulähettiläiden tyypit",
+        "placeholder2": "Valitse urheilulähettiläiden tyypit..."
+      },
+      "step4": {
+        "heading": "Kampanjaohjeistus",
+        "subHeading": "Kerro kampanjastasi ja lisää tarvittavat sisältövaatimukset kuten hashtagit, brändimaininnat ja vinkit, jotta lähettiläiden on helpompi aloittaa yhteistyö.",
+
+        "placeholder": "Pakolliset CTA:t, hashtagit, brändimaininnat jne.",
+        "label": "Hyväksy sisältö ennen sen julkaisua"
+      },
+      "step5": {
+        "heading": "Lataa luovat aineistot (valinnainen)",
+        "subHeading": "Lisää logoja, tuotekuvia tai videoita sisällön luomisen tueksi—vain jos tarpeen.",
+
+        "Uploaded": "Ladattu",
+        "Invalid": "Virheellinen",
+        "assets": "Brändimateriaali (valinnainen)",
+        "para": "Brändimateriaalien lataaminen on vapaaehtoista. Useimmat lähettiläät luovat tehokasta sisältöä omalla uniikilla tyylillään (UGC). Lataa tiedostoja vain, jos sinulla on tarkkoja brändivaatimuksia.",
+        "logo": "Brändilogot (valinnainen)",
+        "desc": "PNG, JPG, SVG enintään 10 Mt",
+        "product": "Tuotekuvat (valinnainen)",
+        "video": "Tuotevideot (valinnainen)",
+        "descv": " MP4, MOV enintään 50 Mt",
+        "style": "Brändin tyyliopas (valinnainen)",
+        "Colors": "Värit",
+        "Fonts": "Fontit",
+        "Guidelines": "Ohjeet",
+        "posts": "Esimerkkipostaukset (valinnainen)",
+        "desci": "Kuvia tai videoita, jotka näyttävät millaisia julkaisuja haetaan",
+        "uploading": "Ladataan...",
+        "upload": "Klikkaa ladataksesi esimerkkipostaukset",
+        "logos": "Klikkaa ladataksesi logo(t)",
+        "placeholder1": "Ensisijainen fontti: Montserrat, Toissijainen fontti: Open Sans",
+        "placeholder2": "Ensisijainen: #3B82F6, Toissijainen: #10B981, Korostus: #F59E0B",
+        "placeholder3": "Mitä sisältöön saa ja ei saa sisällyttää..."
+      },
+      "step6": {
+        "heading": "Viimeistele sopimusehdot",
+        "subHeading": "Aseta ehdot ja määritä selkeät ohjeet, jotta kampanjasi pysyy lainmukaisena ja suojattuna.",
+
+        "txt1": "Hyväksyn",
+        "txt2": "Affiliate-ehdot ja -sopimuksen",
+        "label": "Sisällöntuottajien on ilmoitettava selkeästi kaupallisesta yhteistyöstä.",
+        "para": "Suosittelemme pitämään tämän asetuksen käytössä, jotta mainontaa koskevat säädökset täyttyvät",
+        "head": "Kampanjan ehdot",
+        "placeholder": "Lisää kampanjaasi koskevat oikeudelliset ehdot",
+        "useSampleTemplate": "Käytä esimerkkipohjaa",
+        "templateHelper": "Voit käyttää alla olevaa pohjaa luodessasi kampanjasi ehtoja. Klikkaa 'Käytä esimerkkipohjaa' ladataksesi sen ja muokkaa sitä kampanjasi tarpeiden mukaan."
+      },
+
+      "step7": {
+        "productSelection": "Valitse tuotteet",
+        "loading": "Ladataan tuotteita...",
+        "retry": "Yritä uudelleen",
+        "fallback": "Ei Shopify-integraatiota",
+        "para1": "Voit luoda ja pyörittää kampanjoita alustallamme ilman Shopifyta. Ilman Shopify-integraatiota lähettiläät eivät kuitenkaan voi lisätä tuotteita omiin profiileihin tai suositella yksittäisiä tuotteita.",
+        "para2": "Jos brändisi käyttää Shopifyta, yhdistä kauppasi tilin etusivulta ottaaksesi käyttöön tuotekohtaisen markkinoinnin.",
+        "products": "Jatka ilman tuotteita",
+        "fallback1": "Tuotteita ei löytynyt",
+        "fallback2": "Shopify-kaupastasi ei löytynyt tuotteita",
+        "add": "Lisää tuotteita Shopify-kauppaasi ja yritä uudelleen.",
+        "select": "Valitse tuotteet, joita haluat mainostaa tässä kampanjassa. Nämä tuotteet ovat lähettiläiden saatavilla mainostettavaksi.",
+        "campaignProducts": "Kampanjatuotteet *",
+        "selectedProducts": "Valitut tuotteet",
+        "remove": "Poista",
+        "placeholder": "Valitse tuotteet kampanjaasi...",
+        "selectAll": "Valitse kaikki tuotteet",
+        "continue": "Jatka ilman tuotteita"
+      },
+      "platformOptions": {
+        "Instagram": "Instagram",
+        "YouTube": "YouTube",
+        "X": "X",
+        "tikTok": "TikTok",
+        "facebook": "Facebook"
+      },
+      "regionOptions": {
+        "North": "Pohjois-Amerikka",
+        "Europe": "Eurooppa",
+        "Asia": "Aasia",
+        "Africa": "Afrikka",
+        "South": "Etelä-Amerikka",
+        "Australia": "Australia"
+      },
+      "ambassadorTypeOptions": {
+        "Athlete": "Urheilija",
+        "Team": "Joukkue",
+        "Influencer": "Vaikuttaja",
+        "Para-Athlete": "Paraurheilija",
+        "Coach": "Valmentaja",
+        "Ex-Athlete": "Ex-urheilija"
+      }
+    },
+    "myTeam": {
+      "sendMessage": "Lähetä viesti",
+      "Cancel": "Peruuta",
+      "sending": "Lähetetään...",
+      "send": "Lähetä",
+      "heading": "Urheilulähettiläät",
+      "para": "Katso tiimisi ja kutsu jäseniä mukaan",
+      "fallback": "Lähettiläitä ei löytynyt",
+      "Processing": "Käsitellään...",
+      "Invite": "Kutsu",
+      "team": "Minun tiimi",
+      "subHeading": " Oletko yhteistyössä urheilulähettiläiden kanssa alustamme ulkopuolella? Pyydä heitä liittymään alustallemme niin voit lisätä heidät oman profiilisi alle ja osoittaa yhteistyönne faneille.",
+      "fallback2": "Hyväksyttyjä yhteistöitä ei löytynyt",
+      "para2": "Sinulla ei ole vielä hyväksyttyjä yhteistöitä.",
+      "Message": "Viesti",
+      "placeholder": "Kirjoita viesti tähän...",
+      "placeholder2": "Hae nimellä tai urheilulajilla",
+      "invite": "Kutsu lähettiläitä tiimiisi."
+    },
+    "edit": {
+      "edit": "Muokkaa profiilia",
+      "Campaigns": "Kampanjat",
+      "sendMsg": "Lähetä viesti",
+      "team": "Minun tiimi",
+      "para": " Yhteiset tavoitteet. Aidot kumppanuudet.",
+      "view": "Katso kaikki",
+      "myCampaigns": "Omat kampanjat",
+      "para2": "Tutustu kampanjoihin ja tee vaikutus, jokaisella ostolla on merkitystä!",
+      "heading": "Tue urheilun tulevaisuutta.",
+      "para3": " Tue urheilijoita, joukkueita ja sisällöntuottajia. Ole osa jotain suurempaa.",
+      "Cancel": "Peruuta",
+      "send": "Lähetä",
+      "sending": "Lähetetään...",
+      "all": "Kaikki tiimin jäsenet",
+      "back": "Takaisin",
+      "profile": "Katso profiili",
+      "allc": "Kaikki kampanjat",
+      "Select": "Valitse lähettiläs",
+      "ambHeading": " Lähettiläät ",
+      "fallback": "Yhtään lähettilästä ei ole saatavilla tälle kampanjalle",
+      "close": "Sulje"
+    },
+    "editProfile": {
+      "heading": "Oma profiili",
+      "vat": "Y-tunnus / rekisterinumero",
+      "justMe": "vain minä",
+      "company": "Brändin nimi",
+      "website": "Kotisivut",
+      "nameLabel": "Virallinen nimi",
+      "namePlaceholder": "Yrityksen tai yhdistyksen virallinen rekisteröity nimi.",
+      "addressLabel": "Yrityksen osoite",
+      "addressPlaceholder": "Yrityksen virallinen rekisteröity osoite.",
+      "desc": "Kuvaus",
+      "option": "Yrityksesi kiinnostukset ja arvot",
+      "logo": "Lataa yrityksesi logo",
+      "companySize": "Yrityksen koko (työntekijät)",
+      "cancel": "Peruuta",
+      "saving": "Tallennetaan",
+      "save": "Tallenna",
+      "firstName": "Etunimi",
+      "lastName": "Sukunimi",
+      "placeholder": {
+        "one": "Kirjoita yrityksesi nimi",
+        "two": "Yrityksen virallinen rekisterinumero (esim. Y-tunnus Suomessa).",
+        "three": "Kirjoita kotisivujen osoite",
+        "four": "Valitse yrityksesi kiinnostukset ja arvot"
+      }
+    }
+  },
+  "Common": {
+    "heading": "Tervetuloa hallintapaneelisi kotisivulle",
+    "accept": "Hyväksy",
+    "decline": "Hylkää",
+    "select": "Valitse lähettiläs"
+  },
+  "onboardingBrand": {
+    "next": "Seuraava",
+    "step": "vaihe",
+    "back": "Takaisin",
+
+    "step1": {
+      "heading": "Aloitetaan perustiedoista",
+      "para": "Anna perustiedot yrityksestäsi, kuten nimi ja verkkosivut.",
+      "firstNameLabel": "Etunimi",
+      "lastNameLabel": "Sukunimi",
+      "firstName": "Syötä etunimi",
+      "lastName": "Syötä sukunimi",
+      "jobTitle": "Anna työnimike",
+      "brandName": "Anna brändin nimi",
+      "vatNumber": "Yrityksen virallinen rekisterinumero",
+      "vatNumberHelper": "(esim. Y-tunnus Suomessa, VAT ID EU:ssa tai vastaava maassasi)",
+      "introduction": "Kirjoita lyhyt esittely yrityksestäsi.",
+      "label1": "Titteli",
+      "label2": "Mikä on brändisi nimi? (näkyy julkisesti alustallamme)",
+      "label3": "Y-tunnus / rekisterinumero",
+      "label4": "Kotisivujen osoite",
+      "label5": "Kirjoita lyhyt esittelyteksti yrityksestäsi",
+      "nameLabel": "Virallinen nimi",
+      "namePlaceholder": "Yrityksen tai yhdistyksen virallinen rekisteröity nimi.",
+      "addressLabel": "Yrityksen osoite",
+      "addressPlaceholder": "Yrityksen virallinen rekisteröity osoite.",
+      "count": "vaihe 1/3"
+    },
+    "step2": {
+      "heading": "Yrityksen arvot ja koko",
+
+      "para": "Määrittele kiinnostuksen kohteet, lataa logo ja kerro työntekijämäärä.",
+      "label1": "Yrityksesi kiinnostukset ja arvot",
+      "label2": "Lataa yrityksesi logo",
+      "label3": "Kuinka monta työntekijää teillä on?",
+      "placeholder": "Valitse maksimissaan viisi",
+      "options": {
+        "Justme": "Vain minä",
+        "2-10": "2-10",
+        "11-50": "11-50",
+        "51-100": "51-100",
+        "101-500": "101-500",
+        "501Plus": "501+"
+      }
+    },
+    "step3": {
+      "heading": "Viimeistellään profiilisi",
+      "para": "Kerro, miten kuulit meistä?",
+      "label1": "Miten kuulit meistä?",
+      "option": "Valitse yksi",
+      "submitting": "Lähetetään...",
+      "submit": "Lähetä",
+      "terms": "Olen lukenut ja ",
+      "brand": "hyväksyn brändi",
+      "profile": " profiilin käyttöehdot."
+    }
+  },
+  "onboardingSport": {
+    "next": "Seuraava",
+    "close": "Sulje",
+    "step": "Vaihe",
+    "back": "Takaisin",
+    "step1": {
+      "heading": "Aloitetaan perustiedoista",
+      "para": "Vain muutama tieto, jotta voimme räätälöidä käyttökokemuksesi",
+      "label1": "Mikä kuvastaa parhaiten sinua",
+      "label2": "Etunimi",
+      "label3": "Sukunimi",
+      "label4": "Sukupuoli",
+      "firstName": "Syötä etunimi",
+      "lastName": "Syötä sukunimi",
+      "optionLabel3": "Rooli",
+      "optionLabel": "Valitse sukupuoli",
+      "option1": "Mies",
+      "option2": "Nainen",
+      "option3": "Muu",
+      "label5": "Urheilulaji(t)",
+      "placeholder": "Valitse vähintään yksi",
+      "label6": "Taso jolla urheilet?",
+      "label7": "Taso jolla joukkueesi urheilee?",
+      "optionLabel2": "Valitse yksi...",
+      "label8": "Joukkueen nimi",
+      "companyLabel": "Y-tunnus",
+      "companyPlaceholder": "Yrityksesi virallinen rekisterinumero",
+      "addressLabel": "Virallinen osoite (Ei näy julkisesti alustalla)",
+      "addressPlaceholder": "Tätä osoitetta vaaditaan lain mukaan esim. veroraportointiin.",
+      "label9": "Maa",
+      "taxTooltip": {
+        "title": "Henkilötunnus / Y-tunnus",
+        "placeholder": "Syötä henkilötunnuksesi tai yrityksesi y-tunnus",
+        "euLawTitle": "EU-laki (DAC7)",
+        "euLaw": "Lain (DAC7) mukaan meidän on kerättävä ja raportoitava vaikuttajien verotunniste veroviranomaisille.",
+        "options": "Voit toimittaa joko henkilötunnuksen tai Y-tunnuksen (jos toimit yrityksesi kautta).",
+        "disclaimer": "Tietoa käytetään ainoastaan lakisääteiseen raportointiin, eikä sitä näytetä julkisesti. Sbonssy ei huolehdi käyttäjien veroilmoituksista tai verojen maksamisesta – jokainen käyttäjä vastaa omista verovelvoitteistaan."
+      }
+    },
+    "step2": {
+      "heading": "Hienoa! Nyt vähän lisää tietoa sinusta",
+      "para": "Kerro tarkemmin faneille, brändeille ja tukijoillesi kuka olet.",
+      "label1": "Kirjoita kuvaus",
+      "label2": "Saavutukset",
+      "label3": "Ennätykset",
+      "label4": "Tavoitteet",
+      "label5": "Kiinnostukset",
+      "placeholder": "Valitse kiinnostuksen kohteet"
+    },
+    "step3": {
+      "heading": "Melkein valmista. Lisätään vielä kuva!",
+      "para": "Kuva toimii profiilikuvana ja se on julkinen",
+      "label1": "Valitse kuva...",
+      "uploaded": "Ladattu",
+      "upload": "Lataa",
+      "uploadPara": "Lataa kuva napsauttamalla"
+    },
+    "step4": {
+      "heading": "Viimeinen vaihe. Lisää sosiaalisen median tilit.",
+      "para": "Lisää someprofiiliesi julkiset linkit täydentääksesi profiilisi.",
+      "label1": "Instagram",
+      "label2": "Facebook",
+      "label3": "TikTok",
+      "label4": "YouTube",
+      "label5": "X",
+      "label6": "Kotisivut",
+      "submitting": "Lähetetään...",
+      "submit": "Lähetä",
+      "userName": "Anna käyttäjätunnus",
+      "url": "Anna URL-osoite",
+      "terms": "Olen lukenut ja ",
+      "sports": "hyväksyn urheilulähettiläs",
+      "profile": " profiilin käyttöehdot."
+    }
+  },
+  "Settings": {
+    "sidebar": {
+      "heading": "Asetukset",
+      "label1": "Yleiset",
+      "label2": "Ilmoitukset",
+      "label3": "Tili",
+      "label4": "Maksut"
+    },
+    "account": {
+      "heading": "Tili",
+      "para": "Hallinnoi henkilöitä, joilla on pääsy",
+      "account": "profiiliisi.",
+      "subHeading": "tiimi",
+      "subPara": " Näe tilin ylläpitäjät, lisää oikeuksia ja kutsu tiimi mukaan.",
+      "admin": "Ylläpitäjä",
+      "modify": "Voi muokata",
+      "view": "Voi katsoa",
+      "add": "Lisää tiimin jäsen",
+      "placeholder": "Syötä sähköpostiosoite",
+      "deleteAc": "Poista tili",
+      "click": "Klikkaa poistaaksesi tilisi pysyvästi.",
+      "fallback2": "Tiimin jäseniä ei ole vielä lisätty.",
+      "delete": "Poista",
+      "cancel": "Peruuta",
+      "saving": "Tallennetaan",
+      "save": "Tallenna",
+      "fallback": "Yhtään käyttäjää ei ole kirjautunut sisään.",
+      "pending": "Odottavat kutsut",
+      "pendingPara": " Hallinnoi kutsuja, joita ei ole vielä hyväksytty.",
+      "pendinga": "Odottaa",
+      "revoke": "Peruuta",
+      "sending": "Lähetetään...",
+      "send": "Lähetä kutsu",
+      "canView": "Voi vain tarkastella sisältöä",
+      "canModify": "Voi tarkastella ja muokata sisältöä",
+      "emailAdd": "Sähköpostiosoite",
+      "permission": "Käyttöoikeustaso",
+      "ambassador": "lähettiläs",
+      "brand": "brändi",
+      "Ambassador": "Lähettiläs",
+      "Brand": "Brändi",
+      "invite": "Kutsun tiedot",
+      "invitedBy": "Kutsunut"
+    },
+    "notifications": {
+      "load": "Ladataan...",
+      "fallback": "Yhtään käyttäjää ei ole kirjautunut sisään.",
+      "heading": "Ilmoitukset",
+      "para": "Hallinnoi ilmoitusasetuksiasi ja pysy ajan tasalla päivityksistä, tarjouksista ja muusta.",
+      "subHeading": "Valitse, mistä saat ilmoituksia",
+      "subPara": "Valitse, miten haluat vastaanottaa ilmoituksia. Voit valita sähköpostin, tekstiviestin tai molemmat.",
+      "label": "Sähköposti-ilmoitus",
+      "sms": "Tekstiviesti",
+      "email": "Sähköpostitse",
+      "emailPara": "Valitse, millaisia sähköposteja haluat meiltä vastaanottaa.",
+      "marketing": " Markkinointi",
+      "announce": "Tiedotteet ja päivitykset",
+      "support": "Tuki",
+      "cancel": "Peruuta",
+      "saving": "Tallennetaan",
+      "save": "Tallenna"
+    },
+    "general": {
+      "fallback": "Pääsy evätty tai käyttäjä ei ole kirjautunut sisään.",
+      "label": " Alarooli",
+      "confirmNewPassword": "Vahvista uusi salasana",
+      "optionLabel": "Valitse alarooli",
+      "first": "Etunimi",
+      "last": "Sukunimi",
+      "gender": "Sukupuoli",
+      "option1": "Mies",
+      "option2": "Nainen",
+      "option3": "Muu",
+      "email": "Sähköposti",
+      "phone": "Puhelin",
+      "password": "Nykyinen salasana",
+      "newPassword": "Uusi salasana",
+      "cancel": "Peruuta",
+      "saving": "Tallennetaan",
+      "save": "Tallenna",
+      "companyName": "Brändin nimi",
+      "confirmPassword": "Vahvista salasana"
+    },
+    "payments": {
+      "notConnected": "Ei yhdistetty",
+      "notSet": "Ei määritelty",
+      "notProvided": "Ei lisätty",
+      "processing": "Käsitellään...",
+      "addedCard": "Kortti on jo lisätty",
+      "addCard": "Lisää kortti",
+      "card": "Kortti",
+      "expires": "Vanhenee",
+      "delete": "Poista",
+      "paymentSettings": "Maksuasetukset",
+      "loading": "Ladataan",
+      "stripeId": "Stripe-tunnus",
+      "cards": "Kortit",
+      "invoices": "Laskut",
+      "savedCard": "Tallennettu kortti",
+      "loadingCard": "Korttia ladataan",
+      "fallback1": "Korttia ei ole tallennettu. Lisää kortti maksuja varten.",
+      "loadingInvoices": "Laskuja ladataan...",
+      "fallback2": "Laskuja ei löytynyt.",
+      "generateInvoices": "Luo laskut",
+      "stripe": "Stripe-tili yhdistetty",
+      "stripe2": "Yhdistä Stripe-tili",
+      "invoiceId": "Laskun tunnus",
+      "campaignId": "Kampanjan tunnus",
+      "amount": "Summa",
+      "status": "Tila",
+      "period": "Jakso",
+      "created": "Luotu",
+      "details": "Tiedot",
+      "athleteId": "Urheilijan tunnus",
+      "paymentMethod": "Valittu maksutapa",
+      "ending": " päättyy",
+      "fallback3": "Maksutapaa ei ole saatavilla. Lisää ensin kortti.",
+      "payInvoice": "Maksa lasku",
+      "downloadInvoice": "Lataa lasku"
+    },
+    "webhooks": {
+      "heading": "Webhook-integraatio",
+      "subHeading": "Jos käytät Shopifyta, seuranta otetaan käyttöön yhdistämällä Shopify-sovelluksemme tilisi etusivulta – webhookeja ei tarvita; jos et käytä Shopifyta, ota käyttöön palvelimelta palvelimelle -konversioseuranta luotettavaa attribuutiota varten määrittämällä webhookit täällä.",
+      "credentials": "API-tunnukset",
+      "regenerate": "Uusi tunnukset",
+      "generating": "Luodaan...",
+      "apiKey": "API-avain",
+      "webhookSecret": "Webhook-salaisuus",
+      "endpoints": "Webhook-osoitteet",
+      "test": "Testi",
+      "production": "Tuotanto",
+      "authHeader": "Käytä tätä Authorization-otsikossa: Bearer {API_KEY}",
+      "hmacHeader": "Käytä tätä HMAC-SHA256-allekirjoitusten luomiseen",
+      "notGenerated": "Tunnuksia ei ole vielä luotu. Täydennä profiilisi aloittaaksesi.",
+      "testIntegration": "Testaa integraatiota",
+      "testDescription": "Lähetä testiviesti varmistaaksesi integraation toimivuus luomatta oikeita tapahtumia.",
+      "sendTest": "Lähetä testiviesti",
+      "dashboardTestNote": "Huom: Ohjauspaneelista tehty testi on vain tiedoksi. Sinun on suoritettava onnistunut testi integroidusta koodistasi vahvistaaksesi asennuksesi ja julkaistaksesi kampanjoita.",
+      "testing": "Testataan...",
+      "testSuccess": "Testi onnistui",
+      "testFailed": "Testi epäonnistui",
+      "recentEvents": "Viimeisimmät tapahtumat",
+      "noEvents": "Ei vielä tapahtumia. Lähetä ensimmäinen testiviestisi aloittaaksesi!",
+      "quickStart": "Pikaohje",
+      "step1Title": "Kopioi tunnuksesi",
+      "step1Desc": "Käytä yllä olevaa API-avainta ja salaisuutta",
+      "step2Title": "Tallenna attribuutiotiedot",
+      "step2Desc": "Tallenna kampanja-, urheilija- ja vierailijatunnukset URL-parametreista",
+      "step3Title": "Lähetä webhook oston yhteydessä",
+      "step3Desc": "Lähetä POST-pyyntö webhook-osoitteeseen tilaustietojen kanssa",
+      "step4Title": "Testaa ensin!",
+      "step4Desc": "Käytä testisivua ennen integraation julkaisemista",
+      "examplePayload": "Esimerkkiviesti",
+      "needHelp": "Tarvitsetko apua?",
+      "supportText": "Integraatiotiimimme on täällä auttamassa sinua.",
+      "contactSupport": "Ota yhteyttä tukeen",
+      "confirmRegenerateTitle": "Oletko varma?",
+      "confirmRegenerateText": "Tämä mitätöi nykyisen API-avaimesi. Sinun on päivitettävä integraatiosi uudella avaimella.",
+      "regenerateSuccess": "Uudet tunnukset luotu! Muista päivittää integraatiosi.",
+      "regenerateError": "Tunnusten uusiminen epäonnistui",
+      "apiKeyMask": "Ei vielä luotu",
+      "secretMask": "••••••••",
+      "yes": "Kyllä",
+      "cancel": "Peruuttaa"
+    }
+  },
+  "Authentication": {
+    "signUp": "Rekisteröidy",
+    "login": "Kirjaudu sisään",
+    "heading": "Valitse käyttäjärooli",
+    "placeholderEmail": "Syötä sähköpostiosoite",
+    "placeholderPassword": "Salasana",
+    "placeholderConfirmPassword": "Vahvista salasana",
+    "email": "Sähköposti*",
+    "password": "Salasana*",
+    "confirm": "Vahvista salasana*",
+    "registering": "Rekisteröidään...",
+    "register": "Rekisteröidy",
+    "google": "Rekisteröidy Googlen avulla",
+    "account": "Onko sinulla jo tili?",
+    "fan": "Fani",
+    "sports": "Urheilulähettiläs",
+    "brand": "Brändi",
+    "reset": "Palauta salasana",
+    "forgotEmail1": "Anna sähköpostiosoitteesi vastaanottaaksesi palautuslinkin",
+    "forgotEmail2": "Anna tunnuksesi kirjautuaksesi sisään.",
+    "forgot": "Unohtuiko salasana?",
+    "back": "Takaisin kirjautumiseen",
+    "loginGoogle": "Kirjaudu sisään Googlen avulla",
+    "accountLogin": "Eikö sinulla ole tiliä?",
+    "resetLink": "Lähetä palautuslinkki",
+    "loginEmail": "Kirjaudu sisään",
+    "terms": "Olen lukenut ja hyväksyn ",
+    "service": "Käyttöehdot",
+    "privacy": "Tietosuojaselosteen.",
+    "policy": "Tietosuojaselosteen.",
+    "and": " ja ",
+    "selectAccountType": "Valitse käyttäjä jatkaaksesi",
+    "mustSelectRole": "Sinun on valittava tilityyppi ennen rekisteröitymistä",
+    "age": "Olen vähintään 16-vuotias",
+    "emailVerified": "Sähköposti vahvistettu onnistuneesti! Kirjaudu sisään jatkaaksesi.",
+    "otpTitle": "Vahvista sähköpostiosoitteesi",
+    "otpSubTitle": "Olemme lähettäneet 6-numeroisen koodin sähköpostiisi. Syötä se alle vahvistaaksesi tilisi.",
+    "otpSubTitleSendTo": "Olemme lähettäneet 6-numeroisen koodin osoitteeseen",
+    "otpNotReceived": "Etkö saanut koodia?",
+    "otpVerify": "Vahvista koodi",
+    "otpResend": "Lähetä koodi uudelleen",
+    "otpResendIn": "Lähetä uudelleen {seconds}s",
+    "otpBackToLogin": "Takaisin kirjautumiseen"
+  },
+  "Invite": {
+    "accept": "Hyväksy kutsu",
+    "para": "Aseta salasana hyväksyäksesi kutsun",
+    "email": "Sähköposti*",
+    "password": "Salasana*",
+    "new": "Uusi salasana*",
+    "confirm": "Vahvista salasana*",
+    "process": "Käsitellään...",
+    "reset": "Palauta salasana",
+    "para2": "Syötä uusi salasanasi alla.",
+    "back": "Takaisin kirjautumiseen"
+  },
+  "SportsOptions": {
+    "sports": {
+      "Martial arts": "Kamppailulajit",
+      "Alpine skiing": "Alppihiihto",
+      "American Football": "Amerikkalainen jalkapallo",
+      "Archery": "Jousiammunta",
+      "Artistic Swimming": "Taitouinti",
+      "Athletics": "Yleisurheilu",
+      "Badminton": "Sulkapallo",
+      "Bandy": "Jääpallo",
+      "Baseball": "Baseball",
+      "Basketball": "Koripallo",
+      "Beach volleyball": "Rantalentopallo",
+      "Biathlon": "Ampumahiihto",
+      "Bowling": "Keilailu",
+      "Canoeing and Kayaking": "Melonta",
+      "Cheerleading": "Cheerleading",
+      "Climbing": "Kiipeily",
+      "Cricket": "Kriketti",
+      "Cross-country running": "Maastojuoksu",
+      "Cross-Country Skiing": "Maastohiihto",
+      "CrossFit": "CrossFit",
+      "Curling": "Curling",
+      "Cycling": "Pyöräily",
+      "Dance": "Tanssi",
+      "Darts": "Darts",
+      "Disc golf": "Frisbeegolf",
+      "Diving": "Uimahypyt",
+      "E-Sports": "E-urheilu",
+      "Equestrian": "Ratsastus",
+      "Fencing": "Miekkailu",
+      "Figure skating": "Taitoluistelu",
+      "Finnish baseball": "Pesäpallo",
+      "Fitness": "Fitness",
+      "Floorball": "Salibandy",
+      "Football": "Jalkapallo",
+      "Freestyle skiing": "Freestyle-hiihto",
+      "Futsal": "Futsal",
+      "Golf": "Golf",
+      "Gymnastics": "Voimistelu",
+      "Handball": "Käsipallo",
+      "Hydrox": "Hydrox",
+      "Ice hockey": "Jääkiekko",
+      "Lacrosse": "Lacrosse",
+      "Motorsports": "Moottoriurheilu",
+      "Nordic combined": "Yhdistetty",
+      "Orienteering": "Suunnistus",
+      "Other": "Muu",
+      "Padel": "Padel",
+      "Polo": "Poolo",
+      "Pool": "Biljardi",
+      "Ringette": "Ringette",
+      "Rowing": "Soutu",
+      "Rugby": "Rugby",
+      "Sailing": "Purjehdus",
+      "Shooting sport": "Ampumaurheilu",
+      "Skateboarding": "Skeittaus",
+      "Ski jumping": "Mäkihyppy",
+      "Snowboarding": "Lumilautailu",
+      "Squash": "Squash",
+      "Surfing": "Surffaus",
+      "Swimming": "Uinti",
+      "Synchronized skating": "Muodostelmaluistelu",
+      "Table tennis": "Pöytätennis",
+      "Tennis": "Tennis",
+      "Triathlon": "Triathlon",
+      "Volleyball": "Lentopallo",
+      "Water polo": "Vesipallo",
+      "Weight lifting": "Painonnosto",
+      "Wellness": "Wellness",
+      "Yoga": "Jooga"
+    }
+  },
+  "SubRole": {
+    "roles": {
+      "team": "Joukkue",
+      "athlete": "Urheilija",
+      "influencer": "Vaikuttaja",
+      "coach": "Valmentaja",
+      "ex-athlete": "Ex-urheilija",
+      "para-athlete": "Paraurheilija"
+    }
+  },
+  "Levels": {
+    "Olympic": "Olympia",
+    "Professional": "Ammattilainen",
+    "Semi-Pro": "Puoliammatilainen",
+    "Amateur": "Amatööri",
+    "Junior": "Juniori"
+  },
+
+  "Interests": {
+    "groups": {
+      "Sports & Fitness": "Urheilu & Fitness",
+      "Wellbeing & Recovery": "Hyvinvointi & Palautuminen",
+      "Creativity & Culture": "Luovuus & Kulttuuri",
+      "Sustainable Living & Values": "Kestävä elämä & Arvot",
+      "Science, Tech & Learning": "Tiede, teknologia & oppiminen",
+      "Hobbies & Everyday Life": "Harrastukset & Arki",
+      "Adventure & Experiences": "Seikkailu & Elämykset",
+      "Entertainment & Digital Life": "Viihde & Digielämä"
+    },
+    "options": {
+      "Sports": "Urheilu",
+      "Fitness": "Fitness",
+      "Running": "Juoksu",
+      "Team Sports": "Joukkueurheilu",
+      "Extreme Sports": "Extreme-lajit",
+      "Martial Arts": "Kamppailulajit",
+      "Yoga": "Jooga",
+      "Mental Wellness": "Mielen hyvinvointi",
+      "Mindfulness": "Tietoisuustaidot",
+      "Sleep & Recovery": "Uni & palautuminen",
+      "Nutrition": "Ravinto",
+      "Stress Management": "Stressinhallinta",
+      "Blogging": "Bloggaaminen",
+      "Design": "Muotoilu",
+      "Interior Design": "Sisustaminen",
+      "Knitting": "Neulominen",
+      "Painting": "Maalaaminen",
+      "Performing Arts": "Esittävä taide",
+      "Photography": "Valokuvaus",
+      "Podcasts": "Podcastit",
+      "Singing": "Laulaminen",
+      "Stand-up Comedy": "Stand up -komiikka",
+      "Writing": "Kirjoittaminen",
+      "Books": "Kirjat",
+      "Movies/TV": "Elokuvat/TV",
+      "Music": "Musiikki",
+      "Fashion": "Muoti",
+      "Environment": "Ympäristö",
+      "Sustainable Living": "Kestävä elämäntapa",
+      "Zero-Waste Living": "Jätteetön elämäntapa",
+      "Volunteering": "Vapaaehtoistyö",
+      "Mentoring & Coaching": "Mentorointi & valmennus",
+      "Family": "Perhe",
+      "Philosophy": "Filosofia",
+      "AI": "Tekoäly",
+      "Astronomy": "Tähtitiede",
+      "Science": "Tiede",
+      "Technology": "Teknologia",
+      "Virtual Reality": "Virtuaalitodellisuus",
+      "Languages": "Kielet",
+      "Animals": "Eläimet",
+      "Gardening": "Puutarhanhoito",
+      "Baking": "Leivonta",
+      "Cooking": "Ruoanlaitto",
+      "DIY": "Tee se itse",
+      "Thrifting & Vintage": "Kirpputori & vintage",
+      "History": "Historia",
+      "Outdoor Activities": "Ulkoiluaktiviteetit",
+      "Traveling": "Matkustaminen",
+      "Scuba Diving": "Laitesukellus",
+      "Social Media": "Sosiaalinen media",
+      "Video Games": "Videopelit"
+    }
+  },
+  "CompanyInterests": {
+    "Sports & Fitness": "Urheilu & Fitness",
+    "Wellbeing & Recovery": "Hyvinvointi & Palautuminen",
+    "Creativity & Culture": "Luovuus & Kulttuuri",
+    "Sustainable Living & Values": "Kestävä elämä & Arvot",
+    "Science, Tech & Learning": "Tiede, teknologia & oppiminen",
+    "Hobbies & Everyday Life": "Harrastukset & Arki",
+    "Adventure & Experiences": "Seikkailu & Elämykset",
+    "Entertainment & Digital Life": "Viihde & Digielämä"
+  },
+  "References": {
+    "Ad": "Mainos",
+    "Friend": "Ystävä",
+    "Facebook": "Facebook",
+    "Instagram": "Instagram",
+    "Influencer": "Vaikuttaja"
+  },
+  "Favourites": {
+    "heading": "Tallennetut",
+    "remove": "Poista tallennetuista",
+    "view": "Katso",
+    "viewC": "Katso",
+    "fallback": "Ei tallennettuja suosikkeja",
+    "fallback2": "Lisäämäsi suosikki profiilit ilmestyvät tänne.",
+    "fallback3": "Ei lisättyjä suosikkeja vielä",
+    "fvrtBrand": "Suosikkibrändit",
+    "fvrtAmbassador": "Suosikkiambassadorit",
+    "fallbackBrand": "Tälle sivulle ei löytynyt yhtään brändiä",
+    "fallbackAmbassador": "Tälle sivulle ei löytynyt yhtään ambassadoria",
+    "influencer": "Vaikuttaja"
+  },
+  "Analytics": {
+    "heading1": "Brändin analytiikkapaneeli",
+    "heading2": "Lähettilään analytiikkapaneeli",
+    "subtitle1": "Hallitse ja seuraa maksuja",
+    "subtitle2": "Kampanjoiden suorituskyvyn yhteenveto",
+    "subtitle3": "Yhteenveto komissioista ja maksuista.",
+    "start": "Aloituspäivä",
+    "csv": "CSV",
+    "xlsx": "Excel",
+    "exportExcel": "Lataa raportit (Excel)",
+    "exportExcelSingle": "Lataa raportti (Excel)",
+    "noData": "Ei tietoja",
+    "adjustRange": "Kokeile muuttaa valittua aikaväliä.",
+    "core": "Keskeinen suorituskyky",
+
+    "efficiency": "Tehokkuus",
+    "trend": "ROI % -trendi",
+    "trendText": "Aikajakso-päätepiste tarvitaan ROI%-arvon näyttämiseksi ajan kuluessa.",
+    "rate": "Konversioasteen trendi",
+    "rateText": "Aikajakso-päätepiste tarvitaan konversioasteen näyttämiseksi ajan kuluessa.",
+    "roasCmg": "ROAS kampanjan mukaan",
+    "calText": "ROAS = Tulot ÷ Kokonaiskustannukset, EPC = Tulot ÷ Klikkaukset, CPA = Kokonaiskustannukset ÷ Myynnit",
+
+    "end": "Päättymispäivä",
+    "value": "Arvo",
+    "metric": "Metrinen",
+    "events": "Tapahtumat",
+    "compensationType": "Korvaustyyppi",
+    "eventType": "Tapahtuman tyyppi",
+    "count": "Laskea",
+    "subHeading": "Liikenne lähettiläittäin",
+    "retry": "Yritä uudelleen",
+    "exportCampaigns": "Vie kampanjat (CSV)",
+    "exportAmbassador": "Vie lähettiläät (CSV)",
+    "efficiencyHeading": "Keskeiset ja tehokkuusmittarit",
+    "efficiencyData": {
+      "revenue": "Tulot",
+      "cost": "Kokonaishinta",
+      "conversions": "Konversiot",
+      "clicks": "Klikkaukset",
+      "rate": "Konv. prosentti",
+      "sales": "Myynti / Konversiot",
+      "convorate": "Konversioaste",
+
+      "aov": "Keskim. ostos (AOV)",
+      "epc": "Tulot per klikkaus (EPC)",
+      "cpa": "Hankintakust. (CPA)",
+      "roas": "ROAS"
+    },
+    "efficiencySubheading": "Summat sisältävät ALV:n ja Stripe-maksunvälityskulut.",
+    "types": {
+      "all": "Kaikki palkkiotyypit",
+      "sale": "Maksu per myynti",
+      "click": "Maksu per klikkaus",
+      "lead": "Maksu per liidi",
+      "fee": "Kiinteä maksu"
+    },
+    "tableHead": {
+      "ambassador": "Lähettiläs",
+      "key": "Seurantatunnus",
+      "clicks": "Klikkaukset",
+      "conversations": "Konversiot",
+      "earnings": "Tulot",
+      "campaign": "KAMPANJA",
+      "saleAmount": "MYYNTI",
+      "refund": "HYVITYS",
+      "rate": "KOMISSIO",
+      "payable": "MAKSETTAVA",
+      "status": "TILA",
+      "commStatus": "KOMISSION TILA"
+    },
+    "chartOptions": {
+      "bar": {
+        "title1": "Kampanjan suorituskyky",
+        "title2": "Lähettilään mittarit",
+        "hAxis": {
+          "title1": "Kampanja",
+          "title2": "Mittari"
+        },
+        "vAxis": "Määrä"
+      },
+      "pie": "Tapahtumatyypin jakautuminen",
+      "earnings": {
+        "title1": "Taloustiedot kampanjoittain",
+        "title2": "Kokonaistulot",
+        "hAxis": {
+          "title1": "Kampanja",
+          "title2": "Mittari"
+        },
+        "vAxis": "Määrä (€)"
+      }
+    },
+
+    "category": "Kategoria",
+    "conversions": "Klikkaukset",
+    "clicks": "Konversiot",
+    "shares": "Jaot",
+    "campaign": "Kampanja",
+    "spend": "Brändin kulut",
+    "platform": "Alustan tuotot",
+    "earnings": "Tuotot",
+    "ambassador": "Lähettilään tuotot",
+    "metrics": {
+      "yourEarnings": "Tulosi",
+      "paidCommissions": "Maksetut provisiot",
+      "totalClicks": "Klikkaukset yhteensä",
+      "trafficGenerated": "Generoitu liikenne",
+      "conversions": "Konversiot",
+      "successfulSales": "Onnistuneet myynnit/liidit",
+      "shares": "Jaot",
+      "campaignDistributions": "Kampanjajakelut",
+      "totalRevenue": "Kokonaistulot",
+      "grossSales": "Bruttomyynti",
+      "totalCost": "Kokonaiskustannukset",
+      "marketingSpend": "Markkinointikulut + maksut",
+      "roas": "ROAS",
+      "returnOnAdSpend": "Mainoskulujen tuotto"
+    },
+    "loading": "Synkronoidaan suorituskykytietoja...",
+    "campaignPerformance": "Kampanjan suorituskyky",
+    "ambassadorInfluence": "Lähettilään vaikutus",
+    "exportCSV": "Vie CSV",
+    "table": {
+      "campaign": "Kampanja",
+      "revenue": "Tulot",
+      "clicks": "Klikkaukset",
+      "conversions": "Konversiot",
+      "roas": "ROAS",
+      "totalCost": "Kokonaiskustannukset",
+      "ambassador": "Lähettiläs",
+      "conv": "Konv.",
+      "payout": "Maksu",
+      "noTraffic": "Ei aktiivista liikennettä tallennettu"
+    },
+    "stripeFees": "Stripe-maksut",
+    "vat": "ALV-määrä",
+    "roi": "ROI (%)",
+
+    "fallback": "Lähettilästietoja ei ole saatavilla.",
+    "fallback2": "Valitulle ajanjaksolle ei ole saatavilla analytiikkatietoja."
+  },
+  "Admin": {
+    "dashboard": {
+      "totalCampaigns": "Kampanjat yhteensä",
+      "totalCollaborations": "Yhteistyöt yhteensä",
+      "totalUsers": "Käyttäjiä yhteensä",
+      "chart": {
+        "title": "Kasvun vertailu",
+        "month": "Kuukausi",
+        "count": "Määrä",
+        "loading": "Ladataan tietoja...",
+        "noData": "Ei dataa"
+      },
+      "months": {
+        "jan": "Tammi",
+        "feb": "Helmi",
+        "mar": "Maalis",
+        "apr": "Huhti",
+        "may": "Touko",
+        "jun": "Kesä",
+        "jul": "Heinä",
+        "aug": "Elo",
+        "sep": "Syys",
+        "oct": "Loka",
+        "nov": "Marras",
+        "dec": "Joulu"
+      }
+    },
+    "users": {
+      "heading": "Ylläpitäjän käyttöoikeus",
+      "downloadCSV": "Lataa CSV",
+      "downloadXLSX": "Lataa XLS",
+      "loadingExport": "Lastaus",
+      "banSuccess": "Porttikielto onnistui",
+      "unbanSuccess": "Porttikiellon poistaminen onnistui",
+      "filter": "Suodata roolin mukaan:",
+      "filterValues": {
+        "all": "Kaikki roolit",
+        "fan": "Fani",
+        "amb": "Urheilulähettiläs",
+        "brand": "Brändi"
+      },
+      "trackingkey": "Seurantatunnus",
+      "no": "Nro",
+      "email": "Sähköposti",
+      "auth": "Tunnistautumispalvelu",
+      "role": "Rooli",
+      "subRole": "Alarooli",
+      "created": "Luotu",
+      "updated": "Päivitetty",
+      "action": "Toiminto",
+      "ban": "Estä",
+      "unban": "Poista esto",
+      "fallback1": "Virhe ladattaessa käyttäjiä",
+      "fallback2": "Käyttäjiä ei löytynyt"
+    },
+
+    "heading": "Ylläpitäjän Banneri",
+    "link": "Lisää Banneri",
+    "no": "Nro",
+    "title": "Otsikko",
+    "desc": "Kuvaus",
+    "img": "Kuva",
+    "created": "Luotu",
+    "actions": "Toiminnot",
+    "fallback": "Ei bannereita saatavilla",
+    "upload": "Lataa kuva",
+    "remove": "Poista kuva",
+    "editheading": "Muokkaa Banneria",
+    "btnLabel1": "Painike Yksi Teksti",
+    "btnLabel2": "Painike Kaksi Teksti",
+    "btnRoute1": "Painike Yksi Polku",
+    "btnRoute2": "Painike Kaksi Polku",
+    "update": "Päivitä Banneri",
+    "cancel": "Peruuta",
+    "load": "Ladataan...",
+    "detailHeading": "Bannerin Tiedot",
+    "back": "Takaisin Bannereihin",
+    "ctaLabel1": "CTA Yksi Teksti",
+    "ctaPath1": "CTA Yksi Polku",
+    "ctaLabel2": "CTA Kaksi Teksti",
+    "ctaPath2": "CTA Kaksi Polku",
+    "updated": "Päivitetty",
+    "status": "Tila",
+    "blogHeading": "Ylläpitäjän Blogit",
+    "blogLink": "Lisää Blogi",
+    "author": "Kirjoittaja",
+    "content": "Sisältö",
+    "tags": "Tunnisteet",
+    "fallbackBlog": "Virhe ladattaessa blogeja",
+    "fallbackBlog2": "Blogeja ei löytynyt",
+    "placeholderText": "Valitse tai kirjoita luodaksesi tunnisteita...",
+    "placeholderText2": "Aloita kirjoittamalla blogin sisältö...",
+    "draft": "Luonnos",
+    "published": "Julkaistu",
+    "createBlog": "Luo Blogi",
+    "blogDetailHeading": "Blogin Tiedot",
+    "editBlog": "Muokkaa Blogia",
+    "updateBlog": "Päivitä Blogi",
+    "backBlog": "Takaisin blogeihin",
+    "tagHeading": "Ylläpitäjän tunnisteet",
+    "name": "Nimi",
+    "tagError": "Virhe tunnisteiden lataamisessa",
+    "fallbackTag": "Tunnisteita ei löytynyt",
+    "addTag": "Lisää tunniste",
+    "createTag": "Luo tunniste",
+    "tagDetails": "Tunnisteen tiedot",
+    "backTag": "Takaisin tunnisteisiin",
+    "editTag": "Muokkaa tunnistetta",
+    "updateTag": "Päivitä tunniste",
+
+    "faqs": {
+      "heading": "Ylläpitäjän usein kysytyt kysymykset",
+      "link": "Lisää kysymys",
+      "no": "Nro",
+      "question": "Kysymys",
+      "answer": "Vastaus",
+      "created": "Luotu",
+      "updated": "Päivitetty",
+      "action": "Toiminto",
+      "fallback": "Virhe usein kysyttyjen kysymysten lataamisessa",
+      "fallback2": "Usein kysyttyjä kysymyksiä ei löytynyt",
+      "createFaq": "Luo kysymys",
+      "cancel": "Peruuta",
+      "detailHeading": "Kysymyksen tiedot",
+      "unknown": "Tuntematon",
+      "author": "Tekijä",
+      "back": "Takaisin usein kysyttyihin kysymyksiin",
+      "edit": "Muokkaa kysymystä",
+      "update": "Päivitä kysymys"
+    },
+    "collaboration": {
+      "heading": "Yhteistyöt",
+      "error": "Virhe",
+      "fallback": "Yhteistöitä ei löytynyt.",
+      "unknown": "Tuntematon",
+      "serialNo": "Nro",
+      "sender": "Lähettäjä",
+      "receiver": "Vastaanottaja",
+      "status": "Tila",
+      "date": "Päivämäärä"
+    },
+    "payments": {
+      "heading": "Tapahtumahistoria",
+      "transaction": "Tapahtumatunnus",
+      "amount": "Summa",
+      "currency": "Valuutta",
+      "status": "Tila",
+      "paymentMethod": "Maksutapa",
+      "invoice": "Laskun tunnus",
+      "customer": "Asiakastunnus",
+      "brand": "Brändin tunnus",
+      "campaign": "Kampanjan tunnus",
+      "createdAt": "Luotu",
+      "desc": "Kuvaus",
+      "action": "Toiminto",
+      "created": "Siirto luotu",
+      "create": "Luo siirto",
+      "fallback": "Tapahtumia ei löytynyt.",
+      "payouts": "Lähettiläiden maksut (€50 vähimmäiskynnys)",
+      "statsLoad": "Tilastoja ladataan...",
+      "eligible": "Oikeutettu maksuun",
+      "threshold": "Alle vähimmäiskynnyksen",
+      "eligibleAmount": "Maksukelpoinen summa",
+      "total": "Kertyneensä yhteensä",
+      "fallbacktext": "Tilastojen lataaminen epäonnistui",
+      "processing": "Käsitellään...",
+      "trigger": "Käynnistä kaikki maksut",
+      "refresh": "Päivitä tilastot",
+      "text": "Maksut suoritetaan automaattisesti kuukauden 15. päivänä. Vain lähettiläät, joiden kertynyt saldo on ≥ €50, maksetaan.",
+      "ambBal": "Lähettiläiden saldot",
+      "transferHistory": "Siirtohistoria",
+      "invoicePayments": "Laskumaksut",
+      "ambassador": "Lähettiläs",
+      "role": "Rooli",
+      "balance": "Saldo",
+      "account": "Stripe-tili",
+      "tranferId": "Siirtotunnus",
+      "period": "Jakso",
+      "date": "Päivämäärä",
+      "need": "Tarvitaan",
+      "more": "lisää",
+      "eligible2": "Oikeutettu",
+      "below": "Alle kynnyksen",
+      "notConnected": "Ei yhdistetty",
+      "connected": "Yhdistetty",
+      "transfer": "Siirto",
+      "transferring": "Siirretään...",
+      "noPayout": "Ei lähettiläitä, joilla on maksamattomia saldoja",
+      "noTranfer": "Siirtohistoriaa ei löytynyt",
+      "credit": "Saldo hyvitetty",
+      "credited": "Hyvitetty",
+      "pending": "Odottaa",
+      "history": "Tapahtumahistoria"
+    },
+
+    "campaign": {
+      "heading": "Kampanjat",
+      "fallback": "Kampanjoita ei löytynyt.",
+      "serialNo": "Nro",
+      "title": " Kampanjan otsikko (ei julkinen)  ",
+      "type": "Kampanjan tyyppi",
+      "name": "Brändin nimi",
+      "amb": "Lähettilään nimi",
+      "status": "Tila",
+      "created": "Luotu"
+    },
+    "campaigns": {
+      "heading": "Kampanjat",
+      "title": "Otsikko",
+      "description": "Kuvaus",
+      "brandName": "Brändin nimi",
+      "type": "Tyyppi",
+      "actions": "Toiminnot",
+      "delete": "Poista",
+      "view": "Näytä",
+      "csv": "Lataa CSV",
+      "excel": "Lataa Excel",
+      "fallbackText": "Kampanjoita ei löytynyt",
+      "status": {
+        "verified": "Vahvistettu",
+        "inProgress": "Käynnissä",
+        "notStarted": "Ei aloitettu",
+        "accepted": "Hyväksytty"
+      },
+      "verificationStatusTooltip": "Seurannan vahvistustila",
+      "acceptButton": "Hyväksy kampanja",
+      "acceptTooltip": "Hyväksy kampanja",
+      "acceptedTooltip": "Jo hyväksytty",
+      "acceptedLabel": "Hyväksytty",
+      "testLinkTooltip": "Luo ja kopioi testilinkki brändille",
+      "testLinkButton": "Testilinkki",
+      "testLinkDialog": {
+        "title": "Lähettilään seurantakoodi",
+        "inputLabel": "Syötä lähettilään seurantakoodi testataksesi",
+        "inputPlaceholder": "esim. ATH_xxx",
+        "successTitle": "Testilinkki luotu",
+        "linkUnavailable": "Linkki ei ole saatavilla",
+        "copy": "Kopioi leikepöydälle",
+        "copied": "Kopioitu!",
+        "errorTitle": "Testilinkin luominen epäonnistui"
+      }
+    },
+    "inquiry": {
+      "heading": "Tiedustelut",
+      "no": "Nro",
+      "first": "Etunimi",
+      "last": "Sukunimi",
+      "email": "Sähköposti",
+      "phone": "Puhelin",
+      "role": "Rooli",
+      "topic": "Aihe",
+      "message": "Viesti",
+      "created": "Luotu",
+      "fallback": "Tiedusteluja ei löytynyt",
+      "action": "Toiminnot"
+    },
+    "reports": {
+      "heading": "Ilmoitukset",
+      "serialNo": "Nro",
+      "details": "Tiedot",
+      "reason": "Syy",
+      "reported": "Ilmoitettu henkilö",
+      "reporter": "Ilmoittaja",
+      "status": "Tila",
+      "csv": "Lataa CSV",
+      "excel": "Lataa Excel",
+      "action": "Toiminnot"
+    },
+    "helpCenter": {
+      "heading": "Ylläpitäjän ohjekeskus",
+      "add": "Lisää",
+      "no": "Nro",
+      "title": "Otsikko",
+      "type": "Käyttäjätyyppi",
+      "desc": "Kuvaus",
+      "created": "Luotu",
+      "actions": "Toiminnot",
+      "fallback": "Virhe tietojen lataamisessa",
+      "fallback1": "Tietoja ei löytynyt",
+      "select": "Valitse",
+      "ambassador": "Urheilulähettiläs",
+      "fan": "Fani",
+      "brand": "Brändi",
+      "create": "Luo",
+      "cancel": "Peruuta",
+      "details": "Tiedot",
+      "updated": "Päivitetty",
+      "update": "Päivitä",
+      "back": "Takaisin",
+      "edit": "Muokkaa"
+    },
+    "settings": {
+      "heading": "Tilin asetukset",
+      "email": "Sähköposti",
+      "sending": "Lähetetään...",
+      "send": "Lähetä salasanan palautuslinkki",
+      "para": "Napsauta yllä olevaa painiketta saadaksesi salasanan palautuslinkin sähköpostiisi."
+    },
+
+    "sidebar": {
+      "heading": "Ylläpito",
+      "dashboard": "Hallintapaneeli",
+      "users": "Käyttäjät",
+      "banner": "Banneri",
+      "blogs": "Blogit",
+      "faqs": "UKK",
+      "collaboration": "Yhteistyöt",
+      "campaign": "Kampanja",
+      "inquiry": "Tiedustelu",
+      "reports": "Ilmoitukset",
+      "tags": "Tunnisteet",
+      "help": "Ohjekeskus",
+      "settings": "Asetukset",
+      "analytics": "Analytics",
+      "payments": "Maksut",
+      "campaignInteraction": "Kampanja-vuorovaikutukset",
+      "logs": "Ladatut CSV-käyttäjät",
+      "csv": "Lataa käyttäjät (csv)"
+    },
+    "header": {
+      "dashboard": "Hallintapaneeli",
+      "profile": "Profiili",
+      "logout": "Kirjaudu ulos"
+    },
+    "analytics": {
+      "error": "Virhe:",
+      "fallback": "Ei tietoja saatavilla",
+      "heading": "Alustan analytiikkapaneeli",
+      "subHeading": "Alustan kokonaistulot",
+      "title": "Kokonaiskonversiot",
+      "revenues": "tulot",
+      "subHeading2": "Parhaiten suoriutuvat brändit",
+      "campaigns": "kampanjat",
+      "ambassadors": "lähettiläät",
+      "conversions": "konversiot",
+      "subHeading3": "Parhaiten suoriutuvat lähettiläät",
+      "brands": "brändit",
+      "allAmbassador": "Kaikki lähettiläät",
+      "ambassador": "Lähettiläs",
+      "revenue": "Tulot",
+      "earning": "Ansiot",
+      "conversion": "Konversiot",
+      "brand": "Brändit",
+      "campaign": "Kampanjat",
+      "brandTable": {
+        "title": "Kaikki brändit",
+        "brand": "Brändi",
+        "revenue": "Tulot",
+        "payout": "Maksu",
+        "conversation": "Konversiot",
+        "ambassador": "Lähettiläät",
+        "campaign": "Kampanjat"
+      },
+      "campaignTable": {
+        "title": "Kaikki kampanjat",
+        "campaign": "Kampanja",
+        "brand": "Brändi",
+        "revenue": "Tulot",
+        "payout": "Maksu",
+        "conversions": "Konversiot",
+        "ambassador": "Lähettiläät"
+      }
+    }
+  },
+  "CampaignDetails": {
+    "category": "Kampanjan kategoria",
+    "type": "Kampanjan tyyppi",
+    "msg": "Lähetä viesti",
+    "compensation": "Korvaustyyppi",
+    "commission": "Provisio",
+    "amount": "Määrä",
+    "flat": "kiinteä maksu",
+    "duration": "Evästeiden voimassaolo",
+    "days": "päivää",
+    "target": "Kohdealueet",
+    "content": "Kampanjaohjeistus",
+    "status": "Kampanjan tila",
+    "going": "Käynnissä",
+    "endDate": "Kampanjan päättymispäivä",
+    "gift": "*Tuotelahjoitus saatavilla tai alennus – ota yhteyttä brändiin saadaksesi lisätietoja",
+    "assets": "Luovat materiaalit",
+    "logo": "Logo",
+    "pics": "Tuotekuvat",
+    "videos": "Tuotevideot",
+    "posts": "Esimerkkijulkaisut",
+    "terms": "Kampanjan ehdot",
+    "para": "Hyväksyn kampanjan ehdot ja säännöt",
+    "para2": "Vahvistan, että käytän asianmukaisia merkintöjä (esim. Mainos tai Maksettu yhteistyö) julkaistessani kaupallista sisältöä.",
+    "joined": "Liittynyt",
+    "cancel": "Peruuta pyyntö",
+    "loading": "Ladataan",
+    "request": "Liittymispyyntö",
+    "join": "Liity",
+    "remove": "Poista profiilista",
+    "add": "Lisää profiiliin",
+    "message": "Viesti",
+    "placeholder": "Kirjoita viestisi tähän...",
+    "cancel2": "Peruuta",
+    "sending": "Lähetetään...",
+    "send": "Lähetä viesti",
+    "selectAmbassador": "Katso liittyneet lähettiläät",
+    "creating": "Luodaan...",
+    "create": "Luo kampanja linkki",
+    "view": "Näytä kampanjan tiedot",
+    "addProducts": "Lisää tuotteita profiiliin",
+    "showProducts": "Näytä tuotteet",
+    "shareLink": "Jaettava linkki:",
+    "shareLinkCopied": "Tuotelinkki on kopioitu leikepöydälle.",
+    "copyManually": "Napauta linkkiä kopioidaksesi",
+    "copyInstructions": "Napauta yllä olevaa linkkiä valitaksesi se, sitten napauta 'Kopioi' valikosta",
+    "ok": "OK",
+    "couldNotGenerateLink": "Jaettavan linkin luonti epäonnistui",
+    "regenerate": "Luo uudelleen",
+    "regenerating": "Luodaan uudelleen",
+    "copy": "Kopioi",
+    "ProductShareLink": "Luo tuotelinkki",
+    "copied": "Kopioitu!",
+    "campaignProducts": "Kampanjan tuotteet",
+    "searchProducts": "Hae tuotteita...",
+    "removing": "Poistetaan...",
+    "adding": "Lisätään...",
+    "removeAmb": "Poista",
+    "removeStorefront": "Poista myymälästä",
+    "addStorefront": "Lisää myymälään",
+    "products": "Tuotteet",
+    "addProfile": "Lisää profiiliin",
+    "removeProfile": "Poista profiilista",
+    "download": "Lataa",
+    "styleGuides": "Tyylioppaat",
+    "fonts": "Fontit: ",
+    "colors": "Värit: ",
+    "guidelines": "Ohjeet: ",
+    "checkoutLinkCopied": "Linkki kopioitu"
+  },
+  "MailChimp": {
+    "subscribe": "Tilaa",
+    "required": "osoittaa pakollisen kentän",
+    "email": "Sähköpostiosoite",
+    "heading": "Liity uutiskirjeeseemme pysyäksesi ajan tasalla uusimmista ominaisuuksista ja tarjouksista.",
+    "subscribing": "Tilaamalla hyväksyt meidän",
+    "policy": "Tietosuojaselosteen",
+    "consent": "ja suostut vastaanottamaan päivityksiä.",
+    "placeholder": "Syötä sähköpostiosoite"
+  },
+  "helpCenterFan": {
+    "fan": "Fani",
+    "heading": "Fanien ohjeet",
+    "subHeading": "Tervetuloa Ohjekeskukseen! Olitpa vasta aloittamassa tai haluat oppia käyttämään edistyneempiä ominaisuuksia, löydät täältä vaiheittaiset oppaat, usein kysytyt kysymykset ja hyödylliset resurssit, jotka tukevat sinua jokaisessa vaiheessa."
+  },
+  "helpCenterSports": {
+    "ambassador": "Urheilulähettiläs",
+    "heading": "Urheilulähettiläiden ohjeet",
+    "subHeading": "Tervetuloa Ohjekeskukseen! Olitpa vasta aloittamassa tai haluat oppia käyttämään edistyneempiä ominaisuuksia, löydät täältä vaiheittaiset oppaat, usein kysytyt kysymykset ja hyödylliset resurssit, jotka tukevat sinua jokaisessa vaiheessa"
+  },
+  "helpCenterBrand": {
+    "brand": "Brändi",
+    "heading": "Brändien ohjeet",
+    "subHeading": "Tervetuloa Ohjekeskukseen! Olitpa vasta aloittamassa tai haluat oppia käyttämään edistyneempiä ominaisuuksia, löydät täältä vaiheittaiset oppaat, usein kysytyt kysymykset ja hyödylliset resurssit, jotka tukevat sinua jokaisessa vaiheessa."
+  },
+  "helpCenterCommon": {
+    "heading": "Tarvitsetko lisää apua? Ota yhteyttä.",
+    "para": "Tukemme on valmiina auttamaan sinua kaikissa kysymyksissäsi.",
+    "btn": "Ota yhteyttä",
+    "fallback": "Blogin otsikko tulee tähän"
+  },
+  "Earnings": {
+    "title": "Tuotot",
+    "refresh": "Päivitä",
+    "refreshing": "Päivitetään...",
+    "debit": "Peruutetut komissiot",
+    "credit": "Komissiot",
+    "net": "Netto",
+    "fetchError": "Tuottojen haku epäonnistui",
+    "totalEarnings": "Kokonaistuotot",
+    "totalConversions": "Konversiot yhteensä",
+    "totalShares": "Jaot yhteensä",
+    "byCampaign": "Tuotot kampanjoittain",
+    "campaign": "Brändi",
+    "brand": "Brändi",
+    "compType": "Palkkiotyyppi",
+    "conversions": "Konversiot",
+    "earnings": "Tuotot",
+    "noCampaigns": "Tälle ajanjaksolle ei löytynyt kampanjamittareita.",
+    "history": "Tapahtumahistoria",
+    "date": "Päivämäärä",
+    "eventName": "Tapahtuma",
+    "status": "Tila",
+    "amount": "Summa",
+    "noRecords": "Tältä ajanjaksolta ei löytynyt tapahtumahistoriaa.",
+    "statuses": {
+      "pending": "Odottaa",
+      "locked": "Lukittu",
+      "cancelled": "Peruutettu",
+      "paid": "Maksettu",
+      "upcoming": "Tulossa"
+    }
+  },
+  "Share": {
+    "facebook": "Jaa Facebookissa",
+    "twitter": "Jaa Twitterissä",
+    "copy": "Kopioi linkki",
+    "btn1": "Kopioitu"
+  },
+  "Sweetalert": {
+    "accountCreated": "Tili luotu onnistuneesti.",
+    "accountCreatedheading": "Vahvista sähköpostiosoitteesi jatkaaksesi.",
+    "otpVerified": "Sähköposti vahvistettu onnistuneesti!",
+    "otpResent": "Uusi vahvistuskoodi on lähetty sähköpostiisi.",
+    "otpRateLimit": "Liian monta sähköpostia lähetetty. Odota hetki ennen uuden koodin tilaamista.",
+    "otpInvalid": "Virheellinen tai vanhentunut koodi. Yritä uudelleen.",
+    "otpResendFailed": "Koodin uudelleenvahvistus epäonnistui. Yritä uudelleen.",
+
+    "backLogin": "Takaisin Kirjautumiseen",
+    "campaignPausedInfo": "Keskeytettyjen kampanjoiden pyyntöjä ei voida hyväksyä tai hylätä. Jatka kampanjaa ensin.",
+    "accountError": "Tilin luominen epäonnistui. Yritä uudelleen.",
+    "publishCampaign": "Haluatko varmasti julkaista tämän kampanjan?",
+    "publishCampaignSuccess": "Kampanja julkaistu",
+    "publishCampaignError": "Kampanjan julkaisu epäonnistui",
+    "unauthorized": "Ei oikeuksia",
+    "campaignNotFound": "Kampanjaa ei löydy",
+    "brandNotFound": "Tälle kampanjalle ei löydy brändiä",
+    "trackingNotVerified": "Seuranta täytyy vahvistaa ennen julkaisua",
+    "webhookRequired": "Webhook on konfiguroitava ja testattava ennen kuin ei pay-per-click -kampanja voidaan julkaista",
+    "paymentError": "Verkkovirhe. Tarkista yhteytesi.",
+    "paymentError1": "Tapahtumatietojen hakeminen epäonnistui.",
+    "paymentSuccess": "Siirrot luotu tapahtumaa varten.",
+    "paymentError2": "Siirron luominen epäonnistui.",
+    "completeStripeMsg": "Täytä ALV-tietosi ennen Stripen yhdistämistä.",
+    "goToVAT": "Siirry ALV-välilehdelle",
+    "notFound": "Sähköpostiosoitetta ei löytynyt. Yritä kirjautua uudelleen.",
+    "sure": "Oletko varma?",
+    "addToProfile": "Lisää tuote julkiseen profiiliin!",
+    "reset": "Haluatko varmasti palauttaa salasanan?",
+    "resetLink": "Salasanan palautuslinkki on lähetetty sähköpostiisi.",
+    "resetError": "Salasanan palautuslinkin lähettäminen epäonnistui. Yritä uudelleen.",
+    "invitationAccepted": "Kutsu hyväksytty!",
+    "authFailed": "Todennus epäonnistui.",
+    "permission": "Sinulla ei ole oikeutta keskeyttää kampanjaa.",
+    "sorry": "Pahoittelut",
+    "ok": "Ok",
+    "cancel": "Peruuta",
+    "resume": "Haluatko jatkaa tätä kampanjaa?",
+    "pause": "Haluatko keskeyttää tämän kampanjan?",
+    "isResume": "Kyllä, jatka sitä",
+    "isPause": "Kyllä, keskeytä se",
+    "paused": "Ei, pidä se keskeytettynä",
+    "running": "Ei, pidä se käynnissä",
+    "resumed": "Kampanja jatkettu",
+    "paused2": "Kampanja keskeytetty",
+    "resumeSuccess": "Kampanjaa on jatkettu onnistuneesti.",
+    "pauseSuccess": "Kampanja on keskeytetty onnistuneesti.",
+    "error": "Virhe",
+    "serverError": "Palvelinvirhe. Yritä myöhemmin uudelleen.",
+    "campaignError": "Kampanjan tilan muuttaminen epäonnistui. Yritä uudelleen.",
+    "delete": "Sinulla ei ole oikeutta poistaa kampanjaa.",
+    "deleteQues": "Haluatko poistaa tämän kampanjan?",
+    "deleteQuesUser": "Haluatko poistaa tämän käyttäjän?",
+    "userDeleteSuccess": "Käyttäjä poistettu onnistuneesti.",
+    "yes": "Kyllä",
+    "no": "Ei",
+    "campaignDlt": "Kampanja poistettu",
+    "dltSucess": "Kampanja on poistettu onnistuneesti.",
+    "dltError": "Kampanjan poistaminen epäonnistui. Yritä uudelleen.",
+    "denied": "Pääsy evätty",
+    "text": "Sinulla ei ole oikeutta lähettää kutsuja.",
+    "permissionText": "Pahoittelut, sinulla ei ole oikeutta.",
+    "inviteText": "Haluatko varmasti lähettää kutsun?",
+    "inviteError": "Kutsujen lähettäminen epäonnistui.",
+    "msg": "Haluatko varmasti ",
+    "request": " tämän pyynnön?",
+    "accepted": "Hyväksytty",
+    "declined": "Hylätty",
+    "failed": "Epäonnistui ",
+    "req": " pyyntö",
+    "dltReq": "Haluatko varmasti poistaa tämän pyynnön?",
+    "failedReq": "Pyynnön peruminen epäonnistui.",
+    "invalid": "Virheellinen toiminto",
+    "saveCmg": "Haluatko varmasti tallentaa muutokset?",
+    "save": "Tallenna",
+    "savedCmg": "Kampanja tallennettu onnistuneesti.",
+    "cmgFailed": "Kampanjan tallentaminen epäonnistui.",
+    "cmgCreated": "Kampanja luotu onnistuneesti.",
+    "cmgCreatedFailed": "Kampanjan luominen epäonnistui.",
+    "methodFailed": "Maksutapojen tarkistus epäonnistui.",
+    "methodError": "Virhe maksutapoja tarkistettaessa. Yritä uudelleen.",
+    "noMethod": "Ei maksutapaa",
+    "reqMsg": "Lisää maksutapa ennen kampanjan luomista.",
+    "teamError": "Virhe haettaessa tiimin jäseniä",
+    "permissionInvitations": "Sinulla ei ole oikeutta lähettää kutsuja.",
+    "invitationSent": "Kutsu lähetetty onnistuneesti!",
+    "invitationError": "Virhe lähettäessä kutsu",
+    "deleteAc": "Haluatko varmasti poistaa tilisi?",
+    "deleteTxt": "Tämä poistaa tilisi pysyvästi. Tätä toimintoa ei voi perua!",
+    "dltSuccess": "Tili poistettu onnistuneesti!",
+    "revoked": "Kutsu peruttu!",
+    "revokedError": "Kutsun peruminen epäonnistui",
+    "revokePer": "Sinulla ei ole oikeutta päivittää tiimin jäsenen oikeuksia.",
+    "perUpdate": "Oikeudet päivitetty onnistuneesti!",
+    "perError": "Virhe päivittäessä oikeuksia",
+    "profile": "Profiili päivitetty onnistuneesti!",
+    "profileError": "Virhe päivittäessä profiilia",
+    "notificationError": "Virhe päivittäessä asetuksia",
+    "success": "Onnistui",
+    "paymentTxt": "Kortti lisätty onnistuneesti",
+    "cardAddErrorText": "Verkkovirhe. Tarkista yhteytesi.",
+    "stripeAccountErrorText": "Stripe-tilin luominen epäonnistui. Yritä uudelleen",
+    "deleteCardSuccessText": "Haluatko poistaa tämän kortin?",
+    "deleteCardSuccessConfirmButtonText": "Kyllä, poista se",
+    "deleteCardSuccessCancelButtonText": "Ei, pidä se",
+    "cardDeleteSuccess": "Kortti poistettu onnistuneesti",
+    "cardDeleteError": "Kortin poistaminen epäonnistui.",
+    "invoiceGenerateError": "Laskujen luominen epäonnistui",
+    "invoiceSuccessText": "Lasku maksettu onnistuneesti",
+    "invoiceErrorText": "Laskun maksaminen epäonnistui",
+    "downloadInvoiceError": "Laskun lataaminen epäonnistui. Yritä uudelleen.",
+    "requestErrorText": "Pyynnön käsittely epäonnistui",
+    "passwordUpdateSuccess": "Salasana päivitetty onnistuneesti!",
+    "saveChangeText": "Haluatko tallentaa muutokset?",
+    "profileUpdateError": "Virhe päivittäessä profiilia",
+    "teamErrorText": "Virhe haettaessa tiimin jäseniä",
+    "actionRequiredTitle": "Toiminto vaaditaan",
+    "actionRequiredTxt": "Stripe-tilisi tarvitsee lisätodennuksen. Suorita vaaditut vaiheet.",
+    "bankAccountTitle": "Ei pankkitiliä",
+    "bankAccountTxt": "Lisää pankkitili Stripe Dashboardissa saadaksesi maksuja.",
+    "stripeConnectionError": "Stripe-tilin yhdistäminen epäonnistui. Yritä uudelleen.",
+    "noStripeAccountTitle": "Ei Stripe-tiliä",
+    "noStripeAccountTxt": "Sinun täytyy yhdistää Stripe-tili muokataksesi maksutietoja.",
+    "stripeErrorTxt": "Uudelleenohjaus Stripe Dashboardiin epäonnistui. Yritä uudelleen.",
+    "imageUploadError": "Lataa kelvollinen kuvatiedosto (JPEG, PNG tai GIF).",
+    "imageSizeError": "Kuvan koko ylittää 5MB rajoituksen.",
+    "imageUploadTitle": "Kuva päivitetty",
+    "imageUploadErrorTxt": "Profiilikuvan päivittäminen epäonnistui. Yritä uudelleen.",
+    "msgSuccessTag": "Viesti lähetetty onnistuneesti.",
+    "messageSent": "Viesti lähetetty.",
+    "addFavTxt": "Lisätty suosikkeihin",
+    "removeFavTxt": "Poista suosikeista",
+    "confirmApplyText": "Haluatko varmasti lähettää pyynnön?",
+    "sentRequest": "Pyyntö lähetetty",
+    "requestCancelText": "Haluatko varmasti perua pyyntösi?",
+    "requestCancelled": "Pyyntö peruttu",
+    "failedSendText": "Lähetys epäonnistui",
+    "actionFailed": "Toiminto epäonnistui",
+    "downloadSuccess": "Kuva ladattu",
+    "downloadError": "Lataus epäonnistui",
+    "downloadErrorText": "Kuvan lataaminen ei onnistunut. Yritä myöhemmin uudelleen.",
+    "bannerSucessTxt": "Banneri lisätty onnistuneesti",
+    "bannerDltTxt": "Haluatko varmasti poistaa tämän bannerin?",
+    "deleteBtn": "Poista",
+    "updateBtn": "Päivitä",
+    "bannerDltSuccess": "Banneri poistettu onnistuneesti",
+    "bannerUpdatedTxt": "Banneri päivitetty",
+    "updateBannerTxt": "Haluatko varmasti päivittää tämän bannerin?",
+    "blogDeleteTxt": "Haluatko varmasti poistaa tämän blogin?",
+    "blogDeleteSuccessTxt": "Blogi poistettu onnistuneesti",
+    "blogDeleteErrorTxt": "Blogin poistaminen epäonnistui",
+    "blogUpdateTxt": "Haluatko varmasti päivittää tämän blogin?",
+    "blogUpdateSuccessTxt": "Blogi päivitetty onnistuneesti",
+    "viewPermissionTxt": "Et voi tarkastella tätä kampanjaa",
+    "blockText": "Haluatko varmasti estää tämän käyttäjän?",
+    "blockSuccess": "Käyttäjä estetty onnistuneesti",
+    "unblockText": "Haluatko varmasti poistaa tämän käyttäjän eston?",
+    "unBlockSuccess": "Käyttäjän esto poistettu onnistuneesti",
+    "deleteFaqTxt": "Haluatko varmasti poistaa tämän usein kysytyn kysymyksen?",
+    "deleteFaqSuccessTxt": "Usein kysytty kysymys poistettu onnistuneesti",
+    "deleteHelpTxt": "Haluatko varmasti poistaa?",
+    "deleteHelpSuccess": "Poistettu onnistuneesti",
+    "deleteTagTxt": "Haluatko varmasti poistaa tämän tagin?",
+    "tagDeleted": "Tag poistettu",
+    "tagDeleteFailed": "Tagin poistaminen epäonnistui",
+    "updateFaqTxt": "Haluatko varmasti päivittää tämän usein kysytyn kysymyksen?",
+    "faqUpdated": "Usein kysytty kysymys päivitetty onnistuneesti",
+    "updateHelpTxt": "Haluatko varmasti päivittää?",
+    "helpUpdated": "Päivitetty onnistuneesti",
+    "addTagTxt": "Haluatko varmasti lisätä tämän tagin?",
+    "updateTagTxt": "Haluatko varmasti päivittää tämän tagin?",
+    "passwordResetEmailSent": "Salasanan palautusviesti lähetetty. Tarkista saapuneet.",
+    "profileUpdateThankYou": "Kiitos profiilin päivittämisestä!",
+    "logoutSuccess": "Olet kirjautunut ulos",
+    "loggedInSuccess": "Sisäänkirjautuminen onnistui",
+    "noPaymentMethodTitle": "Ei maksutapaa",
+    "noPaymentMethodText": "Lisää maksutapa ennen tämän toiminnon suorittamista.",
+    "addPaymentMethod": "Lisää maksutapa",
+    "invalidRole": "Virheellinen käyttäjärooli. Päivitä profiilisi.",
+    "deleteAccountConfirm": "Kyllä, poista se!",
+    "failedToReportUser": "Käyttäjän ilmoittaminen epäonnistui",
+    "failedToBlockUser": "Käyttäjän estäminen epäonnistui",
+    "failedToUnblockUser": "Käyttäjän eston poistaminen epäonnistui",
+    "tagAddedSuccess": "Tag lisätty onnistuneesti",
+    "tagUpdatedSuccess": "Tag päivitetty onnistuneesti",
+    "confirmRemove": "Oletko varma?",
+    "confirmRemoveText": "Haluatko poistaa lähettilään tästä kampanjasta?",
+    "ambassadorRemovedSuccess": "Lähettiläs poistettu onnistuneesti",
+    "ambassadorRemoveFailed": "Lähettilään poistaminen epäonnistui",
+    "removeSuccess": "Suurlähettiläs poistettu onnistuneesti",
+    "alreadyRegistered": "Sähköposti on jo rekisteröity.",
+    "emailverification": "Sähköpostiosoitetta ei ole vahvistettu. Vahvista kirjautuminen",
+    "emailNotConfirmedWithResend": "Sähköpostiosoitetta ei ole vahvistettu. Uusi vahvistussähköposti on lähetetty.",
+    "emailNotConfirmedCheckEmail": "Sähköpostiosoitetta ei ole vahvistettu. Tarkista sähköpostisi vahvistuslinkin osalta.",
+    "emailNotConfirmedResendFailed": "Sähköpostia ei ole vahvistettu. Vahvistussähköpostin uudelleenlähetys epäonnistui.",
+    "invalidCredentials": "Virheellinen sähköposti tai salasana. Tarkista kirjautumistietosi ja yritä uudelleen.",
+    "userNotFoundSignUp": "Tällä sähköpostiosoitteella ei löydy tiliä. Rekisteröidy ensin.",
+    "userNotFoundPasswordReset": "Tällä sähköpostiosoitteella ei löydy tiliä. Tarkista sähköpostiosoitteesi ja yritä uudelleen.",
+    "invalidInvitationStatus": "Virheellinen kutsun tila. Ota yhteyttä tukeen.",
+    "inviterNotFound": "Kutsuvirhe. Ota yhteyttä tukeen.",
+    "networkError": "Verkkovirhe. Tarkista internetyhteytesi ja yritä uudelleen.",
+    "googleLoginFailed": "Google-kirjautumisen aloittaminen epäonnistui",
+    "favourites": "Haluatko poistaa tämän suosikeista",
+    "savedMsg": "Haluatko varmasti tallentaa muutokset?",
+    "removedFavourites": "Poistettu suosikeista.",
+    "profileUpdateSuccess": "Profiilin päivitys onnistui.",
+    "notificationSuccess": "Ilmoitusasetukset päivitetty onnistuneesti!",
+    "added": "lisätty",
+    "removed": "poistettu",
+    "storefront": "kauppaan!",
+    "profileAdd": "profiiliin!",
+    "profileRemove": "profiilista!",
+    "product": "Tuote",
+    "to": "kohteeseen",
+    "inquirySent": "Tiedustelu lähetettiin onnistuneesti",
+    "inquiryFailed": "Tiedustelun lähetys epäonnistui",
+    "inquiryDeleted": "Tiedustelu poistettiin onnistuneesti",
+    "from": "kohteesta",
+    "yourStorefront": "kauppaasi?",
+    "thisProduct": "tämä tuote",
+    "sureMsg": "Haluatko varmasti",
+    "yourProfile": "profiilistasi?",
+    "revertMsg": "Et voi peruuttaa tätä!",
+    "deleted": "Poistettu!",
+    "changes": "Muutokset tallennettu onnistuneesti",
+    "created": "Kampanja luotu onnistuneesti",
+    "sendInvite": "Haluatko varmasti lähettää kutsun?",
+    "cancelInvite": "Haluatko varmasti peruuttaa pyynnön?",
+    "storefrontItems": "Näyteikkunan tuotteiden lataaminen epäonnistui",
+    "removeProduct": "Poista tuote",
+    "removeMsg": "Haluatko varmasti poistaa tämän tuotteen näyteikkunastasi?",
+    "remove": "Poista",
+    "removedTxt": "Poistettu",
+    "productRemoved": "Tuote poistettu näyteikkunasta",
+    "failesProductRemove": "Tuotteen poistaminen näyteikkunasta epäonnistui",
+    "tracking": "Seurantalinkki kopioitu leikepöydälle",
+    "copied": "Kopioitu!",
+    "failedUrl": "URL:n kopiointi epäonnistui",
+    "accept": "Hyväksy",
+    "decline": "Hylkää",
+    "failedUpdateProduct": "Tuoteprofiilin päivittäminen epäonnistui",
+    "failedUpdateStorefront": "Näyteikkunan päivittäminen epäonnistui",
+    "errorUpdateProfile": "Virhe profiilin päivittämisessä",
+    "termsRequired": "Ehdot vaaditaan",
+    "acceptTermsText": "Hyväksy sekä käyttöehdot että FTC-ilmoitus liittyäksesi tähän kampanjaan",
+    "addProducts": "Profiiliin lisätyt tuotteet käyttävät samoja seurattavia linkkejä, joten ne ovat aina hyödynnettävissä, myös silloin, kun et aktiivisesti mainosta. Voit näin jakaa profiilisi URL:n ja seuraajasi löytävät kaikki suosikkisi yhdestä osoitteesta.",
+    "removeProducts": "Haluatko poistaa tämän tuotteen profiilistasi?",
+    "productRemovedTxt": "Tuote poistettu profiilista!",
+    "errorRemove": "Tuotteen poistaminen profiilista epäonnistui",
+    "linkCopied": "Profiililinkki kopioitu",
+    "failedLink": "Profiililinkin kopiointi epäonnistui",
+    "deleteMsgconfirmation": "Haluatko varmasti poistaa keskustelun?",
+    "chatDeletedSuccess": "Keskustelu poistettu onnistuneesti",
+    "chatDeletedFailed": "Keskustelun poistaminen epäonnistui",
+    "add": "Lisää",
+    "notNow": "Ei nyt"
+  },
+  "ProductSelection": {
+    "heading": "Tuotevalinta",
+    "shopifyRequiredTitle": "Shopify-integraatio vaaditaan",
+    "shopifyRequiredDesc": "Valitaksesi tuotteita kampanjaasi, sinun täytyy ensin integroida Shopify-kauppasi.",
+    "noShopifyTitle": "Ei Shopify-integraatiota",
+    "noShopifyDesc": "Sinulla ei ole Shopify-integraatiota käytössä. Voit silti luoda kampanjoita ilman tuotevalintaa.",
+    "continueWithoutProducts": "Jatka ilman tuotteita",
+    "selectProducts": "Valitse kampanjaan mukaan otettavat tuotteet.",
+    "selectedProducts": "Valitut tuotteet",
+    "remove": "Poista",
+    "loading": "Ladataan tuotteita...",
+    "error": "Tuotteiden lataus epäonnistui. Yritä uudelleen.",
+    "empty": "Shopify-kaupassasi ei ole tuotteita.",
+    "addShopify": "Lisää Shopify-integraatio"
+  },
+  "CompensationRestriction": {
+    "shopifyOnlyPayPerSale": "Shopify-integraation kanssa vain Pay Per Sale -palkkio on käytettävissä.",
+    "shopifyRequired": "Jos haluat käyttää muita palkkiotyyppejä, poista Shopify-integraatio.",
+    "removeSuccess": "Suurlähettiläs poistettu onnistuneesti",
+    "cardDeleteSucess": "Kortti poistettu onnistuneesti"
+  },
+  "Compensation": {
+    "types": {
+      "pay-per-sale": "Palkkio per myynti",
+      "pay-per-click": "Palkkio per klikkaus",
+      "pay-per-lead": "Palkkio per liidi",
+      "flat-fee": "Kiinteä palkkio"
+    }
+  },
+  "Payments": {
+    "heading": "Brändin maksut",
+    "start": "Aloita",
+    "loading": "Ladataan...",
+    "refresh": "Päivitä",
+    "csv": "Vie CSV",
+    "end": "Loppu",
+    "total": "Maksettu yhteensä",
+    "pending": "Odottavat maksut",
+    "text": "Hinnat sisältävät ALV:n ja Stripe-käsittelymaksut.",
+    "text2": "Nämä summat sisältävät maksettavan kokonaismäärän, mukaan lukien ALV:n (tarvittaessa) ja Stripe-käsittelymaksut.",
+    "upcoming": "Tuleva eräpäivä",
+    "payments": "Maksut kampanjan mukaan",
+    "fallback": "Ei tietoja",
+    "paymentsOverTime": "Maksut ajan myötä",
+    "records": "Yksityiskohtaiset maksutiedot",
+    "date": "Päivämäärä",
+    "name": "Kumppanin nimi",
+    "campaign": "Kampanja",
+    "trackingCode": "Seurantakoodi",
+    "trackingUrl": "Seurantalinkki",
+    "sale": "Myyntisumma",
+    "paid": "Maksettu provisio",
+    "status": "Tila",
+    "commissionStatus": "Provision tila",
+    "statuses": {
+      "pending": "Odottaa",
+      "locked": "Lukittu",
+      "cancelled": "Peruutettu",
+      "paid": "Maksettu",
+      "upcoming": "Tulossa"
+    },
+    "fallback2": "Ei tietueita",
+    "cancelCommission": "Peruuta provisio",
+    "confirmCancel": "Haluatko varmasti peruuttaa tämän provision? Tämä lisää negatiivisen korjauksen laskulle.",
+    "notConnected": "Ei yhdistetty",
+    "sports": {
+      "verified": "Stripe-tilisi on vahvistettu ja valmis maksuihin.",
+      "action": "Toimenpide vaaditaan: Suorita vahvistus Stripe-hallintapaneelissa. Odottavat vaatimukset:",
+      "pending": "Stripe-tilisi vahvistus on kesken. Tarkista päivitykset Stripe-hallintapaneelista.",
+      "statusCheck": "Tarkistetaan vahvistustilaa...",
+      "connection": "Stripe-tiliä ei ole yhdistetty.",
+      "settings": "Maksuasetukset",
+      "accountId": "Stripe-tilin tunnus",
+      "bankName": "Pankin nimi:",
+      "accountNumber": "Tilinumero:",
+      "accountHolder": "Tilinhaltija:",
+      "fallback": "Pankkitiliä ei ole liitetty. Lisää se Stripe-hallintapaneelissa.",
+      "connected": "Stripe-tili yhdistetty",
+      "connect": "Yhdistä Stripe-tili",
+      "edit": "Muokkaa Stripe-tiliä",
+      "verification": "Suorita Stripe-vahvistus",
+      "notConnected": "Ei yhdistetty",
+      "stripeTab": "Stripe",
+      "vatTab": "ALV",
+      "redirectOnboarding": "Siirrytään Stripe-onboardingiin...",
+      "noStripeAccount": "Stripe-tiliä ei ole yhdistetty",
+      "redirectDashboard": "Siirrytään Stripe-hallintapaneeliin...",
+      "redirectDashboardFailed": "Uudelleenohjaus Stripe-hallintapaneeliin epäonnistui",
+      "unknown": "tuntematon",
+      "na": "Ei saatavilla",
+      "notSet": "Ei asetettu",
+      "notProvided": "Ei annettu",
+      "verificationCheckFailed": "Stripe-tilin vahvistuksen tarkistus epäonnistui",
+      "completed": "Valmis",
+      "required": "Vaaditaan",
+      "locked": "Lukittu"
+    }
+  },
+  "NotFound": {
+    "heading": "Sivua ei löydy",
+    "subHeading": "Hupsista! Etsimääsi sivua ei ole olemassa tai se on siirretty.",
+    "url": "Siirry Kotisivulle"
+  },
+  "Unauthorized": {
+    "heading": "Pääsy evätty",
+    "subHeading": "Sinun täytyy kirjautua sisään nähdäksesi tämän sivun. Kirjaudu sisään jatkaaksesi.",
+    "loginButton": "Kirjaudu sisään",
+    "homeButton": "Siirry Kotisivulle"
+  },
+  "Dashboard": {
+    "myAccount": "Profiili",
+    "heading": "Oma tili",
+    "welcomeFan": "Tervetuloa! Täältä voit nähdä uusimmat urheilijat ja brändit. Valitse suosikkisi ja tue ostamalla.",
+    "welcomeBrand": "Aloita yhteistyö helposti urheilulähettiläiden kanssa. Anna heidän olla brändisi autenttinen suosittelija ja maksa vain toteutuneista tuloksista.",
+    "welcomeAmbassador": "Tervetuloa Sbonssyyn. Löydä itsellesi sopivimmat kampanjat ja aloita tienaaminen jo tänään!",
+    "welcomeDefault": "Tervetuloa Sbonssyyn. Täältä pääset profiiliisi, hallitsemaan asetuksia ja löytämään kiinnostavia kampanjoita. Aloita tutkiminen ja liity kampanjoihin jo tänään!",
+    "loadingCampaigns": "Ladataan brändejä ...",
+    "loadingJoinedCampaigns": "Lataus liittyi kampanjoihin ...",
+    "loadingAmbassadors": "Ladataan lähettiläitä",
+    "loadingFavourites": "Ladataan suosikit ...",
+    "noCampaigns": "Ei vielä kampanjoita.",
+    "noJoinedCampaigns": "Et ole vielä liittynyt kampanjoihin",
+    "noAmbassadors": "Ladataan urheilulähettiläät..",
+    "noFavourites": "Ei vielä suosikkeja.",
+    "latestCampaigns": "Viimeisimmät kampanjat",
+    "campaign": "Kampanja",
+    "untitledCampaign": "Nimettömän kampanja",
+    "ambassador": "Suurlähettiläs",
+    "shopifyConnected": "Shopify yhdistetty. Avaa sovellus hallitaksesi tuotteita ja kampanjoita.",
+    "shopify": "Onko teillä käytössä Shopify? Yhdistä verkkokauppa ja tee kampanjoiden luomisesta helpompaa.",
+    "app": "Avaa Shopify-sovellus",
+    "connect": "Yhdistä Shopify",
+    "shopifyHeading": "Shopify",
+    "latestAmbassadors": "Uudet lähettiläät",
+    "saved": "Tallennettu",
+    "analytics": "Analytiikka",
+    "myCampaigns": "Omat kampanjat",
+    "latestBrands": "Uudet brändit",
+    "connectShopify": "Yhdistä Shopify",
+    "connectShopifyStore": "Yhdistä Shopify-kauppasi",
+    "connectShopifyDesc": "Syötä vain kauppasi aliverkkotunnus Shopify-hallintapaneelin URL-osoitteesta.",
+    "connectShopifyExample": "Esimerkki: Jos URL-osoitteesi on admin.shopify.com/store/oma-kauppa, syötä: oma-kauppa",
+    "connectShopifyWarning": "⚠️ Varmista, että aliverkkotunnus on oikein. Väärä aliverkkotunnus johtaa 'sivua ei löydy' -virheeseen.",
+    "storeNamePlaceholder": "oma-kauppa",
+    "cancelBtn": "Peruuta",
+    "continueBtn": "Jatka",
+    "storeNameError": "Syötä verkkokauppasi nimi",
+    "shopifyConfigError": "Shopify-sovelluksen nimeä ei ole määritetty",
+    "failedToLoadData": "Tietojen lataaminen epäonnistui",
+    "analyticsPreviewAlt": "Analytiikan esikatselu",
+    "ambassadorLabel": "Lähettiläs",
+    "welcome": "Tervetuloa",
+    "welcomeMessage": "Liity kampanjoihin, lisää tuotteita profiiliin ja linkkaa suosikkisi seuraajillesi. Avullamme muutat suosituksesi rahaksi!",
+    "earnings": "Tulot",
+    "conversions": "Konversiot",
+    "shares": "Jaot",
+    "activeCampaigns": "Aktiiviset kampanjat",
+    "latestCampaignsCount": "Viimeisimmät kampanjat",
+    "updateStorefront": "Päivitä profiilisi",
+    "viewAll": "Näytä kaikki",
+    "loading": "Latautuu...",
+    "exploreCampaigns": "Tutustu kampanjoihin",
+    "setupStripe": "Yhdistä Stripe",
+    "createCampaign": "Luo kampanja",
+    "manageShopify": "Hallinnoi Shopifyta",
+    "revenue": "Tulot",
+    "clicks": "Klikkaukset",
+    "stripeSetupRequired": "Olet yhden askeleen päässä",
+    "stripeSetupMessage": "Yhdistä Stripe avataksesi kampanjat ja aloittaaksesi ansaitsemisen.",
+    "stripeSetupWarning": "Yhdistämisen jälkeen voit liittyä kampanjoihin ja vastaanottaa maksuja.",
+    "remindLater": "Muistuta myöhemmin",
+    "lastWeek": "Viimeinen viikko",
+    "last30Days": "Viimeiset 30 päivää",
+    "yearToDate": "Vuoden alusta"
+  },
+  "BlogDetail": {
+    "fallback": "Blogia ei löytynyt.",
+    "published": "Julkaistu",
+    "content": "Sisältöä ei ole saatavilla."
+  },
+  "Mapbox": {
+    "placeholder": "Valitse maa",
+    "selected": "Valittu",
+    "loading": "Ladataan maita...",
+    "error": "Virhe maiden lataamisessa"
+  },
+  "Cookies": {
+    "heading": "Evästeasetukset",
+    "para": "Hallitse evästeisiin liittyviä asetuksiasi tällä sivustolla. Voit päivittää suostumuksesi tilasto- ja markkinointievästeisiin milloin tahansa.",
+    "btn": "Avaa evästeasetukset"
+  },
+  "Validation": {
+    "emailRequired": "Anna voimassa oleva sähköpostiosoite",
+    "passwordMin": "Salasanassa on oltava vähintään 6 merkkiä",
+    "passwordRequired": "Tämä kenttä on pakollinen",
+    "confirmPasswordMatch": "Arvojen on oltava samat",
+    "confirmPasswordRequired": "Tämä kenttä on pakollinen",
+    "termsRequired": "Sinun on hyväksyttävä tämä kenttä",
+    "ageRequired": "Sinun on vahvistettava ikäsi",
+    "roleRequired": "Tämä kenttä on pakollinen",
+    "pleaseSelectRole": "Valitse rooli ennen kuin rekisteröidyt Googlella.",
+    "failedToInitiateGoogleRegistration": "Googlen rekisteröinnin käynnistäminen epäonnistui",
+    "hidePassword": "Piilota salasana",
+    "showPassword": "Näytä salasana",
+    "firstNameRequired": "Etunimi on pakollinen",
+    "lastNameRequired": "Sukunimi on pakollinen",
+    "genderRequired": "Sukupuoli on pakollinen",
+    "sportsMin": "Valitse vähintään yksi laji",
+    "levelRequired": "Taso on pakollinen",
+    "teamNameRequired": "Joukkueen nimi on pakollinen",
+    "locationRequired": "Maa on pakollinen",
+    "locationNameRequired": "Maa on pakollinen",
+    "biographyRequired": "Biografia on pakollinen",
+    "biographyMax": "Biografia saa olla enintään 500 merkkiä",
+    "achievementsMax": "Saavutukset saavat olla enintään 500 merkkiä",
+    "recordsMax": "Ennätykset saavat olla enintään 500 merkkiä",
+    "goalsMax": "Tavoitteet saavat olla enintään 500 merkkiä",
+    "interestsMin": "Valitse vähintään yksi",
+    "subRoleRequired": "Alarooli on pakollinen",
+    "onboardPhotosMin": "Lataa vähintään yksi kuva",
+    "termsAcceptedRequired": "Sinun on hyväksyttävä käyttöehdot",
+    "invalidInstagramUrl": "Virheellinen Instagram-URL",
+    "invalidFacebookUrl": "Virheellinen Facebook-URL",
+    "invalidTikTokUrl": "Virheellinen TikTok-URL",
+    "invalidYouTubeUrl": "Virheellinen YouTube-URL",
+    "invalidXUrl": "Virheellinen X (Twitter) -URL",
+    "invalidWebsiteUrl": "Virheellinen verkkosivuston URL",
+    "invalidLinkedInUrl": "Virheellinen LinkedIn-URL",
+    "companyNameRequired": "Yrityksen nimi on pakollinen",
+    "jobTitleRequired": "Työnimike on pakollinen",
+    "vatNumberRequired": "ALV-numero on pakollinen",
+    "legalNameRequired": "Virallinen nimi on pakollinen",
+    "addressRequired": "Osoite on pakollinen",
+    "referencesRequired": "Viitteet ovat pakolliset",
+    "companyInterestRequired": "Yrityksen kiinnostuksen kohteet ovat pakolliset",
+    "companyInterestMax": "Valitse enintään 5 kiinnostuksen kohdetta",
+    "companyInterestMin": "Valitse vähintään yksi kiinnostuksen kohde",
+    "companyIntroRequired": "Yrityksen esittely on pakollinen",
+    "websiteUrlRequired": "Verkkosivuston URL on pakollinen",
+    "websiteUrlInvalid": "Anna voimassa oleva verkkosivuston URL",
+    "workingPeopleRequired": "Työntekijöiden määrä on pakollinen",
+    "companyLogoRequired": "Yrityksen logo on pakollinen",
+    "companyNumberRequired": "Yrityksen numero on pakollinen",
+    "taxNumberRequired": "Veronumero on pakollinen",
+    "imageRequired": "Kuva on pakollinen"
+  },
+  "ResetPassword": {
+    "heading": "Palauta salasana",
+    "subHeading": "Syötä uusi salasanasi",
+    "placeholder": "Vahvista uusi salasana",
+    "newPassword": "Uusi salasana",
+    "confirmPassword": "Vahvista salasana",
+    "btn": "Palauta salasana",
+    "remember": "Muistitko salasanasi?",
+    "login": "Kirjaudu sisään",
+    "updating": "Päivitetään...",
+    "update": "Päivitä salasana"
+  },
+  "globalSearch": {
+    "brand": "Brändi",
+    "ambassador": "Lähettiläs",
+    "noResults": "Ei tuloksia",
+    "brands": "Brändit",
+    "ambassadors": "Lähettiläät",
+    "showAllResults": "Näytä kaikki tulokset"
+  },
+  "csv": {
+    "heading": "Käyttäjien CSV-lataus",
+    "desc": "Lataa CSV-tiedostoja tuodaksesi käyttäjiä joukkona Supabaseen ja MongoDB:hen",
+    "instructionHeading": "Latausohjeet",
+    "creationHeading": "Käyttäjien luontiprosessi:",
+    "creationSteps": {
+      "one": "Käyttäjät luodaan sekä Supabaseen (autentikointi) että MongoDB:hen (profiilidata)",
+      "two": "Salasana asetetaan samaksi kuin sähköpostiosoite",
+      "three": "Sähköpostin vahvistus on oletuksena pois päältä (käyttäjien täytyy vahvistaa se manuaalisesti)",
+      "four": "Käyttäjän rooli ja alirooli määritellään PublicData-osiossa olevan userType-arvon perusteella"
+    },
+    "mappingHeading": "Käyttäjätyyppien vastaavuus:",
+    "role": {
+      "one": {
+        "label": "brand",
+        "head": "→ rooli: brand"
+      },
+      "two": {
+        "label": "fan",
+        "head": "→ rooli: fan"
+      },
+      "three": {
+        "label": "Muu tyyppi",
+        "head": "(athlete/coach/team/influencer jne.) → rooli: sports-ambassador"
+      }
+    },
+    "error": {
+      "heading": "Virheenkäsittely:",
+      "steps": {
+        "one": "Päällekkäiset käyttäjät (sähköpostin perusteella) ohitetaan",
+        "two": "Jos Supabase-käyttäjän luonti epäonnistuu, prosessi jatkuu seuraavaan käyttäjään",
+        "three": "Jos MongoDB-käyttäjän luonti epäonnistuu, Supabase-käyttäjä poistetaan",
+        "four": "Yksityiskohtainen virheraportti voidaan ladata epäonnistuneista tietueista"
+      }
+    },
+    "format": {
+      "heading": "CSV-muodon esimerkit:",
+      "simple": {
+        "heading": "Yksinkertainen muoto:",
+        "desc": {
+          "one": "email,userType",
+          "two": "john@example.com,athlete",
+          "three": "brand@company.com,brand",
+          "four": "fan@example.com,fan"
+        }
+      },
+      "legacy": {
+        "heading": "Vanha muoto (muunnetaan automaattisesti):",
+        "desc": {
+          "one": "Id,FirstName,LastName,EmailAddress,PublicData",
+          "two": "1,John,Doe,john@example.com,{\"userType\":\"athlete\"}",
+          "three": "2,Jane,Smith,jane@company.com,{\"userType\":\"brand\"}"
+        }
+      }
+    },
+    "dropHeading": "Pudota CSV-tiedosto tähän tai napsauta selataksesi",
+    "support": "Tuettu tiedostotyyppi: vain CSV-tiedostot",
+    "file": "Valitse tiedosto",
+    "formatHeading": "Tuetut CSV-muodot:",
+    "uploadation": {
+      "heading": "Yksinkertainen muoto:",
+      "role": {
+        "one": {
+          "label": "email:",
+          "head": "Käyttäjän sähköpostiosoite"
+        },
+        "two": {
+          "label": "userType:",
+          "head": "Käyttäjätyyppi (brand/fan/athlete jne.)"
+        }
+      },
+      "legacy": "Vanha muoto (tunnistetaan automaattisesti):",
+      "steps": {
+        "one": {
+          "label": "EmailAddress:",
+          "head": "Muunnetaan kenttään email"
+        },
+        "two": {
+          "label": "PublicData",
+          "head": "JSON, joka sisältää userType-tiedon, poimitaan"
+        },
+        "three": "Muut sarakkeet ohitetaan"
+      },
+      "para": "Kaikkien käyttäjien salasana asetetaan heidän sähköpostiosoitteekseen"
+    },
+    "buttons": {
+      "one": "Ladataan...",
+      "two": "Lataa CSV",
+      "three": "Tyhjennä",
+      "reset": "Lataa toinen CSV"
+    },
+    "processing": "Käsitellään CSV:tä...",
+    "results": "Lataustulokset",
+    "records": "Tietueita yhteensä",
+    "success": "Onnistuneet",
+    "failed": "Epäonnistuneet",
+    "errors": "Virheet",
+    "errorReport": "Lataa virheraportti",
+    "row": "Rivi",
+    "and": "ja",
+    "more": "lisää virheitä.",
+    "report": "Lataa koko raportti nähdäksesi kaikki virheet.",
+    "successMsg": {
+      "msg": "Lataus valmistui onnistuneesti!",
+      "para": "Käyttäjät on luotu sekä Supabaseen että MongoDB:hen. Kaikkien käyttäjien salasana on asetettu heidän sähköpostiosoitteekseen ja sähköpostin vahvistus on pois päältä."
+    }
+  },
+  "Products": {
+    "title": "Omat tuotteet",
+    "description": "Shopify-kauppasi on yhdistetty ja synkronoituu automaattisesti, jotta tuotteesi ja hintasi pysyvät aina ajan tasalla. Voit valita ne tuotteet, jotka haluat sisällyttää, kun luot kampanjan.",
+    "descriptionNotConnected": "Yhdistä Shopify-kauppasi, jotta tuotteet ja hinnat synkronoituvat automaattisesti. Kun yhteys on muodostettu, tuotekatalogisi pysyy ajan tasalla ja voit valita tuotteita suoraan uusien kampanjoiden luomisen yhteydessä.",
+    "shopifyConnected": "Shopify yhdistetty",
+    "connectShopify": "Yhdistä Shopify",
+    "searchPlaceholder": "Hae tuotteita...",
+    "productsFound": "tuotetta löytyi",
+    "productFound": "tuote löytyi",
+    "noProductsFound": "Tuotteita ei löytynyt",
+    "noProductsAvailable": "Tuotteita ei ole saatavilla",
+    "shopifyNotConnected": "Shopify ei ole yhdistetty",
+    "noProductsInStore": "Shopify-kaupastasi ei löytynyt tuotteita.",
+    "searchNoResults": "Mikään tuote ei vastaa hakua \"{searchTerm}\". Kokeile muuttaa hakuehtoja.",
+    "connectShopifyStore": "Yhdistä Shopify-kauppa",
+    "failedToLoad": "Tuotteiden lataaminen epäonnistui. Yritä uudelleen.",
+    "somethingWentWrong": "Jotain meni pieleen",
+    "logInHere": "Kirjaudu sisään tästä",
+    "viewProduct": "Näytä",
+    "buyProduct": "Osta"
+  },
+  "HowItWorksSection": {
+    "sectionTitle": "Miten se toimii",
+    "subtitle": "Valitse käyttäjätyyppi ja näe, mitä etuja alustamme tarjoaa sinulle.",
+    "tabs": {
+      "ambassadors": {
+        "label": "Urheilulähettiläs",
+        "heading": "Tienaa suosittelemalla",
+        "tagline": "URHEILIJOLLE & VAIKUTTAJILLE",
+        "steps": {
+          "step1": {
+            "title": "Rekisteröidy & luo profiili",
+            "description": "Tämä vie vain muutaman minuutin. Luo profiili, kerro kuka olet ja avaa pääsy omaan hallintapaneeliin."
+          },
+          "step2": {
+            "title": "Löydä & jaa kampanjoita",
+            "description": "Liity mukaan kampanjoihin, jotka sopivat sinulle. Lisää tuotteita omaan profiiliin ja  linkkaa suosituksia sinun faneille ja seuraajillesi."
+          },
+          "step3": {
+            "title": "Ansaitse & seuraa tuloksia",
+            "description": "Hyödynnä vaikuttavuuttasi ja muuta se tuloiksi. Ansaitse komissioita fanien toiminnasta ja seuraa miten omat kampanjasi suorittavat reaaliaikaisesti."
+          }
+        },
+        "description": "Ansaitse komissioita, kun seuraajasi ostavat linkkiesi kautta. Ei myyntipainetta vaan aitoja suosituksia, joista kaikki hyötyvät.",
+        "cardHeading": "Muuta suositukset rahaksi.",
+        "ctaButton": "Rekisteröidy",
+        "ctaButton2": "Lue lisää",
+        "ctaRoute": "/authentication",
+        "learnMoreRoute": "/athletes-teams",
+        "image": "https://res.cloudinary.com/dz2506ydg/image/upload/v1772103946/sbonssy_feb26_web_1_idkk0k.webp"
+      },
+      "brands": {
+        "label": "Brändi",
+        "heading": "Yhteistöitä ilman riskiä",
+        "tagline": "BRÄNDEILLE",
+        "steps": {
+          "step1": {
+            "title": "Rekisteröidy  & luo kampanja",
+            "description": "Luo tili ja rakenna kampanja muutamassa minuutissa. Yhdistä verkkokauppasi, määritä komissiot ja valitse näkyvyys."
+          },
+          "step2": {
+            "title": "Enemmän mahdollisuuksia",
+            "description": "Anna urheilijoiden, joukkueiden ja vaikuttajien löytää brändisi. Skaalaa näkyvyytesi aktivoimalla useita lähettiläitä samanaikaisesti ja tavoita uutta yleisöä."
+          },
+          "step3": {
+            "title": "Seuraa & optimoi suorityskykyä",
+            "description": "Seuraa klikkauksia, konversioita ja myyntiä reaaliajassa. Hyödynnä dataa kampanjoiden kehittämiseen ja ROI:n maksimoimiseen. Maksat vain silloin, kun tuloksia syntyy."
+          }
+        },
+        "description": "Komissiopohjainen malli tarkoittaa, että sijoitat todellisiin konversioihin, et pelkkiin näyttöihin. Todellisia tuloksia, todellista kasvua.",
+        "cardHeading": "Maksat vain kun kampanjasi toimii.",
+        "ctaButton": "Rekisteröidy",
+        "ctaButton2": "Lue lisää",
+        "ctaRoute": "/authentication",
+        "learnMoreRoute": "/brands",
+        "image": "https://res.cloudinary.com/dz2506ydg/image/upload/v1772103951/sbonssy_feb26_web_9_pigwgu.webp"
+      },
+      "fans": {
+        "label": "Fani",
+        "heading": "Tukeminen tehty helpoksi",
+        "tagline": "FANEILLE",
+        "steps": {
+          "step1": {
+            "title": "Löydä omat suosikkisi",
+            "description": "Selaa urheilijoita, joukkueita ja vaikuttajia. Tutustu heidän profiileihin ja löydä aitoja suosituksia."
+          },
+          "step2": {
+            "title": "Tee ostoksia profiilien kautta",
+            "description": "Löydä mitä tuotteita ja palveluita suosikkisi suosittelee. Klikkaa profiilista brändin verkkokauppaan, osta kuten ennenkin. Samat tuotteet, samat hinnat. "
+          },
+          "step3": {
+            "title": "Tukea ilman lisäkustannuksia",
+            "description": "Aina kun ostat lähettilään linkin kautta, he ansaitsevat komission brändiltä. Sinä saat mitä haluat ja lähettiläs saa palkkion."
+          }
+        },
+        "description": "Löydä, mitä urheilun parissa toimivat suosittelevat, valitse ketä haluat tukea ja osta kuten ennenkin. Nyt sillä on vain suurempi merkitys.",
+        "cardHeading": "Fanit urheilun puolella.",
+        "ctaButton": "Rekisteröidy",
+        "ctaButton2": "Lue lisää",
+        "ctaRoute": "/authentication",
+        "learnMoreRoute": "/fans",
+        "image": "https://res.cloudinary.com/dz2506ydg/image/upload/v1772694618/sbonssy_feb26_11_ttaehv.webp"
+      }
+    }
+  }
+}

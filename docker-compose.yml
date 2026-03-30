@@ -1,0 +1,19 @@
+version: "3"
+services:
+  sbonssy:
+    env_file: staging.env
+    build:
+      context: .
+      args:
+        - ENVFILE
+      dockerfile: Dockerfile
+    container_name: sbonssy
+    image: sbonssy
+    restart: always
+    ports:
+    - "5200:5200"
+    - "5344:5344"
+    volumes:
+    - /var/www/html/sbonssy
+    - /var/www/html/sbonssy/node_modules
+    - /var/logs/error.log:/var/log/sbonssy/error.log

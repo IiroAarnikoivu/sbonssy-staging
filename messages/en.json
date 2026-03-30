@@ -1,0 +1,3629 @@
+{
+  "Home": {
+    "title": "Empower Your Passion for Sports",
+    "description": "The Home of Sports Creator Commerce. Support Sports While Shopping as Usual.",
+    "descriptionLine1": "The Home of Sports Creator Commerce.",
+    "descriptionLine2": "Support Sports While Shopping as Usual.",
+    "heroTitle": "We're Here to Change How Sports Are Supported",
+    "heroPara": "We believe fans deserve an easy way to support athletes, not through donations, but through everyday actions. By turning shopping into impact, we help athletes chase their dreams and fans become part of their journey. No extra cost. Just real support, made simple.",
+    "imageNcontentTitle": "Shop with Purpose: Support the Dreams of Sport Ambassadors",
+    "imageNcontentPara": "Every purchase you make supports more than just you — it fuels the journey of your favorite sport ambassadors. Help them train harder, grow stronger, and keep inspiring fans like you.",
+    "ctaTitle": "Join the Movement Today!",
+    "ctaBtn1": "Sign Up",
+    "ctaBtn2": "Learn More",
+    "carouselHeading": "Discover our Sport Ambassadors",
+    "cardTitle1": "Find Exclusive Offers from Your Favorite Brands",
+    "cardTitle2": "Support Sport Ambassadors Who Inspire You",
+    "cardLabel1": "Discover",
+    "cardLabel2": "Support",
+    "cardPBtn1": "Browse",
+    "cardSBtn1": "Join",
+    "cardDesc1": "Explore exclusive offers and fan-only promotions. Discover the brands your favorite sport ambassadors trust.",
+    "cardPBtn2": "Explore",
+    "cardSBtn2": "Follow",
+    "cardDesc2": "Show love for athletes, coaches, teams, and creators by engaging and shopping through their unique campaigns.",
+    "headingSmarter": "Partners in Impact",
+    "subHeadingSmarter": "Shop offers from leading brands who believe in supporting athletes, just like you do. Every purchase makes an impact, without costing you more.",
+    "headingSupport": "Connect",
+    "subHeadingSupport1": "Elevate the Game.",
+    "subHeadingSupport2": "Discover products and brands, support your favorites, and join a growing fan-powered community.",
+    "colHeadSupport": "Empower",
+    "colSubHeadSupport": "For Fans: Shop With Impact",
+    "colDescSupport": "Find athlete-backed brands and support sports with every purchase, at no extra cost.",
+    "workSupport": "Browse",
+    "exploreBtn": "How it Works",
+    "colHeadBrand": "Follow your favorite and never miss a deal or update",
+    "colSubHeadBrand": "Track favorite athletes, get personalized deals and follow their journey.",
+    "learnMoreBtn": "Create Profile",
+    "explorePartnerShip": "Explore Partnerships",
+    "colHeadSport": "For Partners: Brands & Sport Ambassadors",
+    "colSubHeadSport": "Want to collaborate with us? Learn how brands can reach fans through athletes and how athletes can earn through their influence.",
+    "colFeatures": "Features",
+    "colFeaturesHeading": "Like cashback — but for your favorite athlete.",
+    "colFeaturesSubHeading": "Brands give  typically 10–30% of your purchase to the athlete, team or a creator you choose.",
+    "colResources": "Platform",
+    "colResourcesHeading": "The Fan-Powered Marketplace",
+    "colResourcesSubHeading": "Find what sport-minded people recommend, choose who to support and shop directly from brand stores.",
+    "readMoreBtn": "Shop Now",
+    "testmonialName1": "Webflow",
+    "testmonialQuote1": "This platform has transformed how we connect with our fans and promote our brand. The engagement and support we've received are unparalleled!",
+    "testmonialAuthor1": "Jordan Smith",
+    "testmonialposition1": "Athlete, Team USA",
+    "testmonialName2": "Nike",
+    "testmonialQuote2": "Working with ambassadors has brought us closer to our community. The platform makes it easy to activate campaigns and track real impact.",
+    "testmonialAuthor2": "Emily Clarke",
+    "testmonialposition2": "Marketing Lead, Nike",
+    "testmonialName3": "Adidas",
+    "testmonialQuote3": "From setup to execution, everything is seamless. We've seen tremendous growth in fan engagement since partnering here.",
+    "testmonialAuthor3": "Liam Turner",
+    "testmonialposition3": "Global Sports Ambassador Manager, Adidas",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "explore": "Explore"
+  },
+
+  "Header": {
+    "marketplace": "Marketplace",
+    "features": "Features",
+    "fans": "Fans",
+    "sportsAmbassador": "Sport Ambassadors",
+    "brand": "Brands",
+    "resources": "Resources",
+    "docs": "Docs",
+    "blog": "Blog",
+    "tutorials": "Tutorials",
+    "searchPlaceholder": "Search...",
+    "signUp": "Sign Up",
+    "login": "Login",
+    "logout": "Logout",
+    "myAccount": "My Account",
+    "settings": "Settings",
+    "support": "Support",
+    "language": "Language",
+    "news": "Help Center",
+    "faq": "FAQ"
+  },
+  "ResetPassword": {
+    "heading": "Reset your password",
+    "subHeading": "Enter new password",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm new password",
+    "placeholder": "Re-enter your new password",
+    "update": "Update Password",
+    "updating": "Updating...",
+    "remember": "Remember your password?",
+    "login": "Login"
+  },
+  "Footer": {
+    "quickLinks": "Platform",
+    "marketplace": "Marketplace",
+    "contactUs": "Contact Us",
+    "company": "Company",
+    "resources": "Resources",
+    "news": "Help Center",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "features": "Features",
+    "forFans": "For Fans",
+    "forSportsAmbassadors": "For Sport Ambassadors",
+    "forBrands": "For Brands",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookieSettings": "Cookie Settings",
+    "copyright": "© {year} Sbonssy. All rights reserved."
+  },
+  "Features": {
+    "title": "Explore Our Features",
+    "content": "See how sport ambassadors, fans, and brands come together through campaigns, promotions, and shared value.",
+    "textTitle": "Helping Sport Ambassadors Grow Through Fan and Brand Support",
+    "textDesc": "Let's rethink how sports communities work. Whether you're an athlete, coach, influencer, team, fan, or brand — you all have something to give and gain. Discover how your role fits into a shared platform that empowers everyone.",
+    "imgTitle": "Shop recommendations. Support Your Favorites. ",
+    "imgDesc": "Join a fan-powered platform where you can discover athlete-backed promotions and support the people who move the game forward.",
+    "imgBtn": "How it works",
+    "imgSubHeading": "Fans",
+    "newTitle": "Turn Your Influence into Income",
+    "newSubTitle": "Sport Ambassadors",
+    "newDesc": "Build your brand, share authentic recommendations and get paid for real engagement. We handle the links, tracking and payouts so you can focus on your sport.",
+    "newFeaturesTitle1": "Grow Your Reach",
+    "newFeaturesText1": "Create your own storefront, join campaigns that fit you and connect with fans your way.",
+    "newFeaturesTitle2": "Earn Without Friction",
+    "newFeaturesText2": "Share when it feels right, track performance instantly and receive automatic payouts.",
+    "newBtn1": "Learn more",
+    "newBtn2": "Sign Up",
+    "brandTitle": "Drive Real Results for Your Brand",
+    "brandSubTitle": "Brands",
+    "brandDesc": "Run performance-based campaigns with sport ambassadors and pay only when it works. Launch scalable partnerships with trusted athletes and track every click, conversion, and sale in real time.",
+    "brandFeaturesT1": "Activate multiple ambassadors at once.Reach sport-minded audiences through authentic voices fans already trust.",
+    "brandFeaturesT2": "Increase conversions with ambassador-led campaigns backed by real performance data.",
+    "brandFeaturesL1": "Expand Reach",
+    "brandFeaturesL2": "Boost Sales",
+    "brandBtnL1": "Read More",
+    "brandBtnL2": "Sign Up"
+  },
+
+  "Fans": {
+    "fanTitle": "Be More Than a Fan. Make an Impact.",
+    "fanDesc": "Shop recommendations and help your favorite sport ambassadors grow and succeed.",
+    "fanBtn1": "Discover",
+    "fanBtn2": "Sign Up",
+    "subTitle": "For Fans",
+    "fanSubHeading": "For Fans",
+    "airTitle": "Get Closer to the Game. Shop With Purpose",
+    "airDesc": "Explore the athletes, coaches, teams and creators who inspire you and see the products they genuinely use and recommend. You’ll still complete your purchase directly on the brand’s website, but shopping through an ambassador’s link sends support their way, typically 10–30% of your purchase. Supporting has never been easier. It’s a fresh, modern way to help fund the world of sport while discovering gear with real-world credibility.",
+    "airFeaturesT1": "Sport ambassadors  joined our platform and counting!",
+    "airFeaturesT2": "Brand’s supporting sports",
+    "checkboxHeading": "Discover",
+    "checkboxSubHeading": "How Our Marketplace works",
+    "checkboxBtn1": "Browse",
+    "checkboxBtn2": "Sign Up",
+    "checkboxTitle1": "Discover Ambassadors",
+    "checkboxDesc1": "Step into our vibrant marketplace and browse ambassador profiles to find inspiring athletes and creators who share products and brands they genuinely love.",
+    "checkboxTitle2": "Explore Curated Storefronts",
+    "checkboxDesc2": "Each ambassador curates their own storefront. Explore their favorite products, exclusive recommendations and latest finds.",
+    "checkboxTitle3": "Shop Your Favorites",
+    "checkboxDesc3": "Click any featured product to head directly to the brand’s website and complete your purchase.",
+    "checkboxTitle4": "Support Ambassadors",
+    "checkboxDesc4": "When you shop through an ambassador’s storefront, your purchase helps reward the ambassador you discovered it from.",
+    "dealTitle": "Storefronts and Brands are live!",
+    "dealDesc": "Explore limited-time offers from your favorite sport ambassadors. Every deal helps them grow — and gives you something great in return.",
+    "dealFeaturedL1": "Latest Brands",
+    "dealFeaturedT1": "Discover what’s new, these brands have been just added.",
+    "dealFeaturedBtn1": "Shop Latest",
+    "dealFeaturedL2": "Recent Ambassadors",
+    "dealFeaturedT2": "Check out who joined just now to our platform.",
+    "dealFeaturedBtn2": "New Ambassadors",
+    "reviewContent": "This platform has transformed how I connect with my favorite athletes and discover amazing promotions! I never miss out on opportunities to support them and save on gear.",
+    "reviewAuthor": "Alex Johnson",
+    "reviewPosition": "Fan, Sports Enthusiast",
+    "ctaTitle": "Join the Excitement Today!",
+    "ctaBtn1": "Explore",
+    "ctaBtn2": "Sign Up",
+    "ctaPara": "Discover exclusive promotions and support your favorite athletes and teams like never before.",
+    "cardTitle1": "Brand’s Who Support the Game",
+    "cardLabel1": "Discover",
+    "cardPBtn1": "Discover",
+    "cardSBtn1": "Join",
+    "cardDesc1": "Explore brands that believe in sports and well-being.",
+    "cardLabel2": "Support",
+    "cardTitle2": "Empower Ambassadors with Your Support",
+    "cardPBtn2": "Explore",
+    "cardSBtn2": "Sign Up",
+    "cardDesc2": "Engage with your favorites and help them thrive.",
+    "galleryHeading": "Meet the Sport Ambassadors You Can Support",
+    "galleryDesc": "Browse ambassador profiles and see who's behind the promotions. Follow your favorites and support their journey."
+  },
+
+  "AthleteTeam": {
+    "hero": {
+      "title": "The Future of Sports Partnerships",
+      "content": "Smarter, performance-based collaborations that let you earn more with less friction."
+    },
+
+    "checkData": {
+      "one": {
+        "title": "Sign Up & Create Profile",
+        "desc": "Follow our step-by-step onboarding and create a stunning profile."
+      },
+      "two": {
+        "title": "Discover Campaigns",
+        "desc": "Explore campaigns and products tailored for you by your favorite brands. Find the necessary assets and start promoting to earn."
+      },
+      "three": {
+        "title": "Engage Fans",
+        "desc": "Leverage your influence by connecting directly with your fans through exciting campaigns. Recommend products and drive traffic to your personal storefront."
+      },
+      "four": {
+        "title": "Boost Revenue",
+        "desc": "Increase your earnings by promoting campaigns that resonate with your audience's interests."
+      },
+      "five": {
+        "title": "Track Success",
+        "desc": "Monitor your performance and optimize your strategies for maximum impact and profitability."
+      }
+    },
+    "imageData": {
+      "title": "Focus on Your Sport. We’ll Handle the Rest.",
+      "content": "Skip the endless outreach, negotiation, and admin work. We match you with the right brands, automate payouts, and simplify every step so you can spend more time training, competing and doing what you love."
+    },
+    "ctData": {
+      "title": "Join Our Community of Champions",
+      "para": "Sign up today to to grow your audience, activate your fanbase, and monetize your brand — all in one platform built for sport ambassadors.",
+      "btn1": "Sign Up",
+      "btn2": "Learn More"
+    },
+    "testimonials": {
+      "one": {
+        "quote": "This platform has transformed how I connect with my favorite athletes and discover amazing promotions! I never miss out on opportunities to support them and save on gear.",
+        "name": "Alex Johnson",
+        "position": "Fan, Sports Enthusiast"
+      },
+      "two": {
+        "quote": "This platform has transformed how I connect with my favorite athletes and discover amazing promotions! I never miss out on opportunities to support them and save on gear.",
+        "name": "Jamie Lee",
+        "position": "Community Member"
+      },
+      "heading": "Customer testimonials",
+      "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "smallCard": {
+      "unlockData": {
+        "title": "Modern Collaborations for Modern Athletes",
+        "para": "Are you an athlete, influencer, coach or a team? Join to share your recommendations and get paid for real engagement.",
+        "subtitle": "For Sports Ambassadors"
+      },
+      "cardData": {
+        "one": {
+          "title": "Grow and Activate Your Fanbase",
+          "para": "Create your own storefront, join multiple campaigns and promote only when you want to."
+        },
+        "two": {
+          "title": "Effortless Partnerships Management",
+          "para": "Everything is automated from links to payouts so you spend less time managing deals."
+        },
+        "three": {
+          "title": "Turn Your Influence into Income",
+          "para": "Share when it feels right, track results instantly and get paid automatically."
+        }
+      },
+      "btn1": "Get Started",
+      "btn2": "Learn More"
+    },
+    "carouselSection": {
+      "heading": "Our Sport Ambassadors",
+      "para": "Real people. Real stories. Explore the community driving change in sports."
+    },
+    "accordinData": {
+      "one": {
+        "title": "How do I sign up?",
+        "content": "Signing up is easy! Simply visit our registration page, fill out the required information, and submit your application. You'll receive a confirmation email once your account is activated."
+      },
+      "two": {
+        "title": "Can I promote campaigns?",
+        "content": "Absolutely! Once you are registered, you can browse available campaigns and choose the ones you want to promote. Share them with your followers to maximize your impact."
+      },
+      "three": {
+        "title": "What are affiliate campaigns?",
+        "content": "Affiliate campaigns are marketing initiatives where brands partner with ambassadors to promote their products. Ambassadors earn commissions for driving sales through their promotions. It's a win-win for everyone involved!"
+      },
+      "four": {
+        "title": "How do I get paid?",
+        "content": "Payments are processed through our platform on a monthly basis. Once you reach the minimum payout threshold, your earnings will be transferred to your designated payment method. Ensure your payment details are up to date!"
+      },
+      "five": {
+        "title": "Who can join?",
+        "content": "Anyone who is elevating the world of sports can join our platform! Whether you're an athlete, team, club, sport influencer, or a coach looking to monetize your influence, we welcome you to sign up and start connecting with your fans."
+      },
+      "six": {
+        "title": "How to share selected campaigns?",
+        "content": "You can share campaigns directly with your audience using their unique links or promotional tools. Alternatively, you can share your profile, where all your selected campaigns are easily accessible in one place."
+      },
+      "para": "Get answers to the most frequently asked questions about your role as a sports ambassador.",
+      "heading": "Still have questions?",
+      "subHeading": "We're here to help!",
+      "btn": "Contact"
+    },
+    "sideData": {
+      "connect": "Connect",
+      "how": "How it works",
+      "btn1": "Learn More",
+      "btn2": "Sign Up"
+    }
+  },
+  "Brands": {
+    "trustByHeading": "Trusted by top brands and industry leaders",
+    "heroData": {
+      "title": "Drive more sales. Pay only when it works.",
+      "subTitle": "For Brands",
+      "button": "Sign up",
+      "button2": "Explore Ambassadors",
+      "content": "Drive Real Results Through Sport Ambassadors"
+    },
+    "sideData": {
+      "connect": "Connect",
+      "how": "How it works",
+      "btn1": "Learn More",
+      "btn2": "Sign Up"
+    },
+    "checkData": {
+      "one": {
+        "title": "Easy Setup",
+        "desc": "Quickly create campaigns that resonate with your target audience and drive engagement."
+      },
+      "two": {
+        "title": "Build Partnerships",
+        "desc": "Collaborate with multiple sport ambassadors to extend your brand's presence and influence across diverse fan bases."
+      },
+      "three": {
+        "title": "Ambassadors Engage Fans",
+        "desc": "Leverage the authentic connection between sports ambassadors and their fans to boost loyalty and excitement around your brand."
+      },
+      "four": {
+        "title": "Track Performance",
+        "desc": "Monitor your campaigns in real-time to optimize performance and maximize ROI."
+      }
+    },
+    "measureData": {
+      "subtitle": "Insights",
+      "title": "Measure What Matters. Improve What Works.",
+      "content": "Get real-time insights into your campaigns track engagement, conversions and audience behavior to make smarter marketing decisions.",
+      "button1": "View Analytics",
+      "button2": "Features"
+    },
+    "faqData": {
+      "one": {
+        "title": "How does it work?",
+        "desc": "Our platform connects brands with athletes and teams to create affiliate marketing campaigns. Brands publish promotions, which athletes can share with their fans. This creates a win-win situation for everyone involved."
+      },
+      "two": {
+        "title": "Who can join?",
+        "desc": "Any brand looking to promote their products or services can join our platform. Additionally, athletes and teams can sign up to promote these campaigns. It's an inclusive space for all sports enthusiasts."
+      },
+      "three": {
+        "title": "What are the fees?",
+        "desc": "There are no upfront fees – you only pay based on the results achieved. Brands set the commission structure for their campaigns, and our platform applies a fixed commission rate based on your chosen fee structure. For more information on pricing, please contact our support team."
+      },
+      "four": {
+        "title": "How to promote campaigns?",
+        "desc": "Athletes can promote campaigns through their social media channels and on our platform. We provide tools and resources to help them effectively share promotions. Engaging content leads to better results."
+      },
+      "five": {
+        "title": "Can I track results?",
+        "desc": "Yes, our platform offers analytics tools to track the performance of your campaigns. Brands can see engagement metrics and conversion rates. This data helps optimize future promotions for better success."
+      },
+      "six": {
+        "title": "Can I connect my Shopify webshop?",
+        "desc": "Absolutely! Connect your Shopify store in just a few clicks with our seamless Shopify app integration. Once linked, your products will be ready to share and support ambassadors. Sign up, then head to your account dashboard under ‘My Campaigns’ for step-by-step instructions."
+      },
+      "heading": "FAQs",
+      "para": "Find answers to common questions about our platform and how it benefits brands.",
+      "btn": "Contact"
+    },
+    "smartCampaignData": {
+      "one": {
+        "title": "Manage Ambassador Communication in One Place",
+        "desc": "Handle requests, product gifting, and communication with ambassadors through built-in messaging.",
+        "label": "Learn More"
+      },
+      "two": {
+        "title": "Maximize Your Brand's Visibility Across a Diverse Audience",
+        "desc": "Use our platform to launch scalable promotions and build authentic engagement.",
+        "label": "Sign Up"
+      },
+      "three": {
+        "title": "Automate Ambassador Payments Without Manual Work",
+        "desc": "Automated payments make it easy to handle multiple collaborations simultaneously.",
+        "label": "Get Started"
+      },
+      "heading": "Smart Campaign Tools for Success"
+    },
+    "singleReviewData": {
+      "content": "Working with sbonssy has transformed our marketing strategy, allowing us to reach our target audience like never before.",
+      "author": "Alex Johnson",
+      "position": "Marketing Director, XYZ Corp"
+    },
+    "ctaData": {
+      "title": "Join Our Community of Champions",
+      "para": "Sign up today to amplify your brand and connect with passionate fans like never before!",
+      "btn1": "Learn More",
+      "btn2": "Sign Up"
+    },
+    "smallCardData": {
+      "one": {
+        "title": "Launch Campaigns in Minutes",
+        "para": "Easily set up your campaign in just a few clicks."
+      },
+      "two": {
+        "title": "Drive more customers to your website",
+        "para": "Sport ambassadors share links that direct traffic straight to your site."
+      },
+      "three": {
+        "title": "Build Trust Through Real Ambassadors",
+        "para": "Partner with athletes to enhance your brand visibility."
+      },
+      "btn1": "Get Started",
+      "btn2": "Book a Demo",
+      "para": "  Run smarter, scalable campaigns with sport ambassadors. Activate multiple voices at once for greater reach, deeper engagement and measurable impact.",
+      "heading": "Scale Up Your Sport Partnerships",
+      "subHeading": "Engage"
+    }
+  },
+
+  "Blog": {
+    "fallback": "No blogs found.",
+    "newsletterData": {
+      "heading": "Stay Updated with Our Newsletter",
+      "description": "Subscribe to receive the latest blog updates, promotions, and news from your favorite athletes.",
+      "placeholder": "Enter your email",
+      "btnTxt": "Subscribe",
+      "disclaimer": "By subscribing, you agree to our ",
+      "text": " and consent to receive updates."
+    },
+    "tabMenu": {
+      "one": "View all",
+      "two": "Marketing Tips",
+      "three": "Sport Ambassadors",
+      "four": "Brand Strategies",
+      "five": "Success Stories"
+    },
+    "blogOrangeData": {
+      "one": {
+        "tag": "Insights",
+        "title": "Maximizing Your Brand's Reach",
+        "desc": "Learn how to effectively engage with your audience through sports marketing.",
+        "author": "Jane Smith",
+        "date": "12 Feb 2022",
+        "readTime": "6 min read"
+      },
+      "two": {
+        "tag": "Trends",
+        "title": "Engaging Fans Through Digital Platforms",
+        "desc": "Explore innovative ways to connect with fans online.",
+        "author": "Mike Johnson",
+        "date": "15 Mar 2022",
+        "readTime": "4 min read"
+      },
+      "three": {
+        "tag": "Strategies",
+        "title": "Building Lasting Partnerships in Sports",
+        "desc": "Learn how to foster strong relationships with athletes and brands.",
+        "author": "Emily Davis",
+        "date": "20 Apr 2022",
+        "readTime": "7 min read"
+      }
+    },
+    "header": {
+      "heading": "Blog",
+      "subHeading": "Explore Our Latest Insights",
+      "para": "Stay updated with our tips and the latest trends in sports marketing."
+    },
+    "body": {
+      "heading": "Features",
+      "subHeading": "The Future of Sports Sponsorship",
+      "para": "Discover how sponsorships are evolving in the digital age."
+    },
+    "data": {
+      "name": "John Doe",
+      "date": "11 Jan 2022",
+      "readTime": "5 min read"
+    },
+    "terms": "Privacy Policy"
+  },
+
+  "Company": {
+    "testimonialsData": {
+      "one": {
+        "name": "Alex Johnson",
+        "role": "CEO, Sports Inc.",
+        "text": "Sbonssy has revolutionized athlete-brand partnerships!"
+      },
+      "two": {
+        "name": "Jamie Lee",
+        "role": "Marketing Director, Brand Co.",
+        "text": "A game-changer for sports marketing strategies!"
+      },
+      "three": {
+        "name": "Chris Smith",
+        "role": "Founder, Fan Hub",
+        "text": "The best way to engage with our audience!"
+      },
+      "heading": "Customer Testimonials",
+      "para": "  This platform transformed how we connect with fans."
+    },
+    "ctaData": {
+      "title": "Join Our Community of Champions",
+      "para": "Sign up today to amplify your brand and connect with passionate fans like never before!",
+      "btn1": "Sign Up",
+      "btn2": "Learn More"
+    },
+    "contentSection": {
+      "heroHeading": "Elevating sports",
+      "heroPara": "Uniting fans, athletes and brands through innovative promotions and affiliate marketing opportunities.",
+      "heading": "Connecting Fans, Brands and Sport Ambassadors Seamlessly",
+      "subHeading": "Empower",
+      "para": "At sbonssy, we believe in the power of connection. Our mission is to create a vibrant platform where fans can easily discover promotions while supporting their favorite ambassadors.",
+      "btn1": "Learn More",
+      "btn2": "Sign Up"
+    },
+    "teamCarousel": {
+      "team": {
+        "desc1": "Driving innovation and connecting fans with their favorite athletes.",
+        "desc2": "Crafting operational strategies that resonate with fans and brands alike.",
+        "one": {
+          "name": "Alex Johnson",
+          "role": "CEO",
+          "description": "Driving innovation and connecting fans with their favorite athletes."
+        },
+        "two": {
+          "name": "Maria Smith",
+          "role": "COO",
+          "description": "Leading technology development to enhance user experience on our platform."
+        },
+        "three": {
+          "name": "James Brown",
+          "role": "CMO",
+          "description": "Crafting marketing strategies that resonate with fans and brands alike."
+        },
+        "four": {
+          "name": "Alex Johnson",
+          "role": "CEO",
+          "description": "Driving innovation and connecting fans with their favorite athletes."
+        },
+        "five": {
+          "name": "Maria Smith",
+          "role": "CTO",
+          "description": "Leading technology development to enhance user experience on our platform."
+        },
+        "six": {
+          "name": "James Brown",
+          "role": "CMO",
+          "description": "Crafting marketing strategies that resonate with fans and brands alike."
+        },
+        "seven": {
+          "name": "Alex Johnson",
+          "role": "CEO",
+          "description": "Driving innovation and connecting fans with their favorite athletes."
+        },
+        "eight": {
+          "name": "Maria Smith",
+          "role": "CTO",
+          "description": "Leading technology development to enhance user experience on our platform."
+        },
+        "nine": {
+          "name": "James Brown",
+          "role": "CMO",
+          "description": "Crafting marketing strategies that resonate with fans and brands alike."
+        }
+      }
+    },
+    "header": {
+      "subHeading": "Team",
+      "heading": "Success is built on collaboration",
+      "para": "At sbonssy, we believe in the power of connection. Our mission is to create a vibrant platform where fans can easily discover promotions while supporting their favorite ambassadors."
+    },
+    "teamSection": {
+      "heading": "Team sbonssy",
+      "description": "We're a passionate group dedicated to connecting fans, athletes, and brands. Our mission is to make every shopping experience meaningful and impactful."
+    },
+    "footer": {
+      "heading": "We're hiring!",
+      "para": " Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "button": "Open Position"
+    },
+
+    "trustBy": "Trusted by top brands and organizations worldwide",
+    "contactDetails": {
+      "one": {
+        "title": "Email",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+        "value": "hello@relume.io"
+      },
+      "two": {
+        "title": "Phone",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+        "value": "+1 (555) 000-0000"
+      },
+      "three": {
+        "title": "Office",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+        "value": "123 Sample St, Sydney NSW 2000 AU"
+      }
+    },
+    "formData": {
+      "header": {
+        "subHeading": "Connect",
+        "heading": " Get In Touch",
+        "para": " We'd love to hear from you!"
+      },
+      "formContent": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "phnNumber": "Phone Number",
+        "topic": "Select Topic",
+        "role": "Your Role",
+        "msg": "Message",
+        "agreeMsg": "By submitting, you agree to our ",
+        "policy": "Privacy Policy",
+        "btn": "Submit",
+        "placeholderMsg": "Write your message..",
+        "placeholderDropDown": "Choose something"
+      },
+      "options": {
+        "one": "Option One",
+        "two": "Option Two",
+        "three": "Option Three"
+      },
+      "role": {
+        "one": "Sport Ambassador",
+        "two": "Fan",
+        "three": "Other Inquiry",
+        "four": "Brand Partner",
+        "five": "Media Inquiry",
+        "six": "Other"
+      }
+    }
+  },
+  "BusinessType": {
+    "title": "Choose how you receive commissions",
+    "subtitle": "Select the business type that best describes how you want to receive payments.",
+    "individual": {
+      "title": "Individual (sole trader included)",
+      "description": "I'm receiving payments to my personal account or as a sole trader."
+    },
+    "company": {
+      "title": "Company / Non-profit",
+      "description": "I'm receiving payments to a registered company or organization."
+    },
+    "selected": "You selected: {type}",
+    "continue": "Continue"
+  },
+  "Faqs": {
+    "frequentData": {
+      "title": "Frequently Asked Questions",
+      "para": "Welcome to our FAQ page! Here, you'll find answers to common questions about our platform, helping you navigate your experience with ease."
+    },
+    "faqData": {
+      "one": {
+        "question": "What is this platform all about?",
+        "answer": "This is where sports meets shopping. Athletes and creators recommend products they trust and you can shop directly through their links to support them. It's a new way to discover products and back the athletes you love."
+      },
+      "two": {
+        "question": "Do I need an account to use the platform?",
+        "answer": "No account is required to shop. But if you want to follow athletes, save your favorite products and get campaign updates, creating a free account enhances your experience."
+      },
+      "three": {
+        "question": "How do athletes earn money here?",
+        "answer": "When you shop through an ambassador's link, they earn a commission at no extra cost to you. It's like giving back for their content, passion and recommendations."
+      },
+      "four": {
+        "question": "Is it more expensive to shop through the platform?",
+        "answer": "Not at all. You'll always pay the same price as you would on the brand's website. The difference? Your favorite athlete earns when you buy through their link."
+      },
+      "five": {
+        "question": "What is affiliate marketing?",
+        "answer": "Affiliate marketing is a performance-based marketing strategy where brands reward affiliates for promoting their product, services or brand itself. In our case, ambassadors promote campaigns and earn commissions on sales generated through their efforts. It's a win-win for everyone involved!"
+      }
+    },
+    "faqDataSports": {
+      "one": {
+        "question": "How do I sign up?",
+        "answer": "Signing up is easy! To get started, simply register using your email address. Then, complete the onboarding steps to tell us about yourself and fill in the required profile details. Once your profile is complete, you'll gain access to your personal dashboard and can start exploring campaigns right away."
+      },
+      "two": {
+        "question": "How do I earn money as an ambassador?",
+        "answer": "You earn a commission whenever someone shops through your unique campaign link or even just clicks it. The more engagement you generate, the more you can earn. Each campaign description includes details on the commission rates offered by the brand."
+      },
+      "three": {
+        "question": "What are affiliate campaigns?",
+        "answer": "Affiliate campaigns are marketing partnerships where brands collaborate with ambassadors to promote their products or drive traffic to specific pages. Depending on the campaign, ambassadors can earn commissions either from sales generated through their unique links or simply from clicks. It’s a mutually beneficial way to grow visibility and results together."
+      },
+      "four": {
+        "question": "How do I get paid?",
+        "answer": "Payments are processed through our platform on a monthly basis. Once you reach the minimum payout threshold, your earnings will be transferred to your personal Stripe account. From there, Stripe will automatically send the funds to your linked bank account. This transfer usually takes a few business days."
+      },
+      "five": {
+        "question": "Who can join?",
+        "answer": "Anyone who is elevating the world of sports can join our platform! Whether you're an athlete, team, club, sport influencer or a coach looking to monetize your influence, we welcome you to sign up and start connecting with your fans."
+      },
+      "six": {
+        "question": "How to share selected campaigns?",
+        "answer": "You can share individual links or use your ambassador storefront, a sharable profile with all your campaigns in one place. "
+      },
+      "faq": "FAQs",
+      "para": "Get answers to the most frequently asked questions about your role as a sports ambassador."
+    },
+    "faqDataBrand": {
+      "one": {
+        "question": "How does it work?",
+        "answer": "Our platform brings brands together with athletes and teams to build powerful affiliate marketing campaigns. Set your commissions, launch campaigns, and let sports ambassadors promote your products using tracked links supported by complete performance analytics."
+      },
+      "two": {
+        "question": "Who can join?",
+        "answer": "Any brand looking to reach sport-minded audiences through authentic creator partnerships. It's a great fit for lifestyle, gear, wellness and more."
+      },
+      "three": {
+        "question": "What are the fees?",
+        "answer": "There are no upfront fees. You only pay when your campaign delivers results. Our pricing includes a transparent service fee and standard Stripe payment costs, no surprises. Our platform is completely free for Sport Ambassadors and Fans. For more information on pricing, visit our Help Center."
+      },
+      "four": {
+        "question": "Can I control which ambassadors promote my brand?",
+        "answer": "Yes! Choose from public, apply-to-join, or invite-only campaign modes based on your control preferences."
+      },
+      "five": {
+        "question": "How can I track campaign results?",
+        "answer": "Your dashboard provides real-time insights into traffic, conversions, and performance helping you optimize campaigns you either are running or attending. This data helps optimize future promotions for better success."
+      },
+      "six": {
+        "question": "Can I connect my Shopify webshop?",
+        "answer": "Absolutely! Connect your Shopify store in just a few clicks through our seamless Shopify app integration. Once connected, your products will be ready to share with ambassadors. Simply sign up and visit your account dashboard to connect with."
+      },
+      "faq": "FAQs",
+      "para": "Find answers to common questions about our platform and how it benefits brands."
+    },
+    "faqDataFan": {
+      "one": {
+        "question": "What is this platform?",
+        "answer": "Sbonssy is a platform designed to promote an active lifestyle and create opportunities for success in sports, from the grassroots level all the way to international stars. On our platform, you’ll find products and brands recommended by your favorite athletes. By purchasing through us, you support the athlete of your choice—at no extra cost to you!"
+      },
+      "two": {
+        "question": "Do I need an account to shop?",
+        "answer": "Nope! But creating a free fan account lets you follow ambassadors, save favorites and get notified about new campaigns."
+      },
+      "three": {
+        "question": "How do I support an ambassador?",
+        "answer": "Every time you shop through an ambassador’s unique link, they earn a commission from the brand — no extra cost to you. It’s an easy way to turn your normal shopping into real support for athletes. Head to an athlete’s profile, browse their favorite picks, and shop through their recommendations. With Sbonssy, your everyday purchases can help ambassadors chase their dreams and succeed."
+      },
+      "four": {
+        "question": "Is it more expensive to shop through an ambassador?",
+        "answer": "Not at all. Prices are exactly the same as on the brand’s website. The difference is that when you shop through an ambassador’s link, the brand rewards them with a commission allowing you to support athletes at no extra cost to you."
+      },
+      "five": {
+        "question": "Does my purchase really make a difference?",
+        "answer": "Absolutely! Even small actions can make a real difference. Every purchase made through an ambassador’s link helps them earn directly from the brand. That income can go toward training, travel, gear, or simply keeping their dream alive. You’re not just buying something — you’re choosing to stand behind someone."
+      },
+      "six": {
+        "question": "What if I have an issue with my order?",
+        "answer": "Orders are completed on the brand’s website. For returns or any issues, please contact the brand directly using the details in your order confirmation email."
+      },
+      "faq": "FAQs",
+      "para": "Get answers to the most common questions about being a Fan on our platform."
+    },
+    "header": {
+      "heading": "FAQs",
+      "para": "Find answers to common questions about our platform for fans, brands, and athletes."
+    },
+    "body": {
+      "heading": "Still have questions?",
+      "para": "We're here to help!",
+      "btn": "Contact"
+    },
+    "footer": {
+      "heading": "Need More Help? Contact Us",
+      "para": "Our support team is here to assist you with any questions you may have.",
+      "btn1": "Contact",
+      "btn2": "Support"
+    }
+  },
+  "Resources": {
+    "heroData": {
+      "title": "Explore Our Resources",
+      "content": "Discover valuable insights, FAQs, and updates to enhance your experience with our platform."
+    },
+
+    "headingContentData": {
+      "subTitle": "Blog",
+      "title": "Latest Insights and Tips",
+      "para": "Explore our recent blog posts below.",
+      "btn": "View All"
+    },
+    "blogData": {
+      "one": {
+        "tag": "Sports",
+        "title": "Maximize Your Game Day Experience",
+        "description": "Discover how to enhance your game day with these tips.",
+        "author": "John Doe",
+        "date": "11 Jan 2022",
+        "readTime": "5 min read"
+      },
+      "two": {
+        "tag": "Marketing",
+        "title": "Building Stronger Brand Partnerships",
+        "description": "Learn how to create impactful partnerships in sports marketing.",
+        "author": "Jane Smith",
+        "date": "10 Feb 2022",
+        "readTime": "7 min read"
+      },
+      "three": {
+        "tag": "Insights",
+        "title": "The Future of Sports Sponsorship",
+        "description": "Explore emerging trends in sports sponsorship and marketing.",
+        "author": "Alex Johnson",
+        "date": "15 Mar 2022",
+        "readTime": "6 min read"
+      }
+    },
+    "companyNewHeadingData": {
+      "subTitle": "News",
+      "title": "Explore Our Guides and Tutorials",
+      "para": "Dive into practical how-tos, feature walkthroughs, and tips to get the most out of your experience."
+    },
+    "faqData": {
+      "one": {
+        "title": "What is sbonssy?",
+        "content": "sbonssy is a platform that connects fans with their favorite sports ambassadors through promotions. It allows brands to create affiliate marketing campaigns that ambassadors can promote. Fans can discover these promotions and support their favorites."
+      },
+      "two": {
+        "title": "How do I participate?",
+        "content": "To participate, simply access the marketplace on our platform. You can explore various promotions and support your chosen ambassadors. Follow the instructions provided to engage with campaigns."
+      },
+      "three": {
+        "title": "Are there any fees?",
+        "content": "There are no fees for fans to access promotions on sbonssy. Brands may have their own pricing structures for campaigns that sports ambassadors promote. Always check the details of each promotion for any specific terms."
+      },
+      "four": {
+        "title": "Can I suggest promotions?",
+        "content": "Yes, we welcome suggestions for promotions! If you have an idea, please reach out to our team. We love hearing from our community and exploring new opportunities."
+      },
+      "five": {
+        "title": "How do I contact?",
+        "content": "You can contact us through the 'Contact' section on our website. We aim to respond to all inquiries promptly. Your feedback and questions are important to us!"
+      },
+      "para": "Find answers to your questions about our platform and how it works."
+    },
+    "newsletterData": {
+      "heading": "Stay Updated with Our Newsletter",
+      "description": "Subscribe to receive the latest blog updates, promotions, and news from your favorite athletes.",
+      "placeholder": "Enter your email",
+      "buttonText": "Subscribe",
+      "disclaimer": "By subscribing, you agree to our ",
+      "text": " and consent to receive updates."
+    },
+    "roles": {
+      "one": "Fans",
+      "two": "Brands",
+      "three": "Ambassadors"
+    },
+    "fallback": "No blogs found."
+  },
+  "Help": {
+    "heading": "Help Center & How-To Guides",
+    "para": " Welcome to the Help Center! Whether you're just getting started or looking to master advanced features, you'll find step-by-step guides, FAQs, and resources to support you every step of the way."
+  },
+  "SupportSportsSection": {
+    "title": "The Home of Sports Creator Commerce",
+    "subtitle": "Support Sports While Shopping as Usual",
+    "steps": {
+      "discover": {
+        "title": "Discover",
+        "description": "Find athlete recommendations and ambassador backed top brands, all in one place."
+      },
+      "choose": {
+        "title": "Select",
+        "description": "Start by visiting a profile and exploring their picks. When you click a product from their page, your support is automatically credited to them."
+      },
+      "shop": {
+        "title": "Shop",
+        "description": "You’ll be redirected to the brand’s site. The brand pays a commission, you’ll get the products and support your favorite, without paying extra!"
+      }
+    }
+  },
+  "MarketPlace": {
+    "heading": "Marketplace",
+    "headings": {
+      "one": "Discover Ambassadors ",
+      "two": "Explore Brands"
+    },
+    "filters": "Filters",
+    "keyword": "Keyword",
+    "seeProfile": "See profile >",
+    "clear": "clear",
+    "allClear": "Clear All",
+    "showResults": "Show Results",
+    "placeholder": "Select categories…",
+    "campaignFilters": {
+      "one": "Campaign Type",
+      "two": "Brand Name",
+      "three": "Category",
+      "four": "gender",
+      "OfferTypes": {
+        "all": "All",
+        "product": "Product",
+        "service": "Service"
+      },
+      "category": {
+        "Apparel": "Apparel",
+        "Technology": "Technology",
+        "Nutrition": "Nutrition",
+        "Wellness": "Wellness",
+        "Footwear": "Footwear",
+        "Services": "Services",
+        "Media-Content": "Media & Content",
+        "Outdoor-Adventure-Gear": "Outdoor & Adventure Gear",
+        "Events-Experiences": "Events & Experiences",
+        "Accessories-Equipment": "Accessories & Equipment",
+        "Other": "Other"
+      }
+    },
+    "sportsFilters": {
+      "search": "Search",
+      "one": "Role Type",
+      "two": "Season",
+      "three": "Location",
+      "sportsplaceholder": "Select sports...",
+      "four": "Level",
+      "five": "Gender",
+      "sports": "Sport",
+      "roleTypes": {
+        "All-Roles": "All Roles",
+        "Influencer": "Influencer",
+        "Coach": "Coach",
+        "Athlete": "Athlete",
+        "Para-Athlete": "Para Athlete",
+        "Ex-Athlete": "Ex Athlete",
+        "Team": "Team"
+      },
+      "level": {
+        "All-level": "All Levels",
+        "Olympic": "Olympic",
+        "Professional": "Professional",
+        "Semi-Pro": "Semi-Pro",
+        "Amateur": "Amateur",
+        "Junior": "Junior"
+      },
+      "seasons": {
+        "All-Seasons": "All Seasons",
+        "Summer-Sports": "Summer Sports",
+        "Winter-Sports": "Winter Sports"
+      },
+      "gender": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+      }
+    },
+    "campaigns": {
+      "heading": "Ambassadors joined to this campaign",
+      "fallbackText": "No ambassadors available for this campaign",
+      "searchPlaceholder": "Search ambassadors...",
+      "select": "Select Ambassador who will get rewarded from your purchase",
+      "noResults": "No ambassadors found matching your search",
+      "close": "Close",
+      "Select-Ambassador": "Select Ambassador",
+      "View": "View",
+      "sort": {
+        "heading": "Sort by",
+        "latest": "Latest",
+        "oldest": "Oldest",
+        "nameAZ": "Name (A-Z)",
+        "nameZA": "Name (Z-A)"
+      },
+      "no": "No",
+      "found": "campaigns found",
+
+      "text1": "Try selecting a different campaign type",
+      "text2": "Try adjusting your filters or check back later.",
+      "remove": "Remove"
+    },
+    "sports": {
+      "influencer": "Influencer",
+      "sort": {
+        "heading": "Sort by",
+        "latest": "Latest",
+        "oldest": "Oldest",
+        "nameAsc": "Name (A-Z)",
+        "nameDesc": "Name (Z-A)"
+      },
+      "fallbackText": "No sports ambassadors found matching your criteria.",
+      "text": "Try adjusting your filters or check back later.",
+      "view": "View",
+      "fallback": {
+        "text1": "Unknown Ambassador",
+        "text2": "Unknown Sport",
+        "text3": "No goals specified"
+      }
+    }
+  },
+  "Sidebar": {
+    "home": "Home",
+    "saved": "Saved",
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "my-Campaigns": "My Campaigns",
+    "my-Products": "My Products",
+    "payments": "Payments",
+    "my-Ambassadors": " My Ambassadors",
+    "profile": "Profile",
+    "inbox": "Inbox",
+    "help-center": "Help center",
+    "settings": "Settings",
+    "collaboration-request": "Collaboration Request",
+    "my-team": "My Team",
+    "earnings": "Earnings",
+    "campaigns": "Campaigns"
+  },
+  "Sports": {
+    "allCampaigns": {
+      "heading": "Campaigns",
+      "para": "Discover brands and deals you love. Start earning today!",
+      "fallbackText": "No campaigns available.",
+      "all-campaigns": "All Campaigns",
+      "public": "Public",
+      "apply": "Apply",
+      "placeholder": "Search by brand",
+      "sort-by": "Sort by:",
+      "sort": {
+        "one": "Default",
+        "two": "Newest",
+        "three": "Oldest",
+        "four": "Ending Soon",
+        "five": "Title (A-Z)",
+        "six": "Title (Z-A)"
+      }
+    },
+    "campaigns": {
+      "heading": "My Campaigns",
+      "fallbackText": "No invitations, pending requests, joined campaigns, or favorite campaigns available.",
+      "pending": "Pending Invitations",
+      "pending-requests": " Pending Campaign Requests",
+      "joined": "Joined Campaigns"
+    },
+    "campaignCard": {
+      "remove": "Remove from Profile",
+      "add": "Add to Profile",
+      "settings": "Campaign details",
+      "decline": "Decline",
+      "accept": "Accept",
+      "cancel-request": "Cancel Request",
+      "join": "Request to Join",
+      "view": "View",
+      "accepted": "Accepted",
+      "rejected": "Rejected",
+      "join-now": "Join Now",
+      "joined": "Joined",
+      "link": "Generate Share Link"
+    },
+    "invites": {
+      "sendBtn": "Send Request",
+      "cancelBtn": "Cancel Request",
+      "fallbackText": "No ambassadors found to collaborate with",
+      "heading": "Collaboration Invites",
+      "para": "Try adjusting your search or check back later.",
+      "process": "Processing",
+      "acceptedHeading": "Accepted Collaborations",
+      "fallbackText2": "No accepted collaborations found",
+      "text": "You don't have any accepted collaborations yet",
+      "sport": "Sport:",
+      "view": "View"
+    },
+    "collaboration": {
+      "messageModal": {
+        "sendMsg": "Send Message",
+        "brand": "Brand: ",
+        "jobTitle": "Job Title:",
+        "message": "Message",
+        "cancel": "Cancel",
+        "send": "Sending...",
+        "send2": "Send",
+        "placeholder": "Type your message here..."
+      },
+      "request": {
+        "heading": "Collaboration Requests",
+        "fallback": "No collaboration requests found.",
+        "reject": "Reject",
+        "accept": "Accept"
+      },
+      "accepted": {
+        "heading": "Accepted Collaborations"
+      }
+    },
+    "profile": {
+      "heading": "My Profile",
+      "sendMessage": "Send Message",
+      "subHeading": "Profile Setup",
+      "para": "Keep your profile up-to-date so brands and fans know exactly who you are.",
+      "para1": "These settings mirror the onboarding steps – so if you're updating, it's just like setting up your account for the first time.",
+      "para2": "A well-completed profile helps you stand out to affiliate partners!",
+      "edit": "Edit Profile",
+      "share": "Share Profile",
+      "sport": "Sport",
+      "tip": "Tip:",
+
+      "support": "Support me",
+      "category": {
+        "one": "Outdoors",
+        "two": "Environment",
+        "three": "Movies",
+        "four": "AI",
+        "five": "Technology"
+      },
+      "tabs": {
+        "Overview": "Overview",
+        "Achievements": "Achievements",
+        "Records": "Records",
+        "Goals": "Goals",
+        "Future Aspirations": "Future Aspirations",
+        "Coaching Records": "Coaching Records",
+        "Past Achievements": "Past Achievements",
+        "Past Records": "Past Records",
+        "Current Goals": "Current Goals",
+        "Biography": "Biography"
+      },
+      "shop": "Shop",
+      "fvrtHeading": "My Favorite",
+      "text": "Ambassador has not added their favorite one’s yet.",
+      "view": "View All",
+      "boldtext": "Elevate the Game",
+      "subText": "Your support helps",
+      "subText1": " train harder, compete stronger, and keep inspiring fans like you. Back the journey — be a part of every step forward.",
+      "noSportsAvailable": "No sports available",
+      "message": "Send message to",
+      "placeholder": "Write message…",
+      "cancel2": "Cancel",
+      "send": "Send"
+    },
+    "fvrt": {
+      "heading": "Support My Journey — One Campaign at a Time",
+      "para": "Every campaign here helps me grow, compete, and keep doing what I love.Thanks for being part of my journey — your support means everything.",
+      "back": "< Back to profile",
+      "support": "Support me",
+      "text": "Every purchase directly supports my journey and helps me keep doing what I love.",
+      "shop": "Shop Now",
+      "fvrtBrand": "Favorite Brands",
+      "fvrtProducts": "Favorite Products",
+      "remove": "Remove from Profile"
+    },
+    "team": {
+      "fallback": "No pending invites found",
+      "pending": "Pending Invites",
+      "pendingFallback": "Try checking back later for new invites.",
+      "processing": "Processing...",
+      "reject": "Reject",
+      "accept": "Accept",
+      "accepted": "Accepted Collaborations",
+      "acceptedFallback": "No accepted collaborations found",
+      "acceptedFallbackText": "You don't have any accepted collaborations yet.",
+      "view": "View"
+    },
+    "edit": {
+      "sport": "Sport",
+      "level": "Level",
+      "team": "Team / Club name",
+      "location": "Country",
+      "bio": "Bio",
+      "achievements": "Achievements",
+      "records": "Records",
+      "addressLabel": "Legal address (Not shown publicly)",
+      "addressPlaceholder": "This address is required by law e.g. for tax reporting.",
+      "companyLabel": "Business ID / Company Registration Number",
+      "companyPlaceholder": "Your official company registration number",
+      "taxTooltip": {
+        "title": "Tax Identification Number (TIN) – Personal ID or Business ID",
+        "placeholder": "Your official TIN number or registration number",
+        "euLawTitle": "EU Law (DAC7)",
+        "euLaw": "EU law (DAC7) requires us to collect and report ambassador tax identification numbers to tax authorities.",
+        "options": "You can provide either your personal identity code (if registering as an individual) or your business ID (if operating through a company).",
+        "disclaimer": "This information is used only for legal reporting and will not be shown publicly. Sbonssy does not handle your tax filings or payments – you are responsible for your own tax obligations."
+      },
+      "goal": "Goal",
+      "interests": "Interests",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "tikTok": "TikTok",
+      "youtube": "Youtube",
+      "linkedin": "Linkedin",
+      "X": "X",
+      "website": "Website",
+      "cancel": "Cancel",
+      "save": "Save",
+      "url": "Enter URL"
+    },
+    "chat": {
+      "messages": "Messages",
+      "headTxt1": "Search results",
+      "headTxt2": "No chat selected",
+      "para1": "Select a user to start chatting",
+      "para2": "Choose a conversation or search for a user",
+      "report": "Report",
+      "unblock": "Unblock",
+      "block": "Block",
+      "reportU": " Report User",
+      "reason": "Reason",
+      "select": "Select a reason",
+      "reason1": "Inappropriate behaviour",
+      "reason2": "Spam",
+      "reason3": "Harassment",
+      "reason4": "Other",
+      "details": "Details (optional)",
+      "placeholder": "Provide additional details...",
+      "cancel": "Cancel",
+      "submit": "Submit Report",
+      "fallbackText": "No messages yet",
+      "start": "Start the conversation!",
+      "file": "File attached",
+      "remove": "Remove",
+      "view": "View Attachment",
+      "msgPlaceholder": "Type a message...",
+      "sending": "Sending...",
+      "send": "Send",
+      "delete": "Delete",
+      "text1": "Start a conversation with a sports ambassador",
+      "text2": "No conversations yet",
+      "placeholderTxt1": "Search sports ambassadors...",
+      "placeholderTxt2": "Search brands...",
+      "placeholderTxt3": "Search users...",
+      "searching": "Searching...",
+      "nou": "No users found"
+    }
+  },
+  "Brand": {
+    "campaignsPage": {
+      "verified": "Verified",
+      "published": "Published",
+      "awaitingApproval": "Awaiting approval",
+      "notPublished": "Written, not published",
+      "search": "Search",
+      "campaigns": "Campaigns",
+      "fallback": "No campaigns found.",
+      "create": "Create Campaign",
+      "requests": "Requests",
+      "all": "All Campaigns",
+      "resume": "Resume",
+      "pause": "Pause",
+      "delete": "Delete",
+      "fallback2": "No requests found.",
+      "select": "Select Ambassadors",
+      "fallback3": "No ambassadors found.",
+      "load": "Loading...",
+      "cancel": "Cancel",
+      "sending": "Sending...",
+      "send": "Send Invitations",
+      "settings": "Settings",
+      "view": "View",
+      "invite": "Invite",
+      "noPaymentMethodTitle": "No Payment Method",
+      "noPaymentMethodText": "Please add a payment method before proceeding with this action.",
+      "addPaymentMethod": "Add Payment Method",
+      "errorCheckingPayment": "Failed to Check Payment Methods",
+      "errorCheckingPaymentText": "An error occurred while checking payment methods. Please try again.",
+      "verificationRequiredTitle": "Complete verification",
+      "verificationRequiredText": "Your Stripe account is connected but not verified. Please complete verification to continue.",
+      "pendingRequirements": "Pending:",
+      "goToPayments": "Go to payments",
+      "verificationCheckFailed": "Failed to check Stripe verification. Please try again.",
+      "error": "Error",
+      "noBrandInfo": "Cannot apply: Brand information is missing.",
+      "confirmApplyTitle": "Are you sure?",
+      "confirmApplyText": "Are you sure you want to send request?",
+      "yes": "Yes",
+      "requestSent": "Requested",
+      "applyFailed": "Failed to send request. Please try again.",
+      "confirmJoinTitle": "Are you sure?",
+      "confirmJoinText": "Are you sure you want to join this campaign?",
+      "joinSuccess": "Joined successfully",
+      "joinFailed": "Failed to join campaign. Please try again.",
+      "confirmCancelTitle": "Are you sure?",
+      "confirmCancelText": "Are you sure you want to cancel this request?",
+      "cancelSuccess": "Request cancelled successfully",
+      "cancelFailed": "Failed to cancel request. Please try again.",
+      "confirmInvitationTitle": "Are you sure?",
+      "confirmInvitationText": "Are you sure you want to {action} this campaign invitation?",
+      "invitationAccepted": "Invitation accepted successfully.",
+      "invitationDeclined": "Invitation declined successfully.",
+      "invitationFailed": "Failed to {action} invitation. Please try again.",
+      "confirmFavoriteTitle": "{action, select, add {Add the campaign to your public profile!} remove {Are you sure?} other {Are you sure?}}",
+      "confirmFavoriteText": "{action, select, add {Campaigns added to your profile use the same trackable links, so they're always working for you even when you're not actively promoting. Share your profile URL and let your followers discover all your favorites in one place.} remove {Do you want to remove this campaign from your profile?} other {Are you sure you want to proceed?}}",
+      "favoriteSuccess": "Campaign {action, select, added {added to profile} removed {removed from profile} other {updated in profile}}",
+      "favoriteFailed": "Failed to update favorite campaigns. Please try again.",
+      "add": "Add",
+      "notNow": "Not now",
+      "no": "No",
+      "invalidRole": "Invalid user role. Please update your profile.",
+      "shopifyConnected": "Shopify connected",
+      "shopify": "Are you using Shopify? Connect your webshop with our platform and setup campaings, tracking and product uploading in just a few clicks. Read the instructions here."
+    },
+    "campaignCreate": {
+      "heading": "Let's start with some basic info",
+      "editHead": "Update your campaign details.",
+      "para": "Just a few details to personalize your experience.",
+      "back": "Back",
+      "cancel": "Cancel",
+      "upload": "Upload",
+      "next": "Next",
+      "save": "Save",
+      "update": "Update Campaign",
+      "updating": "Updating...",
+      "creating": "Creating...",
+      "edit": "Edit Campaign",
+      "head": "Create New Campaign",
+      "create": "Create Marketing Campaign",
+      "step1": {
+        "heading": "Campaign Basics",
+        "subHeading": "Tell us a bit about your campaign so we can help you reach the right creators.",
+        "label": "Campaign Type",
+        "label1": "Campaign Type",
+        "label2": "Campaign Category",
+        "label3": "Campaign Title (not public)",
+        "label4": "Campaign Cover Image",
+        "label5": "Campaign Description",
+        "label6": "Start Date",
+        "label7": "End Date",
+        "label8": "Ongoing Campaign (no end date)",
+        "label9": "Target Regions",
+        "placeholder1": "e.g. Winter26 (max. 15 characters)",
+        "placeholder2": "Tell ambassadors about your brand...",
+        "placeholder3": "Select regions...",
+        "imgFormat": "PNG, JPG up to 10MB",
+        "uploading": "Uploading...",
+        "upload": "Click to upload cover images",
+        "para1": "Write a short title for your campaign, e.g., 'Sbonssy services -20%'. No discount? No problem. You can also use something like: 'New collection now in our online store' or 'Free delivery on orders over €50'. The campaign title will be displayed on the public marketplace.",
+        "para": "The campaign title will also be displayed on the public marketplace.",
+        "para2": "We recommend using your brand logo. Cover image will be shown on public marketplace.",
+        "renderheading": " Uploaded Cover Image:",
+        "invalid": "Invalid",
+        "type": {
+          "one": "Public",
+          "two": "Apply",
+          "three": "Private"
+        },
+        "typePara": {
+          "one": "Campaign is open to all registered sport ambassadors, and any of them can begin promoting it immediately.",
+          "two": "Sports ambassadors need to apply, and it's up to you to decide who gets to start promoting.",
+          "three": "Only you and the sport ambassadors you invite will be able to see the campaign."
+        },
+        "category": {
+          "Apparel": "Apparel",
+          "Technology": "Technology",
+          "Nutrition": "Nutrition",
+          "Wellness": "Wellness",
+          "Footwear": "Footwear",
+          "Services": "Services",
+          "Media": "Media & Content",
+          "Outdoor": "Outdoor & Adventure Gear",
+          "Events": "Events & Experiences",
+          "Accessories": "Accessories & Equipment",
+          "Other": "Other"
+        },
+        "offerType": {
+          "Product": "Product",
+          "Service": "Service"
+        }
+      },
+      "step2": {
+        "heading": "Compensation Structure",
+        "subHeading": "Pick how you'd like to reward creators for bringing in traffic, leads, or sales.",
+        "label": "Choose how you want to reward sport ambassadors. The amount you set here is what they receive. Our platform takes a service fee on top of the ambassador payout.",
+        "rate": "Commission Rate (calculated from cart value excl. shipping fee's)",
+        "rateTooltip": {
+          "intro": "These benchmarks represent industry averages. Increasing your commission above the average can significantly improve ambassador interest and campaign reach.",
+          "apparel": "Apparel, Fashion & Sports Gear: 8–15%",
+          "fitness": "Fitness Equipment & Wearables: 8–20%",
+          "supplements": "Supplements & Nutrition: 10–30%",
+          "digital": "Digital Goods & Services: 20–50%+"
+        },
+        "gifting": "Product Gifting",
+        "stripe": "Stripe fees apply.",
+        "para": "Enable creators to request your products for testing, allowing them to promote your campaign more authentically.",
+        "affiliate": "Where should the affiliate link send users?",
+        "affiliateHelper": "This URL is used when an ambassador shares a general campaign link instead of a specific product link. Best practice is to use your homepage.",
+        "affiliatePlaceholder": "Paste the full URL where users will land after clicking an affiliate link (e.g., your landing page).",
+        "cookie": "Cookie Duration",
+        "para2": "Determines how long after a user clicks the affiliate link they're still eligible to generate a commission.",
+        "duration": "Select duration",
+        "days": "days",
+        "restrictionText": "Compensation Type Restriction",
+        "restrictionPara": "Products are selected and Shopify is connected. Only Pay per Sale is available.",
+        "type": {
+          "one": "Pay Per Sale",
+          "two": "Pay Per Lead",
+          "three": "Pay Per Click",
+          "four": "Flat Fee",
+          "five": "Flat Fee Amount"
+        },
+        "flat": {
+          "one": "One-time fixed payment for an affiliate's participation in your campaign.",
+          "two": "What you set: Flat fee (e.g., €50 per affiliate)",
+          "three": "What affiliates get: That amount once accepted and confirmed",
+          "four": "Platform fee: 20% of flat fee",
+          "five": "Example: €50 flat fee:",
+          "six": "- Affiliate earns: €50",
+          "seven": "- Platform fee: €10",
+          "eight": "- Total cost to you: €60"
+        },
+        "click": {
+          "one": "Fixed amount paid each time someone clicks on an affiliate link.",
+          "two": "What you set: Fixed € amount per click (e.g., €0.50)",
+          "three": "What affiliates get: That amount per unique click",
+          "four": "Platform fee: 20% of affiliate payment",
+          "five": "Example: €0.50 per click:",
+          "six": "- Affiliate earns: €0.50",
+          "seven": "- Platform fee: €0.10",
+          "eight": "- Total cost to you: €0.60"
+        },
+        "lead": {
+          "one": "Fixed payment for each lead or signup driven by an affiliate.",
+          "two": "What you set: Fixed € amount per lead/signup (e.g., €5)",
+          "three": "What affiliates get: That amount for every valid lead",
+          "four": "Platform fee: 20% of affiliate payment",
+          "five": "Example: €5 per lead:",
+          "six": "- Affiliate earns: €5",
+          "seven": "- Platform fee: €1",
+          "eight": "- Total cost to you: €6"
+        },
+        "sale": {
+          "one": "Commission based on each sale generated by an affiliate",
+          "two": "What you set: % of the sale value (e.g., 10 %)",
+          "three": "What affiliates get: That % of each sale they generate",
+          "four": "Platform fee: 4 % of the sale",
+          "five": "Example: For a 100 € sale with a 10 % commission:",
+          "six": "- Affiliate earns: 10 €",
+          "seven": "- Platform fee: 4 €",
+          "eight": "- Total cost to you: 14 €"
+        }
+      },
+      "step3": {
+        "heading": "Sport Ambassador Profile",
+        "min": "Minimum Followers",
+        "max": "Maximum Followers",
+        "platforms": "Platforms",
+        "placeholder": "Select platforms...",
+        "types": "Sport Ambassador Type(s)",
+        "placeholder2": "Select ambassador types..."
+      },
+      "step4": {
+        "heading": "Campaign brief",
+        "subHeading": "Tell us about your campaign and define if there are needed hashtags, brand mentions and call-to- actions.",
+        "placeholder": "Required CTAs, hashtags, brand mentions, etc.",
+        "label": "Pre-approve content before it goes live"
+      },
+      "step5": {
+        "heading": "Upload Creative Assets (Optional)",
+        "subHeading": "Add logos, product photos, or videos to support content creation—only if needed.",
+        "Uploaded": "Uploaded",
+        "Invalid": "Invalid",
+        "assets": "Creative Assets (Optional)",
+        "para": "Uploading brand assets is optional. Most ambassadors create high-performing content using their own unique style (UGC). Only upload if you have specific branding requirements.",
+        "logo": "Brand Logos (Optional)",
+        "desc": "PNG, JPG, SVG up to 10MB",
+        "product": "Product Photos (Optional)",
+        "video": "Product Videos (Optional)",
+        "descv": " MP4, MOV up to 50MB",
+        "style": "Brand Style Guide (Optional)",
+        "Colors": "Colors",
+        "Fonts": "Fonts",
+        "Guidelines": "Guidelines",
+        "posts": "Example Posts (Optional)",
+        "desci": "Images or videos showing ideal posts",
+        "uploading": "Uploading...",
+        "upload": "Click to upload example posts",
+        "logos": "Click to upload logo(s)",
+        "placeholder1": "Primary font: Montserrat, Secondary font: Open Sans",
+        "placeholder2": "Primary: #3B82F6, Secondary: #10B981, Accent: #F59E0B",
+        "placeholder3": "Do's and don'ts for content creation..."
+      },
+      "step6": {
+        "heading": "Finalize Legal & Terms",
+        "subHeading": "Write your terms and set clear guidelines to keep your campaign compliant and protected.",
+        "txt1": "I agree to the",
+        "txt2": "Affiliate Terms and Conditions",
+        "label": "Creators must include FTC-compliant disclosure in their content",
+        "para": "We recommend keeping this enabled to ensure compliance with advertising regulations",
+        "head": "Campaign Terms",
+        "placeholder": "Include legal terms for your campaign",
+        "useSampleTemplate": "Use Sample Template",
+        "templateHelper": "You can use the sample template below as a starting point. Click 'Use Sample Template' to load it, then customize it to match your campaign's needs."
+      },
+      "step7": {
+        "productSelection": "Product Selection",
+        "loading": "Loading products...",
+        "retry": "Retry",
+        "fallback": "No Shopify Integration",
+        "para1": "You can run campaigns on our platform without Shopify. But without the Shopify integration, ambassadors can’t add products to their storefronts or promote specific products.",
+        "para2": "If your brand is on Shopify, connect your store on account home page to enable product-level promotion.",
+        "products": "Continue without Products",
+        "fallback1": "No Products Found",
+        "fallback2": "No products were found in your Shopify store",
+        "add": "Please add products to your Shopify store and try again.",
+        "select": "Select the products you want to promote in this campaign. These products will be available for ambassadors to promote.",
+        "campaignProducts": "Campaign Products *",
+        "selectedProducts": "Selected Products",
+        "remove": "Remove",
+        "placeholder": "Select products for your campaign...",
+        "selectAll": "Select all products",
+        "continue": "Continue without products"
+      },
+      "platformOptions": {
+        "Instagram": "Instagram",
+        "YouTube": "YouTube",
+        "X": "X",
+        "tikTok": "TikTok",
+        "facebook": "Facebook"
+      },
+      "regionOptions": {
+        "North": "North America",
+        "Europe": "Europe",
+        "Asia": "Asia",
+        "Africa": "Africa",
+        "South": "South America",
+        "Australia": "Australia"
+      },
+      "ambassadorTypeOptions": {
+        "Athlete": "Athlete",
+        "Team": "Team",
+        "Influencer": "Influencer",
+        "Para-Athlete": "Para-Athlete",
+        "Coach": "Coach",
+        "Ex-Athlete": "Ex-Athlete"
+      }
+    },
+    "myTeam": {
+      "sendMessage": "Send Message",
+      "Cancel": "Cancel",
+      "sending": "Sending...",
+      "send": "Send",
+      "heading": "Sport Ambassadors",
+      "para": "See your team and invite members.",
+      "fallback": "No ambassadors found",
+      "Processing": "Processing...",
+      "Invite": "Invite",
+      "team": "My Team",
+      "subHeading": "Collaborating with an ambassador outside our platform? Invite them to join your profile and showcase your partnership to fans!",
+      "fallback2": "No accepted collaborations found",
+      "para2": "You don't have any accepted collaborations yet.",
+      "Message": "Message",
+      "placeholder": "Type your message here...",
+      "placeholder2": "Search by name or sport",
+      "invite": "Invite ambassadors to join your team."
+    },
+    "edit": {
+      "edit": "Edit Profile",
+      "Campaigns": "Campaigns",
+      "sendMsg": "Send Message",
+      "team": "My Team",
+      "para": " Built through shared goals. Backed by real partnerships.",
+      "view": "View All",
+      "myCampaigns": "My Campaigns",
+      "para2": "Explore the campaigns and make an impact, every purchase matters!",
+      "heading": "Fuel the Future of Sports.",
+      "para3": "Support athletes, teams, and creators by backing ambassador-led campaigns.Be part of something bigger.",
+      "Cancel": "Cancel",
+      "send": "Send",
+      "sending": "Sending...",
+      "all": "All Team Members",
+      "back": "Back to Profile",
+      "profile": "View Profile",
+      "allc": "All Campaigns",
+      "Select": "Select Ambassador",
+      "ambHeading": " Ambassadors for ",
+      "fallback": "No ambassadors available for this campaign",
+      "close": "Close"
+    },
+    "editProfile": {
+      "heading": "My Profile",
+      "vat": "Business registration number",
+      "justMe": "Just me",
+      "company": "Brand Name",
+      "website": "Website URL",
+      "desc": "Description",
+      "option": "Your company values and interests",
+      "nameLabel": "Legal name",
+      "namePlaceholder": "The official registered name of your company or organization",
+      "addressLabel": "Company address",
+      "addressPlaceholder": "The registered address of your company.",
+      "logo": "Upload your company logo",
+      "companySize": "Company size (employees)",
+      "cancel": "Cancel",
+      "saving": "Saving",
+      "save": "Save",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "placeholder": {
+        "one": "Enter your company name",
+        "two": "Enter your VAT number",
+        "three": "Enter your website URL",
+        "four": "Select your company values and interests"
+      }
+    }
+  },
+  "Common": {
+    "heading": "Welcome to the Home Page",
+    "accept": "Accept",
+    "decline": "Decline",
+    "userSubRoleNotFound": "User sub-role not found",
+    "select": "Select Ambassador"
+  },
+  "onboardingBrand": {
+    "next": "Next",
+    "step": "step",
+    "back": "Back",
+
+    "step1": {
+      "heading": "Let's start with your company's basics",
+      "para": "Just a few details to personalize your experience.",
+      "firstNameLabel": "First Name",
+      "lastNameLabel": "Last Name",
+      "firstName": "Enter first name",
+      "lastName": "Enter last name",
+      "label1": "Current Job title",
+      "jobTitle": "Enter job title",
+      "brandName": "Enter brand name",
+      "vatNumber": "Your official business registration number",
+      "vatNumberHelper": "(e.g. Y-tunnus in Finland, VAT ID in the EU, or equivalent in your country)",
+      "introduction": "Write a short introduction about your company.",
+      "label2": "What is your brand called? (shown on marketplace)",
+      "label3": "Business registration number",
+      "label4": "Website URL",
+      "label5": "Write a short introduction about your company",
+      "nameLabel": "Legal name",
+      "namePlaceholder": "The official registered name of your company or organization",
+      "addressLabel": "Company address",
+      "addressPlaceholder": "The registered address of your company.",
+      "count": "step 1/3"
+    },
+    "step2": {
+      "heading": "Tell us more about your company",
+
+      "para": "Share your values, interests, and company size.",
+      "label1": "Your company values and interests",
+      "label2": "Upload your company logo",
+      "label3": "How many people are you working with?",
+      "placeholder": "Select max five",
+      "options": {
+        "Justme": "Just me",
+        "2-10": "2-10",
+        "11-50": "11-50",
+        "51-100": "51-100",
+        "101-500": "101-500",
+        "501Plus": "501+"
+      }
+    },
+    "step3": {
+      "heading": "Almost done!",
+      "para": "How did you hear about us?",
+      "label1": "How did you hear about us?",
+      "option": "Select One",
+      "terms": "I have read and agree to the ",
+      "brand": "terms of brand",
+      "profile": " profile.",
+      "submitting": "Submitting...",
+      "submit": "Submit"
+    }
+  },
+  "onboardingSport": {
+    "next": "Next",
+    "close" : "Close",
+    "step": "Step",
+    "back": "Back",
+    "step1": {
+      "heading": "Let's start with some basic info",
+      "para": "Just a few details to personalize your experience.",
+      "label1": "What would describe you",
+      "label2": "First name",
+      "label3": "Last name",
+      "firstName": "Enter First Name",
+      "lastName": "Enter Last Name",
+      "label4": "Gender",
+      "optionLabel3": "Select role",
+      "optionLabel": "Select Gender",
+      "option1": "Male",
+      "option2": "Female",
+      "option3": "Other",
+      "label5": "Sport(s)",
+      "addressLabel": "Legal address (Not shown publicly)",
+      "addressPlaceholder": "This address is required by law e.g. for tax reporting.",
+      "companyLabel": "Business ID / Company Registration Number",
+      "companyPlaceholder": "Your official company registration number",
+      "placeholder": "Select at least one",
+      "label6": "Level you are competing?",
+      "label7": "Level your team is competing?",
+      "optionLabel2": "Select one...",
+      "label8": "Team / Club name",
+      "label9": "Country",
+      "taxTooltip": {
+        "title": "Tax Identification Number (TIN) – Personal ID or Business ID",
+        "placeholder": "Your official TIN number or registration number",
+        "euLawTitle": "EU Law (DAC7)",
+        "euLaw": "EU law (DAC7) requires us to collect and report ambassador tax identification numbers to tax authorities.",
+        "options": "You can provide either your personal identity code (if registering as an individual) or your business ID (if operating through a company).",
+        "disclaimer": "This information is used only for legal reporting and will not be shown publicly. Sbonssy does not handle your tax filings or payments – you are responsible for your own tax obligations."
+      }
+    },
+    "step2": {
+      "heading": "Great, now a bit more about you",
+      "para": "Let your fans, brands and supporters know you better!",
+      "label1": "Write a biography of yourself",
+      "label2": "Achievements",
+      "label3": "Records",
+      "label4": "Goals",
+      "label5": "Interests",
+      "placeholder": "Select your interests"
+    },
+    "step3": {
+      "heading": "Almost there, let's just add an image",
+      "para": "Photo will be shown on your profile page.",
+      "label1": "Upload images...",
+      "uploaded": "Uploaded",
+      "upload": "Upload",
+      "uploadPara": "Click to upload an image"
+    },
+    "step4": {
+      "heading": "Last step - link your social accounts",
+      "para": "Add the public URLs f your social media platforms to complete your profile",
+      "label1": "Instagram",
+      "label2": "Facebook",
+      "label3": "TikTok",
+      "label4": "You Tube",
+      "label5": "X",
+      "label6": "Website",
+      "submitting": "Submitting...",
+      "submit": "Submit",
+      "userName": "Enter public URL",
+      "url": "Enter URL",
+      "terms": "I have read and agree to the ",
+      "sports": "terms of ambassadors",
+      "profile": " profile."
+    }
+  },
+  "Settings": {
+    "sidebar": {
+      "heading": "Settings",
+      "label1": "General",
+      "label2": "Notifications",
+      "label3": "Account",
+      "label4": "Payments"
+    },
+    "account": {
+      "heading": "Account",
+      "para": "Manage people who can have access to your",
+      "account": "account.",
+      "subHeading": "Team",
+      "subPara": " See who is in charge of running the account. Add rights and invite your team members.",
+      "admin": "Admin",
+      "modify": "Can Modify",
+      "view": "Can View",
+      "add": "Add team member",
+      "placeholder": "Enter email",
+      "deleteAc": "Delete Account",
+      "click": "Click to remove your account permanently.",
+      "fallback2": "No team members added yet.",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "saving": "Saving",
+      "save": "Save",
+      "fallback": "No user logged in.",
+      "pending": "Pending Invitations",
+      "pendingPara": " Manage invitations that are still pending acceptance.",
+      "pendinga": "Pending",
+      "revoke": "Revoke",
+      "sending": "Sending...",
+      "send": "Send Invite",
+      "canView": "Can only view content",
+      "canModify": "Can only view and edit content",
+      "emailAdd": "Email address",
+      "permission": "Permission level",
+      "ambassador": "ambassador",
+      "brand": "brand",
+      "Ambassador": "Ambassador",
+      "Brand": "Brand",
+      "invite": "Your Invitation Details",
+      "invitedBy": "Invited by"
+    },
+    "notifications": {
+      "load": "Loading...",
+      "fallback": "No user logged in.",
+      "heading": "Notifications",
+      "para": "Manage your notification preferences and stay informed about updates, offers, and more.",
+      "subHeading": "Choose where you get notified",
+      "subPara": "Select how you'd like to receive notifications. You can choose email, SMS, or both.",
+      "label": "Email notification",
+      "sms": "SMS",
+      "email": "By Email",
+      "emailPara": "Choose which types of emails you'd like to receive from us.",
+      "marketing": " Marketing",
+      "announce": "Announcements & Updates",
+      "support": "Support",
+      "cancel": "Cancel",
+      "saving": "Saving",
+      "save": "Save"
+    },
+    "general": {
+      "fallback": "Access denied or no user logged in.",
+      "label": " Sub-Role",
+      "confirmNewPassword": "Confirm New Password",
+      "confirmPassword": "Confirm Password",
+      "optionLabel": "Select Sub-Role",
+      "first": "First Name",
+      "last": "Last Name",
+      "gender": "Gender",
+      "option1": "Male",
+      "option2": "Female",
+      "option3": "Other",
+      "email": "Email",
+      "phone": "Phone",
+      "password": "Current Password",
+      "newPassword": "New Password",
+      "cancel": "Cancel",
+      "saving": "Saving",
+      "save": "Save",
+      "companyName": "Company Name"
+    },
+    "payments": {
+      "processing": "Processing...",
+
+      "notSet": "Not set",
+      "notProvided": "Not provided",
+
+      "addedCard": "Card Already Added",
+      "addCard": "Add Card",
+      "card": "Card",
+      "expires": "Expires",
+      "delete": "Delete",
+      "paymentSettings": "Payment Settings",
+      "loading": "Loading",
+      "stripeId": "Stripe ID",
+      "cards": "Cards",
+      "invoices": "Invoices",
+      "savedCard": "Saved Card",
+      "loadingCard": "Loading card",
+      "fallback1": "No card saved. Please add a card to enable payments.",
+      "loadingInvoices": "Loading invoices...",
+      "fallback2": "No invoices found.",
+      "generateInvoices": "Generate Invoices",
+      "stripe": "Stripe Account Connected",
+      "stripe2": "Connect Stripe Account",
+      "invoiceId": "Invoice ID",
+      "campaignId": "Campaign ID",
+      "amount": "Amount",
+      "status": "Status",
+      "period": "Period",
+      "created": "Created",
+      "details": "Details",
+      "athleteId": "Athlete ID",
+      "paymentMethod": "Selected Payment Method",
+      "ending": " ending in",
+      "fallback3": "No payment method available. Please add a card first.",
+      "payInvoice": "Pay Invoice",
+      "downloadInvoice": "Download Invoice",
+      "notConnected": "Not Connected"
+    },
+    "webhooks": {
+      "heading": "Webhook Integration",
+      "subHeading": "If you’re a Shopify brand, tracking is set up by connecting our Shopify app from your Home page—webhooks aren’t required; if you’re not on Shopify, use webhooks here to enable server-to-server conversion tracking for reliable attribution.",
+      "credentials": "API Credentials",
+      "regenerate": "Regenerate",
+      "generating": "Generating...",
+      "apiKey": "API Key",
+      "webhookSecret": "Webhook Secret",
+      "endpoints": "Webhook Endpoints",
+      "test": "Test",
+      "production": "Production",
+      "authHeader": "Use this in the Authorization header: Bearer {API_KEY}",
+      "hmacHeader": "Use this to generate HMAC-SHA256 signatures",
+      "notGenerated": "No credentials generated yet. Complete your profile to get started.",
+      "testIntegration": "Test Integration",
+      "testDescription": "Send a test webhook to verify your integration without creating real events.",
+      "sendTest": "Send Test Webhook",
+      "dashboardTestNote": "Note: Testing from the dashboard is for informational purposes only. You must perform a successful test from your integrated code to verify your setup and publish campaigns.",
+      "testing": "Testing...",
+      "testSuccess": "Test Successful",
+      "testFailed": "Test Failed",
+      "recentEvents": "Recent Webhook Events",
+      "noEvents": "No webhook events yet. Send your first webhook to get started!",
+      "quickStart": "Quick Start",
+      "step1Title": "Copy your credentials",
+      "step1Desc": "Use the API key and secret from above",
+      "step2Title": "Capture attribution",
+      "step2Desc": "Store campaign, athlete, visitorId from URL params",
+      "step3Title": "Fire webhook on purchase",
+      "step3Desc": "POST to webhook URL with order data",
+      "step4Title": "Test first!",
+      "step4Desc": "Use the test endpoint before going live",
+      "examplePayload": "Example Payload",
+      "needHelp": "Need Help?",
+      "supportText": "Our integration team is here to help you get set up.",
+      "contactSupport": "Contact Support",
+      "confirmRegenerateTitle": "Are you sure?",
+      "confirmRegenerateText": "This will invalidate your current API key. You must update your integration with the new key.",
+      "regenerateSuccess": "New credentials generated! Make sure to update your integration.",
+      "regenerateError": "Failed to regenerate credentials",
+      "apiKeyMask": "Not generated yet",
+      "secretMask": "••••••••",
+      "yes": "Yes",
+      "cancel": "Cancel"
+    }
+  },
+  "Authentication": {
+    "signUp": "Sign Up",
+    "login": "Login",
+    "heading": "Choose which type of an user you are.",
+    "email": "Email*",
+    "placeholderEmail": "Enter Email",
+    "placeholderPassword": "Password",
+    "placeholderConfirmPassword": "Confirm your password",
+    "password": "Password*",
+    "confirm": "Confirm Password*",
+    "registering": "Registering...",
+    "register": "Register",
+    "google": "Register with Google",
+    "account": "Already have an account?",
+    "fan": "Fan",
+    "sports": "Sport Ambassador",
+    "brand": "Brand",
+    "reset": "Reset Password",
+    "forgotEmail1": "Enter your email to receive a reset link",
+    "forgotEmail2": "Enter your credential to get in.",
+    "forgot": "Forgot Password?",
+    "back": "Back to Login",
+    "loginGoogle": "Login with Google",
+    "accountLogin": "Don't have an account?",
+    "resetLink": "Send Reset Link",
+    "loginEmail": "Login with Email",
+    "terms": "I have read and agree to the ",
+    "service": "Terms of Service",
+    "policy": "Privacy Policy.",
+    "and": " and ",
+    "selectAccountType": "Please select your account type to continue",
+    "mustSelectRole": "You must select an account type before you can sign up",
+
+    "age": "I am 16 years old or older",
+    "emailVerified": "Email verified successfully! Please log in to continue.",
+    "otpTitle": "Verify Your Email",
+    "otpSubTitle": "We've sent a 6-digit code to your email. Please enter it below to verify your account.",
+    "otpSubTitleSendTo": "We sent a 6-digit code to",
+    "otpNotReceived": "Didn't receive the code?",
+    "otpVerify": "Verify Code",
+    "otpResend": "Resend Code",
+    "otpResendIn": "Resend in {seconds}s",
+    "otpBackToLogin": "Back to login"
+  },
+  "Invite": {
+    "accept": "Accept Invitation",
+    "para": "Set your password to accept the invitation",
+    "email": "Email*",
+    "password": "Password*",
+    "new": "New Password*",
+    "confirm": "Confirm Password*",
+    "process": "Processing...",
+    "reset": "Reset Password",
+    "para2": "Enter your new password below.",
+    "back": "Back to Login"
+  },
+  "SportsOptions": {
+    "sports": {
+      "Martial arts": "Martial arts",
+      "Alpine skiing": "Alpine skiing",
+      "American Football": "American Football",
+      "Archery": "Archery",
+      "Artistic Swimming": "Artistic Swimming",
+      "Athletics": "Athletics",
+      "Badminton": "Badminton",
+      "Bandy": "Bandy",
+      "Baseball": "Baseball",
+      "Basketball": "Basketball",
+      "Beach volleyball": "Beach volleyball",
+      "Biathlon": "Biathlon",
+      "Bowling": "Bowling",
+      "Canoeing and Kayaking": "Canoeing and Kayaking",
+      "Cheerleading": "Cheerleading",
+      "Climbing": "Climbing",
+      "Cricket": "Cricket",
+      "Cross-country running": "Cross-country running",
+      "Cross-Country Skiing": "Cross-Country Skiing",
+      "CrossFit": "CrossFit",
+      "Curling": "Curling",
+      "Cycling": "Cycling",
+      "Dance": "Dance",
+      "Darts": "Darts",
+      "Disc golf": "Disc golf",
+      "Diving": "Diving",
+      "E-Sports": "E-Sports",
+      "Equestrian": "Equestrian",
+      "Fencing": "Fencing",
+      "Figure skating": "Figure skating",
+      "Finnish baseball": "Finnish baseball",
+      "Fitness": "Fitness",
+      "Floorball": "Floorball",
+      "Football": "Football",
+      "Freestyle skiing": "Freestyle skiing",
+      "Futsal": "Futsal",
+      "Golf": "Golf",
+      "Gymnastics": "Gymnastics",
+      "Handball": "Handball",
+      "Hydrox": "Hydrox",
+      "Ice hockey": "Ice hockey",
+      "Lacrosse": "Lacrosse",
+      "Motorsports": "Motorsports",
+      "Nordic combined": "Nordic combined",
+      "Orienteering": "Orienteering",
+      "Other": "Other",
+      "Padel": "Padel",
+      "Polo": "Polo",
+      "Pool": "Pool",
+      "Ringette": "Ringette",
+      "Rowing": "Rowing",
+      "Rugby": "Rugby",
+      "Sailing": "Sailing",
+      "Shooting sport": "Shooting sport",
+      "Skateboarding": "Skateboarding",
+      "Ski jumping": "Ski jumping",
+      "Snowboarding": "Snowboarding",
+      "Squash": "Squash",
+      "Surfing": "Surfing",
+      "Swimming": "Swimming",
+      "Synchronized skating": "Synchronized skating",
+      "Table tennis": "Table tennis",
+      "Tennis": "Tennis",
+      "Triathlon": "Triathlon",
+      "Volleyball": "Volleyball",
+      "Water polo": "Water polo",
+      "Weight lifting": "Weight lifting",
+      "Wellness": "Wellness",
+      "Yoga": "Yoga"
+    }
+  },
+  "SubRole": {
+    "roles": {
+      "team": "Team",
+      "athlete": "Athlete",
+      "influencer": "Influencer",
+      "coach": "Coach",
+      "ex-athlete": "Ex-Athlete",
+      "para-athlete": "Para-Athlete"
+    }
+  },
+  "Levels": {
+    "Olympic": "Olympic",
+    "Professional": "Professional",
+    "Semi-Pro": "Semi-Pro",
+    "Amateur": "Amateur",
+    "Junior": "Junior"
+  },
+  "Interests": {
+    "groups": {
+      "Sports & Fitness": "Sports & Fitness",
+      "Wellbeing & Recovery": "Wellbeing & Recovery",
+      "Creativity & Culture": "Creativity & Culture",
+      "Sustainable Living & Values": "Sustainable Living & Values",
+      "Science, Tech & Learning": "Science, Tech & Learning",
+      "Hobbies & Everyday Life": "Hobbies & Everyday Life",
+      "Adventure & Experiences": "Adventure & Experiences",
+      "Entertainment & Digital Life": "Entertainment & Digital Life"
+    },
+    "options": {
+      "Sports": "Sports",
+      "Fitness": "Fitness",
+      "Running": "Running",
+      "Team Sports": "Team Sports",
+      "Extreme Sports": "Extreme Sports",
+      "Martial Arts": "Martial Arts",
+      "Yoga": "Yoga",
+      "Mental Wellness": "Mental Wellness",
+      "Mindfulness": "Mindfulness",
+      "Sleep & Recovery": "Sleep & Recovery",
+      "Nutrition": "Nutrition",
+      "Stress Management": "Stress Management",
+      "Blogging": "Blogging",
+      "Design": "Design",
+      "Interior Design": "Interior Design",
+      "Knitting": "Knitting",
+      "Painting": "Painting",
+      "Performing Arts": "Performing Arts",
+      "Photography": "Photography",
+      "Podcasts": "Podcasts",
+      "Singing": "Singing",
+      "Stand-up Comedy": "Stand-up Comedy",
+      "Writing": "Writing",
+      "Books": "Books",
+      "Movies/TV": "Movies/TV",
+      "Music": "Music",
+      "Fashion": "Fashion",
+      "Environment": "Environment",
+      "Sustainable Living": "Sustainable Living",
+      "Zero-Waste Living": "Zero-Waste Living",
+      "Volunteering": "Volunteering",
+      "Mentoring & Coaching": "Mentoring & Coaching",
+      "Family": "Family",
+      "Philosophy": "Philosophy",
+      "AI": "AI",
+      "Astronomy": "Astronomy",
+      "Science": "Science",
+      "Technology": "Technology",
+      "Virtual Reality": "Virtual Reality",
+      "Languages": "Languages",
+      "Animals": "Animals",
+      "Gardening": "Gardening",
+      "Baking": "Baking",
+      "Cooking": "Cooking",
+      "DIY": "DIY",
+      "Thrifting & Vintage": "Thrifting & Vintage",
+      "History": "History",
+      "Outdoor Activities": "Outdoor Activities",
+      "Traveling": "Traveling",
+      "Scuba Diving": "Scuba Diving",
+      "Social Media": "Social Media",
+      "Video Games": "Video Games"
+    }
+  },
+  "CompanyInterests": {
+    "Sports & Fitness": "Sports & Fitness",
+    "Wellbeing & Recovery": "Wellbeing & Recovery",
+    "Creativity & Culture": "Creativity & Culture",
+    "Sustainable Living & Values": "Sustainable Living & Values",
+    "Science, Tech & Learning": "Science, Tech & Learning",
+    "Hobbies & Everyday Life": "Hobbies & Everyday Life",
+    "Adventure & Experiences": "Adventure & Experiences",
+    "Entertainment & Digital Life": "Entertainment & Digital Life"
+  },
+  "References": {
+    "Ad": "Ad",
+    "Friend": "Friend",
+    "Facebook": "Facebook",
+    "Instagram": "Instagram",
+    "Influencer": "Influencer"
+  },
+  "Favourites": {
+    "heading": "Your Favourites",
+    "remove": "Remove from Favourites",
+    "view": "View profile",
+    "viewC": "View",
+    "fallback": "No favourites yet",
+    "fallback2": "Your favourite ambassadors will appear here once you add them",
+    "fallback3": "No favourites yet",
+    "fvrtBrand": "Favourite Brands",
+    "fvrtAmbassador": "Favourite Ambassadors",
+    "fallbackBrand": "No Brand found for this page",
+    "fallbackAmbassador": "No Ambassador found for this page",
+    "influencer": "Influencer"
+  },
+
+  "Analytics": {
+    "heading1": "Brand Analytics Dashboard",
+    "heading2": "Ambassador Analytics Dashboard",
+    "subtitle1": "Manage and track your affiliate commissions",
+    "subtitle2": "Performance insights across your campaigns",
+    "subtitle3": "Overview of commissions, payments and pending payouts.",
+    "start": "Start Date",
+    "end": "End Date",
+    "value": "Value",
+    "metric": "Metric",
+    "events": "Events",
+    "csv": "CSV",
+    "xlsx": "Excel",
+    "exportExcel": "Export Reports (Excel)",
+    "exportExcelSingle": "Export Report (Excel)",
+    "noData": "No Performance Data",
+    "adjustRange": "Try adjusting your date range.",
+    "core": "Core Performance",
+
+    "efficiency": "Efficiency",
+    "trend": "ROI % Trend",
+    "trendText": "Timeseries endpoint needed to display ROI% over time.",
+    "rate": "Conversion Rate Trend",
+    "rateText": "Timeseries endpoint needed to display Conversion Rate over time.",
+    "roasCmg": "ROAS by Campaign",
+    "calText": " ROAS = Revenue ÷ Total Cost, EPC = Revenue ÷ Clicks, CPA = Total Cost ÷ Sales",
+    "compensationType": "Compensation Type",
+    "subHeading": "Traffic by Ambassador",
+    "eventType": "Event Type",
+    "count": "Count",
+    "retry": "Retry",
+    "exportCampaigns": "Export Campaigns (CSV)",
+    "exportAmbassador": "Export Ambassadors (CSV)",
+    "efficiencyHeading": "Core & Efficiency Metrics",
+    "efficiencyData": {
+      "revenue": "Revenue",
+      "cost": "Total Cost",
+      "conversions": "Conversions",
+      "sales": "Sales / Conversions",
+      "convorate": "Conversion Rate",
+      "clicks": "Clicks",
+      "rate": "Conv. Rate",
+      "aov": "AOV",
+      "epc": "EPC",
+      "cpa": "CPA",
+      "roas": "ROAS"
+    },
+    "efficiencySubheading": "Prices shown include VAT and Stripe processing fees.",
+    "types": {
+      "all": "All Compensation Types",
+      "sale": "Pay-per-sale",
+      "click": "Pay-per-click",
+      "lead": "Pay-per-lead",
+      "fee": "Flat Fee"
+    },
+
+    "tableHead": {
+      "ambassador": "Ambassador",
+      "key": "Tracking Key",
+      "clicks": "Clicks",
+      "conversations": "Conversions",
+      "earnings": "Earnings",
+      "campaign": "CAMPAIGN",
+      "saleAmount": "SALE AMOUNT",
+      "refund": "REFUND",
+      "rate": "RATE",
+      "payable": "PAYABLE",
+      "status": "STATUS",
+      "commStatus": "COMM.STATUS"
+    },
+    "chartOptions": {
+      "bar": {
+        "title1": "Campaign Performance",
+        "title2": "Ambassador Metrics",
+        "hAxis": {
+          "title1": "Campaign",
+          "title2": "Metric"
+        },
+        "vAxis": "Count"
+      },
+      "pie": "Event Type Distribution",
+      "earnings": {
+        "title1": "Financials by Campaign",
+        "title2": "Total Earnings",
+        "hAxis": {
+          "title1": "Campaign",
+          "title2": "Metric"
+        },
+        "vAxis": "Amount (€)"
+      }
+    },
+    "category": "Category",
+    "conversions": "Clicks",
+    "clicks": "Conversions",
+    "shares": "Shares",
+    "campaign": "Campaign",
+    "spend": "Brand Spend",
+    "platform": "Platform Earnings",
+    "earnings": "Earnings",
+    "ambassador": "Ambassador Earnings",
+    "metrics": {
+      "yourEarnings": "Your Earnings",
+      "paidCommissions": "Paid commissions",
+      "totalClicks": "Total Clicks",
+      "trafficGenerated": "Traffic generated",
+      "conversions": "Conversions",
+      "successfulSales": "Successful sales/leads",
+      "shares": "Shares",
+      "campaignDistributions": "Campaign distributions",
+      "totalRevenue": "Total Revenue",
+      "grossSales": "Gross sales generated",
+      "totalCost": "Total Cost",
+      "marketingSpend": "Marketing spend + fees",
+      "roas": "ROAS",
+      "returnOnAdSpend": "Return on Ad Spend"
+    },
+    "loading": "Syncing performance data...",
+    "campaignPerformance": "Campaign Performance",
+    "ambassadorInfluence": "Ambassador Influence",
+    "exportCSV": "Export CSV",
+    "table": {
+      "campaign": "Campaign",
+      "revenue": "Revenue",
+      "clicks": "Clicks",
+      "conversions": "Conversions",
+      "roas": "ROAS",
+      "totalCost": "Total Cost",
+      "ambassador": "Ambassador",
+      "conv": "Conv.",
+      "payout": "Payout",
+      "noTraffic": "No active traffic recorded"
+    },
+    "stripeFees": "Stripe Fees",
+    "vat": "VAT Amount",
+    "roi": "ROI (%)",
+
+    "fallback": "No ambassador data available.",
+    "fallback2": "No analytics data available for the selected date range."
+  },
+  "Admin": {
+    "dashboard": {
+      "totalCampaigns": "Total Campaigns",
+      "totalCollaborations": "Total Collaborations",
+      "totalUsers": "Total Users",
+      "chart": {
+        "title": "Growth Comparison",
+        "month": "Month",
+        "count": "Count",
+        "loading": "Loading data...",
+        "noData": "No Data"
+      },
+      "months": {
+        "jan": "Jan",
+        "feb": "Feb",
+        "mar": "Mar",
+        "apr": "Apr",
+        "may": "May",
+        "jun": "Jun",
+        "jul": "Jul",
+        "aug": "Aug",
+        "sep": "Sep",
+        "oct": "Oct",
+        "nov": "Nov",
+        "dec": "Dec"
+      }
+    },
+    "users": {
+      "heading": "Admin Access",
+      "downloadCSV": "Download CSV",
+      "downloadXLSX": "Download XLS",
+      "loadingExport": "Loading",
+      "filter": "Filter by Role:",
+      "filterValues": {
+        "all": "All Roles",
+        "fan": "Fan",
+        "amb": "Sports Ambassador",
+        "brand": "Brand"
+      },
+      "no": "Sl. No",
+      "email": "Email",
+      "auth": "Auth Provider",
+      "role": "Role",
+      "subRole": "Sub Role",
+      "created": "Created At",
+      "updated": "Updated At",
+      "action": "Action",
+      "trackingkey": "Tracking Key",
+      "ban": "Ban",
+      "unban": "Unban",
+      "fallback1": "Error loading users",
+      "fallback2": "No users found",
+      "banSuccess": "Banned successfully",
+      "unbanSuccess": "Unbanned successfully"
+    },
+
+    "heading": "Admin Banner",
+    "link": "Add Banner",
+    "no": "Sl. No.",
+    "title": "Title",
+    "desc": "Description",
+    "img": "Image",
+    "created": "Created At",
+    "actions": "Actions",
+    "fallback": "No banners available",
+    "upload": "Upload Image",
+    "remove": "Remove Image",
+    "editheading": "Edit Banner",
+    "btnLabel1": "Button One Label",
+    "btnLabel2": "Button Two Label",
+    "btnRoute1": "Button One Route",
+    "btnRoute2": "Button Two Route",
+    "update": "Update Banner",
+    "cancel": "Cancel",
+    "load": "Loading...",
+    "detailHeading": "Banner Details",
+    "back": "Back to Banners",
+    "ctaLabel1": "CTA One Label",
+    "ctaPath1": "CTA One Path",
+    "ctaLabel2": "CTA Two Label",
+    "ctaPath2": "CTA Two Path",
+    "updated": "Updated At",
+    "status": "Status",
+    "blogHeading": "Admin Blogs",
+    "blogLink": "Add Blog",
+    "author": "Author",
+    "content": "Content",
+    "tags": "Tags",
+    "fallbackBlog": "Error loading blogs",
+    "fallbackBlog2": "No blogs found",
+    "placeholderText": "Select or type to create tags...",
+    "placeholderText2": "Start typing your blog content...",
+    "draft": "Draft",
+    "published": "Published",
+    "createBlog": "Create Blog",
+    "blogDetailHeading": "Blog Details",
+    "editBlog": "Edit Blog",
+    "updateBlog": "Update Blog",
+    "backBlog": "Back to Blogs",
+    "tagHeading": "Admin Tags",
+    "name": "Name",
+    "tagError": "Error loading tags",
+    "fallbackTag": "No tags found",
+    "addTag": "Add Tag",
+    "createTag": "Create Tag",
+    "tagDetails": "Tag Details",
+    "backTag": "Back to Tags",
+    "editTag": "Edit Tag",
+    "updateTag": "Update Tag",
+    "faqs": {
+      "heading": "Admin FAQs",
+      "link": "Add FAQ",
+      "no": "Sl. No",
+      "question": "Question",
+      "answer": "Answer",
+      "created": "Created At",
+      "updated": "Updated At",
+      "action": "Action",
+      "fallback": "Error loading FAQs",
+      "fallback2": "No FAQs found",
+      "createFaq": "Create FAQ",
+      "cancel": "Cancel",
+      "detailHeading": "FAQ Details",
+      "unknown": "Unknown",
+      "author": "Author",
+      "back": "Back to FAQs",
+      "edit": "Edit FAQ",
+      "update": "Update FAQ"
+    },
+    "collaboration": {
+      "heading": "Collaborations",
+      "error": "Error",
+      "fallback": "No collaborations found.",
+      "unknown": "Unknown",
+      "serialNo": "Serial No.",
+      "sender": "Sender",
+      "receiver": "Receiver",
+      "status": "Status",
+      "date": "Date"
+    },
+    "campaign": {
+      "heading": "Campaigns",
+      "fallback": "No brands found",
+      "serialNo": "Serial No.",
+      "title": "Campaign Title (not public)",
+      "type": "Campaign Type",
+      "name": "Brand Name",
+      "amb": "Ambassador Name",
+      "status": "Status",
+      "created": "Created At"
+    },
+    "campaigns": {
+      "heading": "Campaigns",
+      "title": "Title",
+      "description": "Description",
+      "brandName": "Brand Name",
+      "type": "Type",
+      "actions": "Actions",
+      "delete": "Delete",
+      "view": "View",
+      "csv": "Download CSV",
+      "excel": "Download Excel",
+      "fallbackText": "No Campaigns found",
+      "status": {
+        "verified": "Verified",
+        "inProgress": "In Progress",
+        "notStarted": "Not started",
+        "accepted": "Accepted"
+      },
+      "verificationStatusTooltip": "Tracking verification status",
+      "acceptButton": "Accept Campaign",
+      "acceptTooltip": "Accept campaign",
+      "acceptedTooltip": "Already accepted",
+      "acceptedLabel": "Accepted",
+      "testLinkTooltip": "Generate and copy a test link for the brand",
+      "testLinkButton": "Test Link",
+      "testLinkDialog": {
+        "title": "Ambassador tracking key",
+        "inputLabel": "Enter an ambassador's tracking key to test with",
+        "inputPlaceholder": "e.g. ATH_xxx",
+        "successTitle": "Test link generated",
+        "linkUnavailable": "Link unavailable",
+        "copy": "Copy to clipboard",
+        "copied": "Copied!",
+        "errorTitle": "Failed to generate test link"
+      }
+    },
+    "inquiry": {
+      "heading": "Inquiries",
+      "no": "Sl. No",
+      "first": "First Name",
+      "last": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "role": "Role",
+      "topic": "Topic",
+      "message": "Message",
+      "created": "Created At",
+      "fallback": "No inquiries found",
+      "action": "Actions"
+    },
+    "reports": {
+      "heading": "Reports",
+      "serialNo": "Serial No.",
+      "details": "Details",
+      "reason": "Reason",
+      "reported": "Reported",
+      "reporter": "Reporter",
+      "status": "Status",
+      "csv": "Download CSV",
+      "excel": "Download Excel",
+      "action": "Actions"
+    },
+    "helpCenter": {
+      "heading": "Admin Help center",
+      "add": "Add",
+      "no": "Sl. No.",
+      "title": "Title",
+      "type": "UserType",
+      "desc": "Description",
+      "created": "Created At",
+      "actions": "Actions",
+      "fallback": "Error loading data",
+      "fallback1": "Data not found",
+      "select": "Select",
+      "ambassador": "Sports Ambassador",
+      "fan": "Fan",
+      "brand": "Brand",
+      "create": "Create",
+      "cancel": "Cancel",
+      "details": "Details",
+      "updated": "Updated At",
+      "update": "Update",
+      "back": "Back",
+      "edit": "Edit"
+    },
+    "payments": {
+      "heading": "Transaction History",
+      "transaction": "Transaction ID",
+      "amount": "Amount",
+      "currency": "Currency",
+      "status": "Status",
+      "paymentMethod": "Payment Method",
+      "invoice": "Invoice ID",
+      "customer": "Customer ID",
+      "brand": "Brand ID",
+      "campaign": "Campaign ID",
+      "createdAt": "Created At",
+      "desc": "Description",
+      "action": "Action",
+      "created": "Transfer Created",
+      "create": "Create Transfer",
+      "fallback": "No transactions found.",
+      "payouts": "Ambassador Payouts (€50 Minimum Threshold)",
+      "statsLoad": "Loading stats...",
+      "eligible": "Eligible for Payout",
+      "threshold": "Below Threshold",
+      "eligibleAmount": "Eligible Amount",
+      "total": "Total Accumulated",
+      "fallbacktext": "Unable to load stats",
+      "processing": "Processing...",
+      "trigger": "Trigger All Payouts",
+      "refresh": "Refresh Stats",
+      "text": "Payouts run automatically on the 15th of each month. Only ambassadors with accumulated balance ≥ €50 will be paid.",
+      "ambBal": "Ambassador Balances",
+      "transferHistory": "Transfer History",
+      "invoicePayments": "Invoice Payments",
+      "ambassador": "Ambassador",
+      "role": "Role",
+      "balance": "Balance",
+      "account": "Stripe Account",
+      "tranferId": "TransferId",
+      "period": "Period",
+      "date": "Date",
+      "need": "Need",
+      "more": "more",
+      "eligible2": "Eligible",
+      "below": "Below Threshold",
+      "notConnected": "Not Connected",
+      "connected": "Connected",
+      "transfer": "Transfer",
+      "transferring": "Transferring...",
+      "noPayout": "No ambassadors with pending balances",
+      "noTranfer": "No transfer history found",
+      "credit": "Balance Credited",
+      "credited": "Credited",
+      "pending": "Pending",
+      "history": "Transaction History"
+    },
+    "settings": {
+      "heading": "Account Settings",
+      "email": "Email",
+      "sending": "Sending...",
+      "send": "Send Password Reset Link",
+      "para": "Click the button above to receive a password reset link in your email."
+    },
+    "sidebar": {
+      "heading": "Admin",
+      "dashboard": "Dashboard",
+      "users": "Users",
+      "banner": "Banner",
+      "blogs": "Blogs",
+      "faqs": "Faqs",
+      "collaboration": "Collaboration",
+      "campaign": "Campaigns",
+      "inquiry": "Inquiry",
+      "reports": "Reports",
+      "tags": "Tags",
+      "help": "Help-center",
+      "settings": "Settings",
+      "analytics": "Analytics",
+      "payments": "Payments",
+      "campaignInteraction": "Campaign-Interactions",
+      "logs": "Uploaded CSV users",
+      "csv": "Upload Users(csv)"
+    },
+    "header": {
+      "dashboard": "Dashboard",
+      "profile": "Profile",
+      "logout": "Logout"
+    },
+    "analytics": {
+      "error": "Error:",
+      "fallback": "No data available",
+      "heading": "Platform Analytics Dashboard",
+      "subHeading": "Total Platform Revenue",
+      "title": "Total Conversions",
+      "revenues": "revenue",
+      "subHeading2": "Top Performing Brands",
+      "campaigns": "campaigns",
+      "ambassadors": "ambassadors",
+      "conversions": "conversions",
+      "subHeading3": "Top Performing Ambassadors",
+      "brands": "brands",
+      "allAmbassador": "All Ambassadors",
+      "ambassador": "Ambassador",
+      "revenue": "Revenue",
+      "earning": "Earnings",
+      "conversion": "Conversions",
+      "brand": "Brands",
+      "campaign": "Campaigns",
+      "brandTable": {
+        "title": "All Brands",
+        "brand": "Brand",
+        "revenue": "Revenue",
+        "payout": "Payout",
+        "conversation": "Conversions",
+        "ambassador": "Ambassadors",
+        "campaign": "Campaigns"
+      },
+      "campaignTable": {
+        "title": "All Campaigns",
+        "campaign": "Campaign",
+        "brand": "Brand",
+        "revenue": "Revenue",
+        "payout": "Payout",
+        "conversions": "Conversions",
+        "ambassador": "Ambassadors"
+      }
+    }
+  },
+  "CampaignDetails": {
+    "category": "Campaign Category",
+    "type": "Campaign Type",
+    "msg": "Message Brand",
+    "compensation": "Compensation Type",
+    "commission": "Commission",
+    "amount": "Amount",
+    "flat": "Fee: ",
+    "duration": "Cookie Duration",
+    "days": "days",
+    "target": "Target Regions",
+    "content": "Campaign brief",
+    "status": "Campaign Status",
+    "going": "On-going",
+    "endDate": "Campaign End Date",
+    "gift": "*Product gifting or discount available - contact brand for details",
+    "assets": "Creative Assets",
+    "logo": "Logo",
+    "pics": "Product Photos",
+    "videos": "Product Videos",
+    "posts": "Example Posts",
+    "terms": "Campaign Terms",
+    "para": "I agree to follow campaign terms and conditions",
+    "para2": "I confirm that I will use appropriate disclosures (e.g., Ad, Sponsored, Paid partnership) when publishing commercial content.",
+    "joined": "Joined",
+    "cancel": "Cancel Request",
+    "loading": "Loading",
+    "request": "Request To Join",
+    "join": "Join",
+    "remove": "Remove from Profile",
+    "add": "Add to Profile",
+    "message": "Message",
+    "placeholder": "Type your message here...",
+    "cancel2": "Cancel",
+    "sending": "Sending...",
+    "send": "Send Message",
+    "selectAmbassador": "See attending ambassador",
+    "removeAmb": "Remove",
+    "creating": "Creating...",
+    "create": "Get Campaign Link",
+    "view": "Campaign Details",
+    "addProducts": "Add Products to Profile",
+    "showProducts": "Show Products",
+    "shareLink": "Share Link:",
+    "regenerate": "Regenerate",
+    "regenerating": "Regenerating",
+    "copy": "Copy",
+    "ProductShareLink": "Get Product Link",
+    "copied": "Copied!",
+    "shareLinkCopied": "Your product link has been copied to clipboard.",
+    "copyManually": "Tap the link to copy",
+    "copyInstructions": "Tap the link above to select it, then tap 'Copy' from the menu",
+    "ok": "OK",
+    "couldNotGenerateLink": "Could not generate share link",
+    "campaignProducts": "Campaign Products",
+    "searchProducts": "Search products...",
+    "removing": "Removing...",
+    "adding": "Adding...",
+    "removeStorefront": "Remove from Storefront",
+    "addStorefront": "Add to Storefront",
+    "products": "Products",
+    "addProfile": "Add to Profile",
+    "removeProfile": "Remove from Profile",
+    "download": "Download",
+    "styleGuides": "Style Guides",
+    "fonts": "Fonts: ",
+    "colors": "Colors: ",
+    "guidelines": "Guidelines: ",
+    "checkoutLinkCopied": "Link copied"
+  },
+  "MailChimp": {
+    "subscribe": "Subscribe",
+    "required": "indicates required",
+    "email": "Email Address",
+    "heading": "Join our newsletter to stay updated on the latest features and promotions.",
+    "subscribing": "By subscribing, you agree to our",
+    "policy": "Privacy Policy",
+    "consent": "and consent to receive updates.",
+    "placeholder": "Enter your email"
+  },
+  "helpCenterFan": {
+    "fan": "Fan",
+    "heading": "Fan tutorials",
+    "subHeading": "Welcome to the Help Center! Whether you're just getting started or looking to master advanced features, you'll find step-by-step guides, FAQs, and resources to support you every step of the way."
+  },
+  "helpCenterSports": {
+    "ambassador": "Ambassador",
+    "heading": "Ambassador tutorials",
+    "subHeading": "Welcome to the Help Center! Whether you're just getting started or looking to master advanced features, you'll find step-by-step guides, FAQs, and resources to support you every step of the way."
+  },
+  "helpCenterBrand": {
+    "brand": "Brands",
+    "heading": "Brand tutorials",
+    "subHeading": "Welcome to the Help Center! Whether you're just getting started or looking to master advanced features, you'll find step-by-step guides, FAQs, and resources to support you every step of the way."
+  },
+
+  "helpCenterCommon": {
+    "heading": "Need More Help? Contact Us.",
+    "para": "Our support team is here to assist you with any questions you may have.",
+    "btn": "Contact",
+    "fallback": "Blog title heading will go here"
+  },
+  "Earnings": {
+    "title": "Earnings",
+    "refresh": "Refresh",
+    "refreshing": "Refreshing...",
+    "debit": "Chargebacks",
+    "credit": "Commissions",
+    "net": "Net",
+    "fetchError": "Failed to fetch earnings",
+    "totalEarnings": "Total Earnings",
+    "totalConversions": "Total Conversions",
+    "totalShares": "Total Shares",
+    "byCampaign": " Earnings by Brand",
+    "campaign": "Brand",
+    "brand": "Brand",
+    "compType": "Compensation",
+    "conversions": "Conversions",
+    "earnings": "Earnings",
+    "noCampaigns": "No campaign metrics found for this period.",
+    "history": "Transaction History",
+    "date": "Date",
+    "eventName": "Event",
+    "status": "Status",
+    "amount": "Amount",
+    "noRecords": "No transaction history found for this period.",
+    "statuses": {
+      "pending": "Pending",
+      "locked": "Locked",
+      "cancelled": "Cancelled",
+      "paid": "Paid",
+      "upcoming": "Upcoming"
+    }
+  },
+  "Share": {
+    "facebook": "Share on Facebook",
+    "twitter": "Share on Twitter",
+    "copy": "Copy Link",
+    "btn1": "Copied!"
+  },
+  "Sweetalert": {
+    "accountCreated": "Account created successfully.",
+    "accountCreatedheading": "Verify your email to continue.",
+    "otpVerified": "Email verified successfully!",
+    "otpResent": "A new OTP has been sent to your email.",
+    "otpRateLimit": "Too many emails sent. Please wait a few minutes before requesting another OTP.",
+    "otpInvalid": "Invalid or expired OTP. Please try again.",
+    "otpResendFailed": "Failed to resend OTP. Please try again.",
+    "emailNotConfirmedWithResend": "Email not confirmed. A new verification code has been sent.",
+    "emailNotConfirmedCheckEmail": "Email not confirmed. Please check your email for the verification code.",
+    "backLogin": "Back to Login",
+    "accountError": "Sorry, failed to created account.Try again",
+    "paymentError": "Network error. Please check your connection.",
+    "paymentError1": "Sorry,failed to fetch transactions details",
+    "paymentSuccess": "Transfers created for transaction",
+    "publishCampaign": "Are you sure you want to publish this campaign?",
+    "publishCampaignSuccess": "Campaign published",
+    "publishCampaignError": "Failed to publish campaign",
+    "unauthorized": "Unauthorized",
+    "campaignNotFound": "Campaign not found",
+    "brandNotFound": "Brand not found for this campaign",
+    "trackingNotVerified": "Tracking must be verified before publishing",
+    "webhookRequired": "Webhook must be configured and tested before publishing non pay-per-click campaigns",
+    "paymentError2": "Failed to create transfer",
+    "notFound": "No user email found. Please try logging in again.",
+    "sure": "Are you sure?",
+    "addToProfile": "Add the product to your public profile!",
+    "reset": "Are you sure you want to reset password?",
+    "resetLink": "Password reset link sent to your email.",
+    "resetError": "Failed to send password reset link. Please try again.",
+    "invitationAccepted": "Invitation accepted!",
+    "authFailed": "Authentication failed",
+    "permission": "You don't have permission to pause campaign.",
+    "sorry": "Sorry",
+    "completeStripeMsg": "Please complete your VAT information before connecting Stripe.",
+    "goToVAT": "Go to VAT",
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "resume": "Do you want to resume this campaign?",
+    "pause": "Do you want to pause this campaign?",
+    "isResume": "Yes, resume it",
+    "isPause": "Yes, pause it",
+    "paused": "No, keep it paused",
+    "running": "No, keep it running",
+    "resumed": "Campaign Resumed",
+    "paused2": "Campaign Paused",
+    "resumeSuccess": "The campaign has been resumed successfully",
+    "pauseSuccess": "The campaign has been paused successfully",
+    "error": "Error",
+    "serverError": "Server Error. Please try again later.",
+    "campaignError": "Failed to change campaign state. Please try again.",
+    "delete": "You don't have permission to delete campaign.",
+    "deleteQues": "Do you want to delete this campaign?",
+    "deleteQuesUser": "Do you want to delete this user?",
+    "userDeleteSuccess": "User Deleted Successfully.",
+    "userDeleteError": "Failed to delete user.",
+    "yes": "Yes",
+    "no": "No",
+    "campaignDlt": "Campaign Deleted",
+    "dltSucess": "The campaign has been deleted successfully",
+    "dltError": "Failed to delete campaign. Please try again.",
+    "denied": "Permission Denied",
+    "text": "You do not have permission to send invitations.",
+    "permissionText": "Sorry, you don't have permission.",
+    "inviteText": "Are you sure you want to send invite?",
+    "inviteError": "Failed to send invitations",
+    "msg": "Are you sure you want to ",
+    "request": " this request?",
+    "accepted": "Accepted",
+    "declined": "Declined",
+    "failed": "Failed to ",
+    "req": " request",
+    "dltReq": "Are you sure you want to delete this request?",
+    "failedReq": "Failed to cancel request",
+    "invalid": "Invalid action",
+    "saveCmg": "Are you sure you want to save the changes?",
+    "save": "Save",
+    "savedCmg": "Campaign saved successfully",
+    "cmgFailed": "Failed to save campaign data",
+    "cmgCreated": "Campaign created successfully",
+    "cmgCreatedFailed": "Failed to create campaign",
+    "methodFailed": "Failed to Check Payment Methods",
+    "methodError": "An error occurred while checking payment methods. Please try again.",
+    "noMethod": "No Payment Method",
+    "reqMsg": "Please add a payment method before creating a campaign.",
+    "teamError": "Error fetching team members",
+    "permissionInvitations": "You do not have permission to send invitations.",
+    "invitationSent": "Invitation sent successfully!",
+    "invitationError": "Error sending invitation",
+    "deleteAc": "Are you sure you want to delete your account?",
+    "deleteTxt": "This will permanently delete your account. This action cannot be undone!",
+    "dltSuccess": "Account deleted successfully!",
+    "revoked": "Invitation revoked!",
+    "revokedError": "Failed to revoke invitation",
+    "revokePer": "You do not have permission to update team member permissions.",
+    "perUpdate": "Permission updated successfully!",
+    "perError": "Error updating permission",
+    "profile": "Profile updated successfully!",
+    "profileError": "An error occurred while updating the profile",
+    "notificationError": "An error occurred while updating preferences",
+    "success": "Success",
+    "paymentTxt": "Card added successfully",
+    "cardAddErrorText": "Network error. Please check your connection.",
+    "stripeAccountErrorText": "Failed to create Stripe account. Please try again",
+    "deleteCardSuccessText": "Do you want to delete this card?",
+    "deleteCardSuccessConfirmButtonText": "Yes, delete it",
+    "deleteCardSuccessCancelButtonText": "No, keep it",
+    "cardDeleteSuccess": "Card deleted successfully",
+    "campaignPausedInfo": "Cannot accept or decline requests for paused campaigns. Please resume the campaign first.",
+    "cardDeleteError": "Failed to delete card.",
+    "invoiceGenerateError": "Failed to generate invoices",
+    "invoiceSuccessText": "Invoice paid successfully",
+    "invoiceErrorText": "Failed to pay invoice",
+    "downloadInvoiceError": "Failed to download invoice. Please try again.",
+    "requestErrorText": "Failed to process request",
+    "passwordUpdateSuccess": "Password updated successfully!",
+    "saveChangeText": "Do you want to save the changes?",
+    "profileUpdateError": "An error occurred while updating the profile",
+    "teamErrorText": "Error fetching team members",
+    "actionRequiredTitle": "Action Required",
+    "actionRequiredTxt": "Your Stripe account needs additional verification. Please complete the required steps.",
+    "bankAccountTitle": "No Bank Account",
+    "bankAccountTxt": "Please add a bank account in the Stripe Dashboard to receive payments.",
+    "stripeConnectionError": "Failed to connect Stripe account. Please try again.",
+    "noStripeAccountTitle": "No Stripe Account",
+    "noStripeAccountTxt": "You need to connect a Stripe account to edit payment details.",
+    "stripeErrorTxt": "Failed to redirect to Stripe Dashboard. Please try again.",
+    "imageUploadError": "Please upload a valid image file (JPEG, PNG, or GIF).",
+    "imageSizeError": "Image size exceeds 5MB limit.",
+    "imageUploadTitle": "Photo updated",
+    "imageUploadErrorTxt": "Failed to update profile photo. Please try again.",
+    "msgSuccessTag": "Message sent successfully.",
+    "messageSent": "Message sent.",
+    "addFavTxt": "Added to favourites",
+    "removeFavTxt": "Remove from favourites",
+    "confirmApplyText": "Are you sure you want to send request?",
+    "sentRequest": "Request sent",
+    "requestCancelText": "Are you sure you want to cancel your request?",
+    "requestCancelled": "Request cancelled",
+    "failedSendText": "Failed to send",
+    "actionFailed": "Action failed",
+    "productProfileUpdateFailed": "Failed to update product profile",
+    "storefrontUpdateFailed": "Failed to update storefront",
+    "downloadSuccess": "Image Downloaded",
+    "downloadError": "Download Failed",
+    "downloadErrorText": "Unable to download the image. Please try again later.",
+    "bannerSucessTxt": "Banner added successfully",
+    "bannerDltTxt": "Are you sure you want to delete this banner?",
+    "deleteBtn": "Delete",
+    "updateBtn": "Update",
+    "bannerDltSuccess": "Banner deleted successfully",
+    "bannerUpdatedTxt": "Banner Updated",
+    "updateBannerTxt": "Are you sure you want to update this banner?",
+    "blogDeleteTxt": "Are you sure you want to delete this blog?",
+    "blogDeleteSuccessTxt": "Blog deleted successfully",
+    "blogDeleteErrorTxt": "Failed to delete blog",
+    "blogUpdateTxt": "Are you sure you want to update this blog?",
+    "blogUpdateSuccessTxt": "Blog updated successfully",
+    "viewPermissionTxt": "You cannot view this campaign",
+    "blockText": "Are you sure you want to block this user?",
+    "blockSuccess": "User blocked Successfully",
+    "unblockText": "Are you sure you want to unblock this user?",
+    "unBlockSuccess": "User unblocked Successfully",
+    "deleteFaqTxt": "Are you sure you want to delete this faq?",
+    "deleteFaqSuccessTxt": "FAQ deleted successfully",
+    "deleteHelpTxt": "Are you sure you want to delete?",
+    "deleteHelpSuccess": "Deleted successfully",
+    "deleteTagTxt": "Are you sure you want to delete this tag?",
+    "tagDeleted": "Tag Deleted",
+    "tagDeleteFailed": "Failed to delete tag",
+    "updateFaqTxt": "Are you sure you want to update this faq?",
+    "faqUpdated": "Faq updated successfully",
+    "updateHelpTxt": "Are you sure you want to update?",
+    "helpUpdated": "Updated successfully",
+    "addTagTxt": "Are you sure you want to add this tag?",
+    "updateTagTxt": "Are you sure you want to update this tag?",
+    "passwordResetEmailSent": "Password reset email sent. Please check your inbox.",
+    "profileUpdateThankYou": "Thank you for updating your profile!",
+    "logoutSuccess": "Logged out successfully",
+    "loggedInSuccess": "Logged in successfully",
+    "noPaymentMethodTitle": "No Payment Method",
+    "noPaymentMethodText": "Please add a payment method before proceeding with this action.",
+    "addPaymentMethod": "Add Payment Method",
+    "invalidRole": "Invalid user role. Please update your profile.",
+    "deleteAccountConfirm": "Yes, delete it!",
+    "failedToReportUser": "Failed to report user",
+    "failedToBlockUser": "Failed to block user",
+    "failedToUnblockUser": "Failed to unblock user",
+    "tagAddedSuccess": "Tag added successfully",
+    "tagUpdatedSuccess": "Tag updated successfully",
+    "confirmRemove": "Are you sure?",
+    "confirmRemoveText": "Do you want to remove ambassador from this campaign?",
+    "ambassadorRemovedSuccess": "Ambassador removed successfully",
+    "ambassadorRemoveFailed": "Failed to remove ambassador",
+    "removeSuccess": "Ambassador removed successfully",
+    "emailverification": "Email not verified or credential not match",
+    "emailNotConfirmedWithResendLink": "Email not confirmed. A new verification email has been sent to your email address.",
+    "emailNotConfirmedCheckEmailLink": "Email not confirmed. Please check your email for verification link.",
+    "emailNotConfirmedResendFailed": "Email not confirmed. Failed to resend verification email.",
+    "invalidCredentials": "Invalid email or password. Please check your credentials and try again.",
+    "userNotFoundSignUp": "No account found with this email address. Please sign up first.",
+    "userNotFoundPasswordReset": "No account found with this email address. Please check your email and try again.",
+    "invalidInvitationStatus": "Invalid invitation status. Please contact support.",
+    "inviterNotFound": "Invitation error. Please contact support.",
+    "networkError": "Network error. Please check your internet connection and try again.",
+    "googleLoginFailed": "Failed to initiate Google login",
+    "alreadyRegistered": "Email already registered.",
+    "favourites": "Do you want to remove this from favourites",
+    "removedFavourites": "Removed from favourites.",
+    "savedMsg": "Are you sure you want to save the changes?",
+    "profileUpdateSuccess": "Profile updated successfully.",
+    "notificationSuccess": "Notification preferences updated successfully!",
+    "added": "added to",
+    "removed": "removed from",
+    "storefront": "storefront!",
+    "profileAdd": "profile!",
+    "profileRemove": "profile!",
+    "product": "Product",
+    "to": "to",
+    "from": "from",
+    "yourStorefront": "your storefront?",
+    "thisProduct": "this product",
+    "sureMsg": "Are you sure you want to",
+    "yourProfile": "your profile?",
+    "termsRequired": "Terms Required",
+    "acceptTermsText": "Please accept both the Terms & Conditions and FTC Disclosure to join this campaign",
+    "revertMsg": "You won't be able to revert this!",
+    "deleted": "Deleted!",
+    "changes": "Changes saved successfully",
+    "created": "Campaign created successfully",
+    "sendInvite": "Are you sure you want to send invite?",
+    "cancelInvite": "Are you sure you want cancel request?",
+    "storefrontItems": "Failed to load storefront items",
+    "removeProduct": "Remove Product",
+    "removeMsg": "Are you sure you want to remove this product from your storefront?",
+    "remove": "Remove",
+    "removedTxt": "Removed",
+    "productRemoved": "Product removed from storefront",
+    "failesProductRemove": "Failed to remove product from storefront",
+    "tracking": "Tracking URL copied to clipboard",
+    "copied": "Copied!",
+    "failedUrl": "Failed to copy URL",
+    "accept": "Accept",
+    "decline": "Decline",
+    "failedUpdateProduct": "Failed to update product profile",
+    "failedUpdateStorefront": "Failed to update storefront",
+    "errorUpdateProfile": "Error updating profile",
+    "addProducts": "Products added to your profile use the same trackable links, so they’re always working for you even when you’re not actively promoting. Share your profile URL and let your followers discover all your favorites in one place.",
+    "removeProducts": "Do you want to remove this product from your profile?",
+    "productRemovedTxt": "Product removed from profile!",
+    "errorRemove": "Failed to remove product from profile",
+    "linkCopied": "Profile link copied",
+    "failedLink": "Failed to copy profile link",
+    "deleteMsgconfirmation": "Are you sure you want to delete the conversion?",
+    "chatDeletedSuccess": "Chat deleted successfully",
+    "chatDeletedFailed": "Failed to delete conversation",
+    "inquirySent": "Inquiry sent successfully",
+    "inquiryFailed": "Failed to send inquiry",
+    "inquiryDeleted": "Inquiry delete successfully",
+    "couldNotGenerateLink": "Add product to your profile to generate share link.",
+    "add": "Add",
+    "notNow": "Not now"
+  },
+  "ProductSelection2": {
+    "heading": "Product Selection",
+    "shopifyRequiredTitle": "Shopify Integration Required",
+    "shopifyRequiredDesc": "To select products for your campaign, you need to integrate your Shopify store first.",
+    "noShopifyTitle": "No Shopify Integration",
+    "noShopifyDesc": "You can run campaigns on our platform without Shopify. But without the Shopify integration, ambassadors can’t add products to their storefronts or promote specific products. ",
+    "continueWithoutProducts": "Continue without Products",
+    "selectProducts": "Select the products you want to include in this campaign.",
+    "selectedProducts": "Selected Products",
+    "remove": "Remove",
+    "loading": "Loading products...",
+    "error": "Failed to load products. Please try again.",
+    "empty": "No products found in your Shopify store.",
+    "addShopify": "Add Shopify Integration"
+  },
+  "CompensationRestriction": {
+    "shopifyOnlyPayPerSale": "With Shopify integration, only Pay Per Sale compensation is available.",
+    "shopifyRequired": "To use other compensation types, disconnect your Shopify integration.",
+    "removeSuccess": "Ambassador removed successfully",
+    "cardDeleteSucess": "Card Deleted Successfully"
+  },
+  "Compensation": {
+    "types": {
+      "pay-per-sale": "Pay per sale",
+      "pay-per-click": "Pay per click",
+      "pay-per-lead": "Pay per lead",
+      "flat-fee": "Flat fee"
+    }
+  },
+  "Payments": {
+    "heading": "Brand Payments",
+    "start": "Start",
+    "loading": "Loading...",
+    "refresh": "Refresh",
+    "csv": "Export CSV",
+    "total": "Total Paid",
+    "pending": "Pending Payments",
+    "upcoming": "Upcoming Payment Due",
+    "payments": "Payments by Campaign",
+    "fallback": "No data",
+    "text": "Prices shown include VAT and Stripe processing fees.",
+    "text2": "These totals reflect the full amount you pay, including VAT (when applicable) and Stripe processing fees.",
+    "paymentsOverTime": "Payments Over Time",
+    "records": "Detailed Payment Records",
+    "date": "Date",
+    "end": "End",
+    "name": "Affiliate Name",
+    "campaign": "Campaign",
+    "trackingCode": "Tracking Code",
+    "trackingUrl": "Tracking URL",
+    "sale": "Sale Amount",
+    "paid": "Commission Paid",
+    "status": "Status",
+    "commissionStatus": "Commission Status",
+    "statuses": {
+      "pending": "Pending",
+      "locked": "Locked",
+      "cancelled": "Cancelled",
+      "paid": "Paid",
+      "upcoming": "Upcoming"
+    },
+    "fallback2": "No records",
+    "cancelCommission": "Cancel Commission",
+    "confirmCancel": "Are you sure you want to cancel this commission? This will add a negative adjustment to your invoice.",
+    "notConnected": "Not Connected",
+    "sports": {
+      "verified": "our Stripe account is verified and ready for payments.",
+      "action": "Action required: Complete verification in Stripe Dashboard. Pending requirements:",
+      "pending": "Your Stripe account is pending verification. Check the Stripe Dashboard for updates.",
+      "statusCheck": "Checking verification status...",
+      "connection": "No Stripe account connected.",
+      "settings": "Payment Settings",
+      "accountId": "Stripe Account ID",
+      "bankName": "Bank Name:",
+      "accountNumber": "Account Number:",
+      "accountHolder": "Account Holder:",
+      "fallback": "No bank account is connected. Add it in your Stripe dashboard.",
+      "connected": "Stripe account connected",
+      "connect": "Connect Stripe account",
+      "edit": "Edit Stripe account",
+      "verification": "Complete Stripe verification",
+      "notConnected": "Not Connected",
+      "stripeTab": "Stripe",
+      "vatTab": "VAT",
+      "redirectOnboarding": "Redirecting to Stripe onboarding...",
+      "noStripeAccount": "No Stripe account connected",
+      "redirectDashboard": "Redirecting to Stripe Dashboard...",
+      "redirectDashboardFailed": "Failed to redirect to Stripe Dashboard",
+      "unknown": "unknown",
+      "na": "N/A",
+      "notSet": "Not set",
+      "notProvided": "Not provided",
+      "verificationCheckFailed": "Failed to check Stripe account verification",
+      "completed": "Completed",
+      "required": "Required",
+      "locked": "Locked"
+    }
+  },
+  "NotFound": {
+    "heading": "Page Not Found",
+    "subHeading": "Oops! The page you're looking for doesn't exist or has been moved.",
+    "url": "Go to Home"
+  },
+  "Unauthorized": {
+    "heading": "Access Denied",
+    "subHeading": "You need to be logged in to view this page. Please sign in to continue.",
+    "loginButton": "Sign In",
+    "homeButton": "Go to Home"
+  },
+  "Dashboard": {
+    "heading": "My Account",
+    "myAccount": "My profile",
+    "welcomeFan": "Welcome to Sbonssy. From here, you can manage settings and see what’s new on our platform.",
+    "welcomeBrand": "Let ambassadors be your authentic brand's voice and pay only for real results",
+    "welcomeAmbassador": "Welcome to Sbonssy. From here, you can access your profile, manage settings and discover exciting campaigns. Start exploring and join the campaigns today!",
+    "welcomeDefault": "Welcome to Sbonssy. From here, you can access your profile, manage settings and discover exciting campaigns. Start exploring and join the campaigns today!",
+    "loadingCampaigns": "Loading campaigns...",
+    "loadingJoinedCampaigns": "Loading joined campaigns...",
+    "loadingAmbassadors": "Loading ambassadors...",
+    "loadingFavourites": "Loading favourites...",
+    "noCampaigns": "No campaigns yet.",
+    "noJoinedCampaigns": "No joined campaigns yet.",
+    "noAmbassadors": "No ambassadors yet.",
+    "noFavourites": "No favourites yet.",
+    "latestCampaigns": "Latest Campaigns",
+    "campaign": "Campaign",
+    "untitledCampaign": "Untitled Campaign",
+    "ambassador": "Ambassador",
+    "shopifyConnected": "Shopify connected. Open the app to manage products and campaigns.",
+    "shopify": "Using Shopify? Connect your store to simplify campaign creation.",
+    "app": "Open Shopify App",
+    "connect": "Connect Shopify",
+    "shopifyHeading": "Shopify",
+    "latestAmbassadors": "Latest Ambassadors",
+    "saved": "Saved",
+    "analytics": "Analytics",
+    "myCampaigns": "My Campaigns",
+    "latestBrands": "Latest Brands",
+    "connectShopify": "Connect Shopify",
+    "connectShopifyStore": "Connect your Shopify store",
+    "connectShopifyDesc": "Enter only your store subdomain from your Shopify admin URL.",
+    "connectShopifyExample": "Example: If your URL is admin.shopify.com/store/my-store, enter: my-store",
+    "connectShopifyWarning": "⚠️ Make sure the subdomain is correct. An incorrect subdomain will lead to a 'page not found' error.",
+    "storeNamePlaceholder": "my-store",
+    "cancelBtn": "Cancel",
+    "continueBtn": "Continue",
+    "storeNameError": "Please enter your store name",
+    "shopifyConfigError": "Shopify app name is not configured",
+    "failedToLoadData": "Failed to load data",
+    "analyticsPreviewAlt": "Analytics preview",
+    "ambassadorLabel": "Ambassador",
+    "welcome": "Welcome",
+    "welcomeMessage": "Turn your influence into income by sharing authentic recommendations and getting paid for real engagement.",
+    "earnings": "Earnings",
+    "conversions": "Conversions",
+    "shares": "Shares",
+    "activeCampaigns": "Active Campaigns",
+    "latestCampaignsCount": "Latest Campaigns",
+    "updateStorefront": "Update Your Profile",
+    "viewAll": "View All",
+    "loading": "Loading campaigns...",
+    "exploreCampaigns": "Explore Campaigns",
+    "setupStripe": "Connect Stripe",
+    "stripeSetupRequired": "You're one step away",
+    "stripeSetupMessage": "Connect Stripe to unlock campaigns and start earning.",
+    "stripeSetupWarning": "Once connected, you'll be able to join campaigns and receive payments.",
+    "remindLater": "Remind Me Later",
+    "createCampaign": "Create Campaign",
+    "manageShopify": "Manage Shopify",
+    "revenue": "Revenue",
+    "clicks": "Clicks",
+    "lastWeek": "Last Week",
+    "last30Days": "Last 30 Days",
+    "yearToDate": "Year to Date"
+  },
+  "BlogDetail": {
+    "fallback": "No blog found.",
+    "published": "Published on",
+    "content": "No content available."
+  },
+  "Mapbox": {
+    "placeholder": "Select a country",
+    "selected": "Selected",
+    "loading": "Loading countries...",
+    "error": "Error loading countries"
+  },
+  "Cookies": {
+    "heading": "Cookie settings",
+    "para": "Manage your preferences for cookies used on this site. You can update your consent for statistics and marketing cookies at any time.",
+    "btn": "Open cookie preferences"
+  },
+
+  "Validation": {
+    "emailRequired": "Enter a valid email address",
+    "passwordMin": "Must be at least 6 characters",
+    "passwordRequired": "This field is required",
+    "confirmPasswordMatch": "Values must match",
+    "confirmPasswordRequired": "This field is required",
+    "termsRequired": "You must accept this field",
+    "ageRequired": "You must confirm your age",
+    "roleRequired": "This field is required",
+    "pleaseSelectRole": "Please select a role before registering with Google.",
+    "failedToInitiateGoogleRegistration": "Failed to initiate Google registration",
+    "hidePassword": "Hide password",
+    "showPassword": "Show password",
+    "firstNameRequired": "First name is required",
+    "lastNameRequired": "Last name is required",
+    "genderRequired": "Gender is required",
+    "sportsMin": "Select at least one sport",
+    "levelRequired": "Level is required",
+    "teamNameRequired": "Team name is required",
+    "locationRequired": "Country is required",
+    "locationNameRequired": "Country is required",
+    "biographyRequired": "Biography is required",
+    "biographyMax": "Biography must be 500 characters or less",
+    "achievementsMax": "Achievements must be 500 characters or less",
+    "recordsMax": "Records must be 500 characters or less",
+    "goalsMax": "Goals must be 500 characters or less",
+    "interestsMin": "Select at least one",
+    "subRoleRequired": "Sub role is required",
+    "onboardPhotosMin": "Upload at least one photo",
+    "termsAcceptedRequired": "You must accept the Terms of Service",
+    "invalidInstagramUrl": "Invalid Instagram URL",
+    "invalidFacebookUrl": "Invalid Facebook URL",
+    "invalidTikTokUrl": "Invalid TikTok URL",
+    "invalidYouTubeUrl": "Invalid YouTube URL",
+    "invalidXUrl": "Invalid X (Twitter) URL",
+    "invalidWebsiteUrl": "Invalid Website URL",
+    "invalidLinkedInUrl": "Invalid LinkedIn URL",
+    "companyNameRequired": "Company name is required",
+    "jobTitleRequired": "Job title is required",
+    "vatNumberRequired": "VAT number is required",
+    "legalNameRequired": "Legal name is required",
+    "addressRequired": "Address is required",
+    "referencesRequired": "References are required",
+    "companyInterestRequired": "Company interests are required",
+    "companyInterestMax": "Select at most 5 interests",
+    "companyInterestMin": "Please select at least one interest",
+    "companyIntroRequired": "Company introduction is required",
+    "websiteUrlRequired": "Website URL is required",
+    "websiteUrlInvalid": "Please enter a valid website URL",
+    "workingPeopleRequired": "Number of working people is required",
+    "companyLogoRequired": "Company logo is required",
+    "companyNumberRequired": "Company number is required",
+    "taxNumberRequired": "Tax number is required",
+    "imageRequired": "Image is required"
+  },
+  "globalSearch": {
+    "brand": "Brand",
+    "ambassador": "Ambassador",
+    "noResults": "No results",
+    "brands": "Brands",
+    "ambassadors": "Ambassadors",
+    "showAllResults": "Show all results"
+  },
+  "csv": {
+    "heading": "User CSV Upload",
+    "desc": "Upload CSV files to bulk import users into Supabase and MongoDB",
+    "instructionHeading": "Upload Instructions",
+    "creationHeading": "User Creation Process:",
+    "creationSteps": {
+      "one": "Users are created in both Supabase (authentication) and MongoDB (profile data)",
+      "two": "Password is set to the same value as the email address",
+      "three": "Email verification is set to false (users need to verify manually)",
+      "four": "User role and subRole are determined from the userType in PublicData"
+    },
+    "mappingHeading": "User Type Mapping:",
+    "role": {
+      "one": {
+        "label": "brand",
+        "head": "→ role: brand"
+      },
+      "two": {
+        "label": "fan",
+        "head": "→ role: fan"
+      },
+      "three": {
+        "label": "Any other type",
+        "head": "(athlete/coach/team/influencer/etc.) → role: sports-ambassador"
+      }
+    },
+    "error": {
+      "heading": "Error Handling:",
+      "steps": {
+        "one": "Duplicate users (by email) are skipped",
+        "two": "If Supabase user creation fails, the process continues with next user",
+        "three": "If MongoDB user creation fails, the Supabase user is cleaned up",
+        "four": "Detailed error report can be downloaded for failed records"
+      }
+    },
+    "format": {
+      "heading": "CSV Format Examples:",
+      "simple": {
+        "heading": "Simple Format:",
+        "desc": {
+          "one": "email,userType",
+          "two": "john@example.com,athlete",
+          "three": "brand@company.com,brand",
+          "four": "fan@example.com,fan"
+        }
+      },
+      "legacy": {
+        "heading": "Legacy Format (Auto-converted):",
+        "desc": {
+          "one": "Id,FirstName,LastName,EmailAddress,PublicData",
+          "two": "1,John,Doe,john@example.com,{\"userType\":\"athlete\"}",
+          "three": "2,Jane,Smith,jane@company.com,{\"userType\":\"brand\"}"
+        }
+      }
+    },
+    "dropHeading": "Drop your CSV file here or click to browse",
+    "support": "Supported format: CSV files only",
+    "file": "Select File",
+    "formatHeading": "Supported CSV Formats:",
+    "uploadation": {
+      "heading": "Simple Format:",
+      "role": {
+        "one": {
+          "label": "email:",
+          "head": "User's email address"
+        },
+        "two": {
+          "label": "userType:",
+          "head": "User type(brand/fan/athlete/etc.)"
+        }
+      },
+      "legacy": "Legacy Format (Auto-detected):",
+      "steps": {
+        "one": {
+          "label": "EmailAddress:",
+          "head": "Will be mapped to email"
+        },
+        "two": {
+          "label": "PublicData",
+          "head": "JSON containing userType will be extracted"
+        },
+        "three": "Other columns will be ignored"
+      },
+      "para": "Password will be set to email address for all users"
+    },
+    "buttons": {
+      "one": "Uploading...",
+      "two": "Upload CSV",
+      "three": "Clear",
+      "reset": "Upload Another CSV"
+    },
+    "processing": "Processing CSV...",
+    "results": "Upload Results",
+    "records": "Total Records",
+    "success": "Successful",
+    "failed": "Failed",
+    "errors": "Errors",
+    "errorReport": "Download Error Report",
+    "row": "Row",
+    "and": "and",
+    "more": "more errors.",
+    "report": "Download the full report to see all errors.",
+    "successMsg": {
+      "msg": "Upload Completed Successfully!",
+      "para": "users have been created in both Supabase and MongoDB. All users have been set with their email as password and email verification is set to false."
+    }
+  },
+
+  "VAT": {
+    "title": "Profile tax information",
+    "countryLabel": "Country of registration",
+    "selectCountry": "Select your country",
+    "euCountriesLabel": "EU Countries",
+    "nonEuCountriesLabel": "Non-EU Countries",
+    "euCountries": "EU Countries",
+    "nonEuCountries": "Non-EU Countries",
+    "nonEu": {
+      "businessTypeQuestion": "Does your company have an official business registration number or tax ID in your country?",
+      "hasRegistrationNumber": "Yes, my company has a business registration or tax number",
+      "noRegistrationNumber": "No, I am a private individual (no registered business)",
+      "privateIndividual": "I am a private individual (no registered business)",
+      "registrationNumberLabel": "Business registration or tax identification number",
+      "registrationNumberPlaceholder": "Enter your business registration or tax ID",
+      "registrationNumberRequired": "Business registration number is required",
+      "registrationNumberTooShort": "Business registration number is too short"
+    },
+    "numbervalidation": "VAT number is valid",
+    "format": "Format validation only - VIES verification recommended",
+    "finland": {
+      "question": "Is your company registered for VAT in Finland?",
+      "vatRegistered": "Yes, my company is registered for VAT in Finland",
+      "businessNoVat": "No, my company is not registered for VAT in Finland",
+      "vatNumberLabel": "Finnish VAT number (format: FI12345671)"
+    },
+    "eu": {
+      "vatNumberLabel": "Please enter your EU VAT number (for example SE12345678901, EE123456789)."
+    },
+
+    "euVatQuestion": "Is your company registered for VAT in your own country?",
+    "euVatRegistered": "Yes, my company has a valid EU VAT number",
+    "businessNoVAT": "No, my company does not have a VAT number",
+    "individual": "I am a private individual (no registered business)",
+    "company": "Company",
+    "euVatNumberLabel": "EU VAT number (e.g., SE12345678901)",
+    "vatNumberPlaceholder": "Enter your VAT number",
+    "validateVat": "Validate VAT number",
+    "saveButton": "Save information",
+    "saving": "Saving...",
+    "success": "VAT information saved successfully",
+    "error": "Error saving VAT information",
+    "validationMessages": {
+      "vatRequired": "VAT number is required"
+    },
+
+    "businessType": "Business Type",
+    "vatStatus": "VAT Status",
+
+    "validation": {
+      "valid": "Valid VAT number",
+      "invalid": "Invalid VAT number",
+      "pending": "Validation in progress...",
+      "company": "Company"
+    },
+    "infoNote": "We ask for your VAT and business information to ensure that your payouts are processed correctly under international tax and accounting rules. If you are VAT registered in Finland, your payouts will include 25.5% VAT. If you are based in another EU country with a valid VAT number, no VAT is added (reverse charge applies). If you are based outside the EU, no VAT is added (export of services). We still need your registration information for bookkeeping and reporting purposes.",
+    "validating": "Validating...",
+    "saveInformation": "Save Information",
+    "ui": {
+      "currentStatus": "Current VAT Status",
+      "registrationCountry": "Registration Country",
+      "businessType": "Business Type",
+      "vatNumber": "VAT Number",
+      "vatStatus": "VAT Status",
+      "vatOnCommission": "VAT on Commission",
+      "lastChecked": "Last Checked",
+      "yes": "Yes",
+      "no": "No",
+      "updating": "Updating VAT information...",
+      "manageDescAmb": "Select the country and the type of payment recipient that apply to you below. We need this information in order to process your future earnings correctly.",
+      "manageDescBrand": "Select your country of registration, then provide your business registration number, VAT number, or tax ID so we can apply the correct tax treatment.",
+      "updateSuccessTitle": "Success",
+      "updateSuccessText": "VAT information updated successfully",
+      "loadError": "Failed to load VAT information",
+      "updateError": "Failed to update VAT information",
+      "updateBeforeCard": "Please update your VAT information (VAT tab) before adding a card.",
+      "completeVATFirst": "Please complete your VAT information first before accessing Stripe settings."
+    },
+    "vies": {
+      "tooShort": "VAT number too short",
+      "nonEu": "Not an EU country or VIES not supported",
+      "invalidFormat": "Invalid VAT number format",
+      "notFound": "VAT number not found in VIES database",
+      "fallbackWarning": "VIES service unavailable - format validation used",
+      "validationUnavailable": "Validation service unavailable: {message}",
+      "formatNote": "Format validation passed - VIES verification recommended"
+    },
+    "rules": {
+      "finnishVatNote": "Finnish VAT registered - 25.5% VAT added to commission",
+      "euReverseChargeNote": "EU reverse charge - no VAT added to payout",
+      "noVatNote": "No VAT registration or invalid VAT - no VAT added"
+    },
+    "invoice": {
+      "domesticNote": "Finnish domestic supply - 25.5% VAT applied",
+      "reverseChargeNote1": "VAT 0%, reverse charge (Article 196 of Council Directive 2006/112/EC)",
+      "reverseChargeNote2": "Customer liable for VAT in their country",
+      "euNoVatNote": "EU customer without valid VAT number - Finnish VAT applied",
+      "exportNote": "VAT 0%, export of services outside the EU"
+    }
+  },
+  "Products": {
+    "title": "My Products",
+    "description": "Your Shopify store is connected and syncing automatically, so your products and prices are always current. Just choose which products you'd like to include when you create a campaign.",
+    "descriptionNotConnected": "Connect your Shopify store to automatically sync your latest products, prices, and commission rates. Once connected, your catalog will stay up to date and you'll be able to select products directly when creating new campaigns.",
+    "shopifyConnected": "Shopify connected",
+    "connectShopify": "Connect Shopify",
+    "searchPlaceholder": "Search products...",
+    "productsFound": "products found",
+    "productFound": "product found",
+    "noProductsFound": "No products found",
+    "noProductsAvailable": "No products available",
+    "shopifyNotConnected": "Shopify not connected",
+    "noProductsInStore": "No products found in your Shopify store.",
+    "searchNoResults": "No products match \"{searchTerm}\". Try adjusting your search terms.",
+    "connectShopifyStore": "Connect Shopify Store",
+    "failedToLoad": "Failed to load products. Please try again.",
+    "somethingWentWrong": "Something went wrong",
+    "logInHere": "Log in here",
+    "viewProduct": "View",
+    "buyProduct": "Buy"
+  },
+  "HowItWorksSection": {
+    "sectionTitle": "How It Works",
+    "subtitle": "Choose your role to see how you can get started on our platform.",
+    "tabs": {
+      "ambassadors": {
+        "label": "Ambassadors",
+        "heading": "Monetize Your Influence",
+        "tagline": "ATHLETES AND CREATORS",
+        "steps": {
+          "step1": {
+            "title": "Sign Up & Create Your Profile",
+            "description": "Ambassadors join in minutes. Set up your profile, tell us who you are and unlock your personalized dashboard."
+          },
+          "step2": {
+            "title": "Discover & Share Campaigns",
+            "description": "Discover brand partnerships, build your own storefront and share unique links your fans will love."
+          },
+          "step3": {
+            "title": "Earn & Track Your Impact",
+            "description": "Turn your influence into income. Earn commissions from fan engagement and monitor your performance with real-time analytics."
+          }
+        },
+        "description": "Earn commissions when your fans shop through your links. No sales pressure, just authentic recommendations that benefit all.",
+        "cardHeading": "Grow Your Revenue Stream",
+        "ctaButton": "Sign Up",
+        "ctaButton2": "Learn More",
+        "ctaRoute": "/authentication",
+        "learnMoreRoute": "/athletes-teams",
+        "image": "https://res.cloudinary.com/dz2506ydg/image/upload/v1772103946/sbonssy_feb26_web_1_idkk0k.webp"
+      },
+      "brands": {
+        "label": "Brands",
+        "heading": "Scale Through Sports",
+        "tagline": "BRANDS",
+        "steps": {
+          "step1": {
+            "title": "Sign Up & Create a Campaign",
+            "description": "Create your account and build a campaign in minutes. Add what you want ambassadors to promote, set commissions and choose your access settings."
+          },
+          "step2": {
+            "title": "Partner with Sport Ambassadors",
+            "description": "Get discovered by verified athletes, teams and sport creators. Launch at scale by activating multiple ambassadors to reach diverse fanbases."
+          },
+          "step3": {
+            "title": "Track & Optimize Performance",
+            "description": "Monitor clicks, conversions, and revenue in real time. Use live insights to refine campaigns and maximize ROI — only pay when it works."
+          }
+        },
+        "description": "Commission based model means you invest in actual conversions, not impressions. Real ROI, real growth.",
+        "cardHeading": "Pay Only For Results",
+        "ctaButton": "Get Started",
+        "ctaButton2": "Learn More",
+        "ctaRoute": "/authentication",
+        "learnMoreRoute": "/brands",
+        "image": "https://res.cloudinary.com/dz2506ydg/image/upload/v1772103951/sbonssy_feb26_web_9_pigwgu.webp"
+      },
+      "fans": {
+        "label": "Fans",
+        "heading": "Support Made Simple",
+        "tagline": "FANS",
+        "steps": {
+          "step1": {
+            "title": "Discover Ambassadors You Love",
+            "description": "Browse athletes, teams and sport creators. Explore their profiles and discover authentic recommendations they personally stand behind."
+          },
+          "step2": {
+            "title": "Shop Through Their Recommendations",
+            "description": "Find gear, services and offers shared by your favorite ambassadors. You'll shop directly on the brand's website — same products, same prices."
+          },
+          "step3": {
+            "title": "Support Them at No Extra Cost",
+            "description": "Every time you shop through an ambassador's link, they earn a commission from the brand. You get what you love, and they get rewarded."
+          }
+        },
+        "description": "Find what sport-minded people recommend, choose who to support and shop directly from brand stores.",
+        "cardHeading": "The Fan-Powered Marketplace",
+        "ctaButton": "Sign Up",
+        "ctaButton2": "Learn More",
+        "ctaRoute": "/authentication",
+        "learnMoreRoute": "/fans",
+        "image": "https://res.cloudinary.com/dz2506ydg/image/upload/v1772694618/sbonssy_feb26_11_ttaehv.webp"
+      }
+    }
+  }
+}

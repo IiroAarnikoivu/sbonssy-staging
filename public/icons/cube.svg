@@ -1,0 +1,12 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left face (black) -->
+  <path d="M24 4L6 13V35L24 44V4Z" fill="#0C0D06"/>
+  <!-- Right face (white) -->
+  <path d="M24 4L42 13V35L24 44V4Z" fill="#FFFFFF"/>
+  <!-- Top face (white) -->
+  <path d="M24 4L6 13L24 22L42 13L24 4Z" fill="#FFFFFF"/>
+  <!-- Cube outline -->
+  <path d="M24 4L6 13V35L24 44L42 35V13L24 4Z" stroke="#0C0D06" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Edge lines (diagonal in top, vertical below) -->
+  <path d="M24 22V44M6 13L24 22L42 13" stroke="#0C0D06" stroke-width="2" stroke-linejoin="round"/>
+</svg>
