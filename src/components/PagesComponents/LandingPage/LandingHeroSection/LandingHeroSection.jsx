@@ -26,9 +26,6 @@ export default function LandingHeroSection({
   const router = useRouter();
   const locale = useLocale();
   const [mounted, setMounted] = useState(false);
-  const [isMobile, setIsMobile] = useState(
-    typeof window !== "undefined" ? window.innerWidth < 1024 : false
-  );
 
   // Safely pick localized value from object {en, fi} or return string as-is
   const pick = (val) => {
@@ -41,20 +38,6 @@ export default function LandingHeroSection({
   useEffect(() => {
     setMounted(true);
     setSwiperReady(true); // ensures refs are attached before rendering Swiper
-  }, []);
-
-  // Detect mobile vs desktop for background image selection
-  useEffect(() => {
-    const handleResize = () => {
-      try {
-        setIsMobile(window.innerWidth < 1024); // Tailwind lg breakpoint
-      } catch (e) {
-        // no-op for SSR
-      }
-    };
-    handleResize();
-    window.addEventListener("resize", handleResize);
-    return () => window.removeEventListener("resize", handleResize);
   }, []);
 
   // Handle Swiper Slide Change
@@ -116,21 +99,12 @@ export default function LandingHeroSection({
   const getOptimizedUrl = (url) => {
     if (typeof url !== "string" || !url.includes("cloudinary")) return url;
     if (url.includes("upload/")) {
-      // Mobile: crop to portrait, centered (g_center instead of g_auto)
-      // Desktop: keep original with DPR support
-      const params = isMobile
-        ? "f_auto,q_80,c_fill,g_center,ar_9:16,w_828"
-        : "f_auto,q_80,w_1920";
-      return url.replace("upload/", `upload/${params}/`);
+      return url.replace("upload/", "upload/f_auto,q_80,w_1920/");
     }
     return url;
   };
 
-  const currentHeroImg = (() => {
-    const resolvedDesktop = typeof bgImage === "string" ? bgImage : bgImage?.src;
-    const resolvedMobile = typeof mblImg === "string" ? mblImg : mblImg?.src;
-    return isMobile ? resolvedMobile : resolvedDesktop;
-  })();
+  const currentHeroImg = typeof bgImage === "string" ? bgImage : bgImage?.src;
 
   return (
     <section className="overflow-hidden">
@@ -139,7 +113,7 @@ export default function LandingHeroSection({
           src={getOptimizedUrl(currentHeroImg)}
           alt="Hero background"
           fill
-          priority
+          loading="eager"
           className="object-cover"
           style={{ objectPosition: bgPosition }}
           sizes="100vw"
