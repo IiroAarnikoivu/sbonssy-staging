@@ -186,12 +186,12 @@ export default async function Home() {
   };
   return (
     <>
-      <LandingHeroSection
+     {/*  <LandingHeroSection
         bannerData={bannerData}
         data={HeroTile}
         bgImage="https://res.cloudinary.com/dz2506ydg/image/upload/v1773039812/sbonssy_feb26_web_2_kp4tyk.jpg"
         mblImg="https://res.cloudinary.com/dz2506ydg/image/upload/v1773039812/sbonssy_feb26_web_2_kp4tyk.jpg"
-      />
+      /> */}
       <SupportSportsSection />
 
       {/* <Carousel3DContainer data={Carousel.heading} images={[]} /> */}
