@@ -116,7 +116,7 @@ export const sports = [
   "Golf",
   "Gymnastics",
   "Handball",
-  "Hydrox",
+  "Hyrox",
   "Ice hockey",
   "Lacrosse",
   "Martial arts",
