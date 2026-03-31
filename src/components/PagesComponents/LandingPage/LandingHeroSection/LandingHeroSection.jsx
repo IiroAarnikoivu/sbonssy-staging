@@ -99,7 +99,9 @@ export default function LandingHeroSection({
   const getOptimizedUrl = (url) => {
     if (typeof url !== "string" || !url.includes("cloudinary")) return url;
     if (url.includes("upload/")) {
-      return url.replace("upload/", "upload/f_auto,q_80,w_1920/");
+      const isMobile = typeof window !== "undefined" && window.innerWidth < 768;
+      const w = isMobile ? "w_828" : "w_1920";
+      return url.replace("upload/", `upload/f_auto,q_80,${w}/`);
     }
     return url;
   };
