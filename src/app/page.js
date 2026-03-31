@@ -192,6 +192,7 @@ export default async function Home() {
         bgImage="https://res.cloudinary.com/dz2506ydg/image/upload/v1773039812/sbonssy_feb26_web_2_kp4tyk.jpg"
         mblImg="https://res.cloudinary.com/dz2506ydg/image/upload/v1773039812/sbonssy_feb26_web_2_kp4tyk.jpg"
       />
+      <SupportSportsSection />
     </>
   );
 }
