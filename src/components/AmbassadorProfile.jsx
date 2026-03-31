@@ -7,6 +7,7 @@ import useInterestsTranslations from "@/hook/useInterestsTranslations";
 import useSportsTranslations from "@/hook/useSportsTranslations";
 import useSubRoleTranslations from "@/hook/useSubRoleTranslations";
 import api from "@/lib/axios";
+import { copyToClipboard } from "@/lib/clipboard";
 import { toCamelCase, uploadToCloudinary } from "@/lib/helper";
 import { useAuthStore } from "@/store/authStore";
 import IconsLibrary from "@/util/IconsLibrary";
@@ -287,6 +288,7 @@ const AthleteProfile = ({ id, subRole, initialDetails, initialCampaigns }) => {
     currentPage: 1,
   });
 
+  const [profileUrl, setProfileUrl] = useState("");
   const socket = useSocket();
   const [message, setMessage] = useState("");
   const [messageDetails, setMessageDetails] = useState(null);
@@ -639,43 +641,36 @@ const AthleteProfile = ({ id, subRole, initialDetails, initialCampaigns }) => {
 
 
 
-  const getShareUrl = useCallback(async () => {
-    const origin = typeof window !== "undefined" ? window.location.origin : "";
-    const user = state.details;
-    if (!user) return "";
-
-    // Use resolveAmbassadorSlug to handle duplicate names (e.g., iiro2)
-    const { resolveAmbassadorSlug } = await import("@/util/resolveAmbassadorSlug");
-    const slug = await resolveAmbassadorSlug(user);
-    return slug ? `${origin}/ambassador/${slug}` : "";
+  // Pre-resolve the profile URL on mount so handleShare can call copyToClipboard
+  // without any async gap (Safari blocks clipboard access after async breaks the gesture chain)
+  useEffect(() => {
+    const resolveUrl = async () => {
+      const details = state.details;
+      if (!details) return;
+      const origin = typeof window !== "undefined" ? window.location.origin : "";
+      const { resolveAmbassadorSlug } = await import("@/util/resolveAmbassadorSlug");
+      const slug = await resolveAmbassadorSlug(details);
+      if (slug) setProfileUrl(`${origin}/ambassador/${slug}`);
+    };
+    resolveUrl();
   }, [state.details]);
 
   const handleShare = useCallback(async () => {
-    try {
-      const url = await getShareUrl();
-      if (!url) {
-        Swal.fire({
-          title: "Unable to build profile link",
-          position: "top-right",
-          icon: "error",
-          toast: true,
-          showConfirmButton: false,
-          timer: 3000,
-        });
-        return;
-      }
-      if (navigator?.clipboard?.writeText) {
-        await navigator.clipboard.writeText(url);
-      } else {
-        // Fallback: show manual copy dialog instead of using deprecated execCommand
-        await Swal.fire({
-          title: "Copy this link",
-          input: "text",
-          inputValue: url,
-          inputAttributes: { readonly: true },
-          confirmButtonText: "OK",
-        });
-      }
+    if (!profileUrl) {
+      Swal.fire({
+        title: "Unable to build profile link",
+        position: "top-right",
+        icon: "error",
+        toast: true,
+        showConfirmButton: false,
+        timer: 3000,
+      });
+      return;
+    }
+
+    const copyOk = await copyToClipboard(profileUrl);
+
+    if (copyOk) {
       Swal.fire({
         title: toastAlert("linkCopied"),
         position: "top-right",
@@ -684,18 +679,45 @@ const AthleteProfile = ({ id, subRole, initialDetails, initialCampaigns }) => {
         showConfirmButton: false,
         timer: 2500,
       });
-    } catch (err) {
-      console.error("Failed to copy profile link:", err);
-      Swal.fire({
-        title: toastAlert("failedLink"),
-        position: "top-right",
-        icon: "error",
-        toast: true,
-        showConfirmButton: false,
-        timer: 3000,
+    } else {
+      // iOS Safari fallback: show textarea so user can manually copy
+      await Swal.fire({
+        title: t("copyManually") || "Tap the link to copy",
+        html: `
+          <textarea
+            readonly
+            id="shareProfileTextArea"
+            style="
+              width: 100%;
+              min-height: 80px;
+              background: #f3f4f6;
+              padding: 12px;
+              border-radius: 8px;
+              border: 1px solid #d1d5db;
+              margin: 16px 0;
+              word-break: break-all;
+              font-size: 14px;
+              resize: none;
+              font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            "
+          >${profileUrl}</textarea>
+          <p style="font-size: 14px; color: #6b7280; margin-top: 12px;">
+            ${t("copyInstructions") || "Tap the link above to select it, then tap 'Copy' from the menu"}
+          </p>
+        `,
+        confirmButtonText: toastAlert("ok") || "OK",
+        customClass: { confirmButton: "confirmButton" },
+        didOpen: () => {
+          const textarea = document.getElementById("shareProfileTextArea");
+          if (textarea) {
+            textarea.focus();
+            textarea.select();
+            textarea.setSelectionRange(0, textarea.value.length);
+          }
+        },
       });
     }
-  }, [getShareUrl, toastAlert]);
+  }, [profileUrl, toastAlert, t]);
 
   const carouselData = useMemo(
     () =>
