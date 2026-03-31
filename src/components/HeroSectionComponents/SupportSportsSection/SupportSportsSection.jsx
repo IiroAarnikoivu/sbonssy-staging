@@ -75,16 +75,8 @@ const SupportSportsSection = () => {
             ))}
           </div>
 
-          {/* Right Column - Image */}
-          <div className="relative w-full aspect-square lg:aspect-[4/5]">
-            <Image
-              src="https://res.cloudinary.com/dz2506ydg/image/upload/v1771945749/sbonssy-storefront_xe4kzh.webp"
-              alt="Support Sports"
-              fill
-              className="object-contain"
-              sizes="(max-width: 1024px) 100vw, 50vw"
-            />
-          </div>
+          {/* Right Column - Image (temporarily replaced for debugging) */}
+          <div className="relative w-full aspect-square lg:aspect-[4/5] bg-gray-200" />
         </div>
       </DefaultLayout>
     </section>
