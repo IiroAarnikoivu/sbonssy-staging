@@ -78,7 +78,7 @@ const SupportSportsSection = () => {
           {/* Right Column - Image */}
           <div className="w-full flex justify-center">
             <Image
-              src="https://res.cloudinary.com/dz2506ydg/image/upload/v1771945749/sbonssy-storefront_xe4kzh.webp"
+              src="https://res.cloudinary.com/dz2506ydg/image/upload/f_auto,q_80,w_800/v1771945749/sbonssy-storefront_xe4kzh.webp"
               alt="Support Sports"
               width={600}
               height={600}
