@@ -11,6 +11,7 @@ import { sanitizeHtml } from "@/util/sanitizeHtml";
  * @param {string} [props.searchQuery=""]
  * @param {(v: string) => void} [props.setSearchQuery=() => {}]
  * @param {boolean} [props.termsAccepted=false]
+ * @param {string} [props.buttonStatus=""]
  * @param {{role?: string}} [props.user]
  * @param {Object<string,string>} [props.productProfileStatuses={}]
  * @param {Object<string,boolean>} [props.loadingProductProfile={}]
@@ -24,6 +25,7 @@ const ProductsGrid = ({
   searchQuery = "",
   setSearchQuery = () => {},
   termsAccepted = false,
+  buttonStatus = "",
   user = {},
   productProfileStatuses = {},
   loadingProductProfile = {},
@@ -108,7 +110,7 @@ const ProductsGrid = ({
                     {product.currency || "USD"}{" "}
                     {Number.parseFloat(product.price || "0").toFixed(2)}
                   </div>
-                  {termsAccepted && user?.role === "sports-ambassador" && (
+                  {termsAccepted && user?.role === "sports-ambassador" && buttonStatus === "joined" && (
                     <div className="mt-auto pt-3 border-t border-gray-200 space-y-2">
                       <div className="relative">
                         <button
