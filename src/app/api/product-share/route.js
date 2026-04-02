@@ -7,6 +7,7 @@ import FavoriteProduct from "@/models/FavoriteProduct";
 import { toCamelCase } from "@/lib/helper";
 import Campaign from "@/models/Campaign";
 import ShopifyClient, { createShopifyClient } from "@/util/shopifyClient";
+import { createShortLink } from "@/lib/shortLink";
 
 // Fallback constant for development
 const DEFAULT_BASE_URL = process.env.NEXTAUTH_URL || "http://localhost:5200";
@@ -279,11 +280,14 @@ export async function POST(req) {
       if (shopifyProductId) landingPageUrl.searchParams.set("productId", String(shopifyProductId));
 
       const shareUrl = landingPageUrl.toString();
+      console.log("[product-share] Original long URL (landing page):", shareUrl);
+      const shortUrl = await createShortLink(shareUrl, BASE_URL);
+      console.log("[product-share] Short URL:", shortUrl);
 
       return NextResponse.json(
         {
           message: "Product share link generated (Sbonssy tracking)",
-          shareUrl,
+          shareUrl: shortUrl,
           success: true,
         },
         { status: 201 }
@@ -365,9 +369,12 @@ export async function POST(req) {
     }
 
     const shareUrl = redirectUrl.toString();
+    console.log("[product-share] Original long URL (shopify redirect):", shareUrl);
+    const shortUrl = await createShortLink(shareUrl, BASE_URL);
+    console.log("[product-share] Short URL:", shortUrl);
 
     return NextResponse.json(
-      { message: "Product share URL generated (Shopify redirect)", shareUrl, success: true },
+      { message: "Product share URL generated (Shopify redirect)", shareUrl: shortUrl, success: true },
       { status: 201 }
     );
   } catch (error) {

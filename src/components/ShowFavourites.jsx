@@ -13,6 +13,7 @@ import { useAuthStore } from "@/store/authStore";
 import Link from "next/link";
 import { useCampaigns } from "@/hook/useCampaigns";
 import { useRouter } from "next/navigation";
+import { copyToClipboard } from "@/lib/clipboard";
 
 const getOptimizedUrl = (url, width = 800) => {
   if (typeof url !== "string" || !url.includes("cloudinary")) return url;
@@ -175,6 +176,64 @@ const ShowFavourites = ({
       Swal.fire({
         title: toastAlert("error") || "Error",
         text: error?.message || "Could not generate share link",
+        position: "top-right",
+        icon: "error",
+        toast: true,
+        showConfirmButton: false,
+        timer: 3000,
+      });
+    } finally {
+      setLoadingProductShare((prev) => ({ ...prev, [productId]: false }));
+    }
+  };
+
+  const handleCopyLink = async (e, favorite) => {
+    e.stopPropagation();
+    const product = favorite.productData;
+    const productId = product?.shopifyProductId || favorite.productId;
+    if (!productId) return;
+
+    setLoadingProductShare((prev) => ({ ...prev, [productId]: true }));
+    try {
+      const response = await api.post("/product-share", {
+        productId,
+        override: {
+          campaignTrackingId: product?.campaignTrackingId || undefined,
+          handle: product?.handle || undefined,
+        },
+      });
+
+      if (!response?.success || !response?.shareUrl) {
+        throw new Error(response?.message || "Failed to generate product link");
+      }
+
+      const copied = await copyToClipboard(response.shareUrl);
+      if (copied) {
+        Swal.fire({
+          title: "Link copied!",
+          position: "top-right",
+          icon: "success",
+          toast: true,
+          showConfirmButton: false,
+          timer: 2000,
+        });
+      } else {
+        await Swal.fire({
+          title: "Tap to copy",
+          html: `<textarea readonly id="copyLinkArea" style="width:100%;min-height:60px;background:#f3f4f6;padding:12px;border-radius:8px;border:1px solid #d1d5db;word-break:break-all;font-size:14px;resize:none;">${response.shareUrl}</textarea>`,
+          confirmButtonText: "OK",
+          customClass: { confirmButton: "confirmButton" },
+          didOpen: () => {
+            const el = document.getElementById("copyLinkArea");
+            if (el) { el.focus(); el.select(); el.setSelectionRange(0, el.value.length); }
+          },
+        });
+      }
+    } catch (error) {
+      console.error("Copy link error:", error);
+      Swal.fire({
+        title: toastAlert("error") || "Error",
+        text: error?.message || "Could not generate link",
         position: "top-right",
         icon: "error",
         toast: true,
@@ -362,6 +421,7 @@ const ShowFavourites = ({
                           favorite={{...favorite, isPriority: i < 4}}
                           product={product}
                           onRemove={onProductRemove}
+                          onCopyLink={(e) => handleCopyLink(e, favorite)}
                           resolvedBrand={resolvedBrand}
                           user={user}
                           id={id}
@@ -387,6 +447,7 @@ const ProductCard = ({
   favorite,
   product,
   onRemove,
+  onCopyLink,
   id,
   user,
   resolvedBrand,
@@ -478,18 +539,16 @@ const ProductCard = ({
                 {Number.parseFloat(product.price || "0").toFixed(2)}
         </div>
         {user?.onboardedDetails?.supabaseId === id && (
-          <>
-            {/* Optionally enable product removal */}
-            <button
-              onClick={handleRemoveProduct}
-              className="absolute right-2 top-2 bg-gray-400 rounded-full w-[22px] h-[22px]"
-            >
-              <span className="!p-1 block">
-                <IconsLibrary name={"MenuCloseToogle"} />
-              </span>
-              {/* {t("remove")} */}
-            </button>
-          </>
+          <button
+            onClick={onCopyLink}
+            className="absolute right-2 top-2 bg-black rounded-full w-[22px] h-[22px] flex items-center justify-center"
+            title="Copy link"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="w-3 h-3">
+              <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+              <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+            </svg>
+          </button>
         )}
         {/* <button
           onClick={handleRemoveProduct}
