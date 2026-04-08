@@ -147,6 +147,7 @@ const SocialMediaLinks = ({ socialMedia }) => {
 //   );
 // };
 const ProfileTabs = ({ activeTab, setActiveTab, subRoleData, t }) => {
+  const [bioExpanded, setBioExpanded] = useState(false);
   // Create tabs array only for items that have data
   const tabs = useMemo(() => {
     const availableTabs = [];
@@ -175,11 +176,25 @@ const ProfileTabs = ({ activeTab, setActiveTab, subRoleData, t }) => {
 
     if (subRoleData?.biography) {
       content[t("tabs.Biography")] = (
-        <div
-          className="text-gray-700 space-y-4 mb-2"
-          title={subRoleData.biography}
-        >
-          <p className="text-justify break-words whitespace-pre-wrap">{subRoleData.biography}</p>
+        <div className="text-gray-700 space-y-2 mb-2">
+          <div className="relative">
+            <p
+              className={`text-justify break-words whitespace-pre-wrap ${
+                !bioExpanded ? "line-clamp-4" : ""
+              }`}
+            >
+              {subRoleData.biography}
+            </p>
+            {!bioExpanded && (
+              <div className="absolute bottom-0 left-0 right-0 h-6 bg-gradient-to-t from-white to-transparent pointer-events-none" />
+            )}
+          </div>
+          <button
+            onClick={() => setBioExpanded((prev) => !prev)}
+            className="text-sm text-[#F26915] font-medium mt-1"
+          >
+            {bioExpanded ? "Read less" : "Read more"}
+          </button>
         </div>
       );
     }
@@ -209,7 +224,7 @@ const ProfileTabs = ({ activeTab, setActiveTab, subRoleData, t }) => {
     }
 
     return content;
-  }, [subRoleData, t]);
+  }, [subRoleData, t, bioExpanded, setBioExpanded]);
 
   // If no tabs have data, don't render anything
   if (tabs.length === 0) {
@@ -893,8 +908,8 @@ const AthleteProfile = ({ id, subRole, initialDetails, initialCampaigns }) => {
             )}
             <DefaultLayout>
               <div className="flex flex-col  gap-[32px]">
-                <div className="w-fit mx-auto pt-8 md:pt-12">
-                  <div className="w-full relative max-w-[150px] mx-auto aspect-square">
+                <div className="flex flex-row md:flex-col md:items-center gap-4 pt-8 md:pt-12 w-full md:w-fit md:mx-auto">
+                  <div className="relative self-stretch aspect-square md:w-[150px] md:mx-auto shrink-0">
                     {user?.role === "brand" && (
                       <button
                         onClick={() => handleFavourites(state.details?._id)}
@@ -946,13 +961,13 @@ const AthleteProfile = ({ id, subRole, initialDetails, initialCampaigns }) => {
                       alt="Athlete"
                       width={512}
                       height={512}
-                      className="w-full aspect-square object-cover rounded-[15px]"
+                      className="w-full h-full object-cover rounded-[15px]"
                       priority
                       sizes="(max-width: 768px) 150px, 300px"
                     />
                   </div>
 
-                  <div className="text-black text-center">
+                  <div className="text-black text-left md:text-center">
                     <h2 className="text-lg lg:text-[30px] py-[5px] font-regular capitalize mt-2">
                       {(subRole === "team" && subRoleData?.teamClubName
                         ? subRoleData?.teamClubName
@@ -979,7 +994,7 @@ const AthleteProfile = ({ id, subRole, initialDetails, initialCampaigns }) => {
                     {/* Edit and Share buttons for profile owner */}
                     {/* Edit and Share buttons for profile owner */}
                     {user?.id === id && (
-                      <div className="flex gap-2 justify-center mb-4">
+                      <div className="hidden md:flex gap-2 justify-center mb-4">
                         {user?.onboardedDetails?.permission === "Can View" ? (
                           <button
                             className="bg-orange text-white py-2 px-5 rounded-full text-sm cursor-pointer transition whitespace-nowrap hover:bg-orange/90"
@@ -1026,6 +1041,42 @@ const AthleteProfile = ({ id, subRole, initialDetails, initialCampaigns }) => {
                     <SocialMediaLinks socialMedia={subRoleData?.socialMedia} />
                   </div>
                 </div>
+
+                {user?.id === id && (
+                  <div className="flex md:hidden gap-2 mb-2">
+                    {user?.onboardedDetails?.permission === "Can View" ? (
+                      <button
+                        className="bg-orange text-white py-2 px-5 rounded-full text-sm cursor-pointer transition whitespace-nowrap hover:bg-orange/90"
+                        onClick={() => {
+                          Swal.fire({
+                            title: toastAlert("denied"),
+                            text: toastAlert("permissionText"),
+                            icon: "info",
+                            showConfirmButton: true,
+                            timerProgressBar: false,
+                            timer: 5000,
+                          });
+                        }}
+                      >
+                        {t("edit")}
+                      </button>
+                    ) : (
+                      <Link
+                        href="/sports-ambassador/form"
+                        className="bg-orange text-white py-2 px-5 rounded-full text-sm cursor-pointer transition whitespace-nowrap hover:bg-orange/90 flex items-center justify-center"
+                        onMouseEnter={() => router.prefetch("/sports-ambassador/form")}
+                      >
+                        {t("edit")}
+                      </Link>
+                    )}
+                    <button
+                      className="bg-orange text-white py-2 px-5 rounded-full text-sm cursor-pointer transition whitespace-nowrap hover:bg-orange/90"
+                      onClick={handleShare}
+                    >
+                      {t("share")}
+                    </button>
+                  </div>
+                )}
 
                 <div className="w-full lg:w-fit lg:max-w-[740px] mx-auto">
                   <ProfileTabs

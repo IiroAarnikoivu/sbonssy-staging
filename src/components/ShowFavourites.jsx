@@ -394,10 +394,10 @@ const ShowFavourites = ({
           )} */}
 
           {/* Favorite Products Section */}
-          <div className="mb-5 mt-[63px] lg:mt-[80px]">
+          <div className="mb-5 mt-[30px] lg:mt-[80px]">
             {favoriteProducts.length > 0 && (
               <div className="mb-12">
-                <h3 className="text-2xl text-[#0C0D06] mb-6 ">
+                <h3 className="hidden md:block text-2xl text-[#0C0D06] mb-6">
                   {t("fvrtProducts")}
                 </h3>
                 <div className="grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-8">
